@@ -12,6 +12,7 @@
 - [ ] Android [Google Developers Training  |  Google Developers - Build your Android development skills](https://developers.google.com/training/android/)
 - [ ] Web [Google Developers Training  |  Google Developers - Take free online courses to improve your web development skills](https://developers.google.com/training/web/)
 - [ ] Crypto [Cryptography I | Coursera](https://www.coursera.org/learn/crypto) (7 weeks)
+- [ ] Language [簡単なプログラミング言語を作るライブコーディング](https://www.youtube.com/watch?v=JAtN0TGrNE4&app=desktop)
 
 ## Books
 
