@@ -47,6 +47,7 @@
 - Text Processing
 - Character Code
 - Regular Expression
+- Programming Language
 
 - UI
 - Design
