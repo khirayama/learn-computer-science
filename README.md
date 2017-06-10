@@ -23,6 +23,7 @@
 - [Students - Guide to Technical Development - Google Careers](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Rubyソースコード完全解説](http://i.loveruby.net/ja/rhg/book/)
 - [Linuxネットワークプログラミング:Geekなぺーじ](http://www.geekpage.jp/programming/linux-network/)
+- [Goならわかるシステムプログラミング](http://ascii.jp/elem/000/001/235/1235262/)
 
 ## Memo
 
