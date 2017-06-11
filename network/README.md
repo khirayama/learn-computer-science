@@ -62,7 +62,28 @@ $ ifconfig -a
 - サブネットマスクでANDを取れば、ネットワークアドレスが得られる。
 - IPアドレスなどの確認には `ifconfig` コマンドが、接続確認には `ping` コマンドが用いられる。
 
+### Part 2
+
+#### Words
+
+#### Commands
+
+#### Contents
+
 ## Questions
 
 - MACアドレスとは...
 - IPアドレスは何が振ってるの？
+
+- - -
+
+format
+
+### Part ?
+
+#### Words
+
+#### Commands
+
+#### Contents
+
