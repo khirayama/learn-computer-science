@@ -52,6 +52,7 @@
 - Character Code
 - Regular Expression
 - Programming Language
+- Browser
 
 - UI
 - Design
