@@ -1,6 +1,7 @@
 ## Expression
 
 I see.
+なるほど。
 
 Sure?
 マジ？
@@ -8,6 +9,7 @@ Sure?
 I envy you.
 うらやましい
 
+How did it go?
 結果はどう？
 
 Do
