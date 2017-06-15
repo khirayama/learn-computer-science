@@ -24,6 +24,7 @@
 - [Rubyソースコード完全解説](http://i.loveruby.net/ja/rhg/book/)
 - [Linuxネットワークプログラミング:Geekなぺーじ](http://www.geekpage.jp/programming/linux-network/)
 - [Goならわかるシステムプログラミング](http://ascii.jp/elem/000/001/235/1235262/)
+- [検索エンジンはいかにして動くのか？](http://gihyo.jp/dev/serial/01/search-engine)
 
 ## Memo
 
