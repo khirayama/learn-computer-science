@@ -12,6 +12,9 @@ I envy you.
 How did it go?
 結果はどう？
 
+Oh, you know what?
+あ、そういえば。
+
 Do
 do + 動詞っぽい名詞で~する。という感じになる。
 しかも目的語を取る必要があまりなく非常に便利。
