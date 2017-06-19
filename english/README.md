@@ -18,6 +18,8 @@ How did it go?
 Oh, you know what?
 あ、そういえば。
 
+## Verb
+
 Do
 do + 動詞っぽい名詞で~する。という感じになる。
 しかも目的語を取る必要があまりなく非常に便利。
@@ -26,6 +28,11 @@ I'll do some investigation. ちょっと調べて見ます。
 See
 わかる。見る。理解する。などであるが、「捉える」という感じも便利。
 I don't see any issue with your approch. そのやり方で問題ないと思うよ。
+
+avoid
+make
+want
+borrow
 
 ### Self Introduce
 
@@ -57,13 +64,6 @@ Could you feel free to bring your ideas to the table.
 
 To sum up, our clients are highly satisfied with our service.
 まとめると、クライアントは私たちのサービスに非常に満足しています。
-
-## Verb
-
-avoid
-make
-want
-borrow
 
 ## How to
 
