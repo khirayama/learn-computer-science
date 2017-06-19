@@ -1,5 +1,8 @@
 ## Expression
 
+You need to make the most of it!
+それを思いっきり楽しまなきゃ！
+
 I see.
 なるほど。
 
