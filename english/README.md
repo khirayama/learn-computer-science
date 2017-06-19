@@ -36,6 +36,21 @@ borrow
 
 ### Self Introduce
 
+My name is Kotaro Hirayama.
+But please call me Hira.
+
+I was born and raised in Nagasaki.
+I worked at startup company in Tokyo, After receiving master degree of mechanical engineering in Fukuoka.
+
+I'm JavaScript developer.
+I just started learning English.
+
+I enjoy drinking.
+In my freetime, I like reading and cooking.
+In addition, I like to wash dishes.
+
+Thank you.
+
 ### Meeting / Disucession
 
 No chice.
