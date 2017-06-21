@@ -18,6 +18,13 @@ How did it go?
 Oh, you know what?
 あ、そういえば。
 
+うれしい！
+
+あなたは、「色々な人と会うのが楽しい。」と言いました。
+印象深い生徒は誰ですか。
+You said, "It is fun to meet various people."
+Who is your impressive student?
+
 ## Verb
 
 Do
