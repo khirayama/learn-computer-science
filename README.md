@@ -25,6 +25,8 @@
 - [Linuxネットワークプログラミング:Geekなぺーじ](http://www.geekpage.jp/programming/linux-network/)
 - [Goならわかるシステムプログラミング](http://ascii.jp/elem/000/001/235/1235262/)
 - [検索エンジンはいかにして動くのか？](http://gihyo.jp/dev/serial/01/search-engine)
+- [Go言語で学ぶコンピュータサイエンス (ネットワーク編①)](https://qiita.com/yamad07/items/0d45c4ad4b025b8c3eb5)
+- [差分検出アルゴリズム三種盛り](http://susisu.hatenablog.com/entry/2017/10/09/134032)
 
 ## Memo
 
