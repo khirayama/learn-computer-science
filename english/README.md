@@ -1,5 +1,41 @@
 ## Expression
 
+What was that?
+今なんていいました？
+
+Does it make sense?
+意味がわかりますか？
+
+So far, so good.
+今のところ順調
+
+No chice.
+仕方ない
+
+Let me make sure.
+ちょっと確認したいんだけど
+
+Are you alright?
+大丈夫？
+
+Are you feeling alright?
+具合は大丈夫？
+
+Is something wrong?
+なにかあったの？
+
+What do you recommend.
+オススメは？
+
+I’m so jealous!
+羨ましい
+
+You’re so lucky!
+いいな、ラッキーだね！
+
+I envy you.
+羨ましいです
+
 You need to make the most of it!
 それを思いっきり楽しまなきゃ！
 
