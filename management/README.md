@@ -40,6 +40,8 @@
 - 12 Manager READMEs from Silicon Valley s Top Tech Companies https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
 - データの鬼、Googleが解析した「よい上司を製造する8つの条件」 http://dailynewsagency.com/2013/04/06/project-oxygen/
 - メルカリの小泉さんと組織の課題について話したら恐ろしい程勉強になった話 https://medium.com/tsukuruba/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%81%AE%E5%B0%8F%E6%B3%89%E3%81%95%E3%82%93%E3%81%A8%E7%B5%84%E7%B9%94%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%A9%B1%E3%81%97%E3%81%9F%E3%82%89%E6%81%90%E3%82%8D%E3%81%97%E3%81%84%E7%A8%8B%E5%8B%89%E5%BC%B7%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E8%A9%B1-b6f10773566d
+- エンジニア組織をリードする人のことを考えた話 http://nozayasu.hatenablog.com/entry/2018/07/10/022857
+- 好きな日に働く、嫌いな仕事はしないのエビ工場が本音を語る https://note.mu/hokutomuto/n/nd7a95073a47c
 
 ## メモ
 
