@@ -1,65 +1,30 @@
 ## Expression
 
-What was that?
-今なんていいました？
-
-Does it make sense?
-意味がわかりますか？
-
-So far, so good.
-今のところ順調
-
-No chice.
-仕方ない
-
-Let me make sure.
-ちょっと確認したいんだけど
-
-Are you alright?
-大丈夫？
-
-Are you feeling alright?
-具合は大丈夫？
-
-Is something wrong?
-なにかあったの？
-
-What do you recommend.
-オススメは？
-
-I’m so jealous!
-羨ましい
-
-You’re so lucky!
-いいな、ラッキーだね！
-
-I envy you.
-羨ましいです
-
-You need to make the most of it!
-それを思いっきり楽しまなきゃ！
-
-I see.
-なるほど。
-
-Sure?
-マジ？
-
-I envy you.
-うらやましい
-
-How did it go?
-結果はどう？
-
-Oh, you know what?
-あ、そういえば。
-
-うれしい！
-
-あなたは、「色々な人と会うのが楽しい。」と言いました。
-印象深い生徒は誰ですか。
-You said, "It is fun to meet various people."
-Who is your impressive student?
+What was that? 今なんていいました？
+Does it make sense? 意味がわかりますか？
+So far, so good. 今のところ順調
+No chice. 仕方ない
+Let me make sure. ちょっと確認したいんだけど
+Are you alright? 大丈夫？
+Are you feeling alright? 具合は大丈夫？
+Is something wrong? なにかあったの？
+What do you recommend. オススメは？
+I'm so jealous! 羨ましい
+I envy you. 羨ましい
+You're so lucky! いいな、ラッキーだね！
+You need to make the most of it! それを思いっきり楽しまなきゃ！
+I see. なるほど。
+I get it. なるほど。
+Sure? マジ？
+How did it go? 結果はどう？
+Oh, you know what? あ、そういえば。
+So far, so good. 今のところ順調。
+Well... えーと...
+Let's see... えーと...
+You know... ほら...
+How can I say. なんていうのかな〜
+Could you feel free to bring your ideas to the table. 遠慮なくアイディアを聞かせてください。
+To sum up, our clients are highly satisfied with our service. まとめると、クライアントは私たちのサービスに非常に満足しています。
 
 ## Verb
 
@@ -85,52 +50,7 @@ avoid
 make
 want
 borrow
-
-### Self Introduce
-
-My name is Kotaro Hirayama.
-But please call me Hira.
-
-I was born and raised in Nagasaki.
-I worked at startup company in Tokyo, After receiving master degree of mechanical engineering in Fukuoka.
-
-I'm JavaScript developer.
-I just started learning English.
-
-I enjoy drinking.
-In my freetime, I like reading and cooking.
-In addition, I like to wash dishes.
-
-Thank you.
-
-### Meeting / Disucession
-
-No chice.
-仕方ないよ。
-
-So far, so good.
-今のところ順調。
-
-Well...
-えーと...
-
-Let's see...
-えーと...
-
-You know...
-ほら...
-
-How can I say.
-なんていうのかな〜
-
-Does it make sense?
-意味がわかりますか。
-
-Could you feel free to bring your ideas to the table.
-遠慮なくアイディアを聞かせてください。
-
-To sum up, our clients are highly satisfied with our service.
-まとめると、クライアントは私たちのサービスに非常に満足しています。
+postpone
 
 ## How to
 
