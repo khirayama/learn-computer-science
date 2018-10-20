@@ -5,7 +5,7 @@
 #include <string.h>
 
 static char *p;
-static func[26][100];
+static char func[26][100];
 
 __attribute__((noreturn)) static void error(char *fmt, ...) {
   va_list ap;
@@ -15,19 +15,41 @@ __attribute__((noreturn)) static void error(char *fmt, ...) {
   exit(1);
 }
 
+static void read_util(char c, char *buf) {
+  for (; *p != c; p++, buf++)
+    *buf = *p;
+    p++;
+    *buf = '\0';
+}
+
+static void expect(char c) {
+  if (*p != c)
+    error("%c expected: %s", p);
+    p++;
+}
+
+static int eval(int *args);
+
+static int eval_string(char *code, int *args) {
+  char *orig = p;
+  p = code;
+  int val = eval(args);
+  p = orig;
+  return val;
+}
+
 static void skip() {
   while (isspace(*p))
     p++;
 }
 
 // 入力を読んで、入力を返す
-static int eval() {
+static int eval(int *args) {
   skip();
 
-  // Function parameter
-  if (*p == '.') {
-    p++;
-    return arg;
+  // Function parameter - 小文字のa-zを仮引数として使える
+  if ('a' <= *p && *p <= 'z') {
+    return args[*p++ - 'a'];
   }
 
   // Function definition
@@ -35,6 +57,28 @@ static int eval() {
     p += 2;
   }
 
+  // "P" print primitive
+  if (*p == 'P') {
+    p++;
+    expect('(');
+    int val = eval(args);
+    expect(')');
+    printf("%d\n", val);
+    return val;
+  }
+
+  // Function application
+  if ('A' <= *p && *p <= 'Z' && p[1] == '(') {
+    int newargs[26];
+    char name = *p;
+    p += 2;
+
+    int i = 0;
+    for (skip(); *p != ')'; skip())
+      newargs[i++] = eval(args);
+    expect(')');
+    return eval_string(func[name - 'A'], newargs);
+  }
 
   // Literal numbers
   if (isdigit(*p)) {
@@ -47,8 +91,8 @@ static int eval() {
   // Arithmetic operators
   if (strchr("+-*/", *p)) {
     int op = *p++;
-    int x = eval();
-    int y = eval();
+    int x = eval(args);
+    int y = eval(args);
 
     switch (op) {
       case '+': return x + y;
@@ -64,7 +108,7 @@ static int eval() {
 int main(int argc, char **argv) {
   p = argv[1];
   while (*p)
-    printf("%d\n", eval());
+    printf("%d\n", eval(0));
 
   return 0;
 }
