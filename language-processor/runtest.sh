@@ -39,6 +39,10 @@ runtest 'F[+ a 3] F(0)' 3
 runtest 'F[- a 5] G[F(a)] G(0)' -5
 runtest 'F[- a 5] G[F(+ a 5)] G(0)' 0
 runtest 'F[- a 5] G[F(+ a 10)] G(0)' 5
-runtest 'F(* a b) F(3 5)' 15
+runtest 'F[* a b] F(3 5)' 15
+
+echo '=== built-in functions ==='
+runtest 'P(5)' '5
+5'
 
 echo OK
