@@ -46,6 +46,8 @@
 - コマツが世界2位の建機メーカーになれたのは「人事」に理由があった https://diamond.jp/articles/-/174707
 - チームについて https://blog.sushi.money/entry/2018/08/01/090441?amp=1
 - エンジニアリングマネージャーという仕事について http://kobakei.hatenadiary.jp/entry/2018/08/29/230814
+- 1on1や会議で使える！ファシリテーション研修レポート https://developers.cyberagent.co.jp/blog/archives/18348/
+- CTO/VPoE/TechLead(スペシャリスト)の仕事って一体どう言う役割分担なの？みたいなことを聞かれる。 https://mobile.twitter.com/hiroki_daichi/status/1050671531288752130?s=19
 
 ## メモ
 
