@@ -15,27 +15,11 @@ __attribute__((noreturn)) static void error(char *fmt, ...) {
   exit(1);
 }
 
-static void read_util(char c, char *buf) {
+static void read_until(char c, char *buf) {
   for (; *p != c; p++, buf++)
     *buf = *p;
-    p++;
-    *buf = '\0';
-}
-
-static void expect(char c) {
-  if (*p != c)
-    error("%c expected: %s", p);
-    p++;
-}
-
-static int eval(int *args);
-
-static int eval_string(char *code, int *args) {
-  char *orig = p;
-  p = code;
-  int val = eval(args);
-  p = orig;
-  return val;
+  p++;
+  *buf = '\0';
 }
 
 static void skip() {
@@ -43,18 +27,37 @@ static void skip() {
     p++;
 }
 
-// 入力を読んで、入力を返す
+static void expect(char c) {
+  if (*p != c)
+    error("%c expected: %s", c, p);
+  p++;
+}
+
+static int eval(int *args);
+
+static int eval_string(char *code, int *args) {
+  char *orig = p;
+  p = code;
+  int val;
+  while (*p)
+    val = eval(args);
+  p = orig;
+  return val;
+}
+
 static int eval(int *args) {
   skip();
 
-  // Function parameter - 小文字のa-zを仮引数として使える
-  if ('a' <= *p && *p <= 'z') {
+  // Function parameter
+  if ('a' <= *p && *p <= 'z')
     return args[*p++ - 'a'];
-  }
 
   // Function definition
   if ('A' <= *p && *p <= 'Z' && p[1] == '[') {
+    char name = *p;
     p += 2;
+    read_until(']', func[name - 'A']);
+    return eval(args);
   }
 
   // "P" print primitive
@@ -95,10 +98,10 @@ static int eval(int *args) {
     int y = eval(args);
 
     switch (op) {
-      case '+': return x + y;
-      case '-': return x - y;
-      case '*': return x * y;
-      case '/': return x / y;
+    case '+': return x + y;
+    case '-': return x - y;
+    case '*': return x * y;
+    case '/': return x / y;
     }
   }
 
@@ -109,6 +112,5 @@ int main(int argc, char **argv) {
   p = argv[1];
   while (*p)
     printf("%d\n", eval(0));
-
   return 0;
 }
