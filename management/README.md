@@ -48,6 +48,7 @@
 - エンジニアリングマネージャーという仕事について http://kobakei.hatenadiary.jp/entry/2018/08/29/230814
 - 1on1や会議で使える！ファシリテーション研修レポート https://developers.cyberagent.co.jp/blog/archives/18348/
 - CTO/VPoE/TechLead(スペシャリスト)の仕事って一体どう言う役割分担なの？みたいなことを聞かれる。 https://mobile.twitter.com/hiroki_daichi/status/1050671531288752130?s=19
+- 継続は力なり―大器晩成エンジニアを目指して http://gihyo.jp/dev/serial/01/continue-power
 
 ## メモ
 
