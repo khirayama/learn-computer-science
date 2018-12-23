@@ -49,6 +49,9 @@
 - 1on1や会議で使える！ファシリテーション研修レポート https://developers.cyberagent.co.jp/blog/archives/18348/
 - CTO/VPoE/TechLead(スペシャリスト)の仕事って一体どう言う役割分担なの？みたいなことを聞かれる。 https://mobile.twitter.com/hiroki_daichi/status/1050671531288752130?s=19
 - 継続は力なり―大器晩成エンジニアを目指して http://gihyo.jp/dev/serial/01/continue-power
+- 【翻訳】「シリコンバレーから生まれた最高の文書」と絶賛されたNetflixのカルチャーガイド全文 http://tkybpp.hatenablog.com/entry/2018/05/16/073000
+- 最近『心理的安全性』って言葉が流行ってるけど、なんとなく『忌憚無く意見が言える環境』の意味で使われててちょっと矮小解釈のような気がしてる 心理的安全を高めるための行動は次の3つ ・仕事を実行機会ではなく学習機会と捉える ・自分が間違うことを認める ・好奇心に基づき積極的に質問する https://mobile.twitter.com/hik0107/status/1076138073518264320?s=19
+- エンジニアがはてなでマネージャーをやるということ https://blog.song.mu/entry/hatena-director-advent-calendar-2016-15
 
 ## メモ
 
