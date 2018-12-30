@@ -52,6 +52,8 @@
 - 【翻訳】「シリコンバレーから生まれた最高の文書」と絶賛されたNetflixのカルチャーガイド全文 http://tkybpp.hatenablog.com/entry/2018/05/16/073000
 - 最近『心理的安全性』って言葉が流行ってるけど、なんとなく『忌憚無く意見が言える環境』の意味で使われててちょっと矮小解釈のような気がしてる 心理的安全を高めるための行動は次の3つ ・仕事を実行機会ではなく学習機会と捉える ・自分が間違うことを認める ・好奇心に基づき積極的に質問する https://mobile.twitter.com/hik0107/status/1076138073518264320?s=19
 - エンジニアがはてなでマネージャーをやるということ https://blog.song.mu/entry/hatena-director-advent-calendar-2016-15
+- Amazonシアトル本社の英語面接対策のために僕がしたこと https://honkiku.com/prepare-for-interview/?amp=1
+- エンジニアにも役に立つ、MBAで学んだ基礎スキル 20選 https://qiita.com/sue738/items/97b602debf680183c4e7
 
 ## メモ
 
