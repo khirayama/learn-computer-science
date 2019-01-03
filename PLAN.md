@@ -1,3 +1,8 @@
+# 2019
+
+- [ ] コンピュータサイエンス
+    - [ ] [BLOG] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
+
 # 2018
 
 - [ ] コンピュータサイエンス
