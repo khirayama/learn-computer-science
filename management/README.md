@@ -57,6 +57,8 @@
 - コミュ力もリーダーシップもいらない。元Google社員が語る、本当に優秀な人材とは https://www.huffingtonpost.jp/2018/01/16/piotr_a_23334437/
 - プロダクトマネジメントトライアングルと各社の PM の職責と JD https://medium.com/@tumada/product-management-triangle-job-description-d18d1855ef65
 - 【翻訳】プロダクトマネジメントトライアングル https://ninjinkun.hatenablog.com/entry/the-product-management-triangle-ja
+- 池澤あやか、Facebookの日本オフィスに突撃！――コーディング面接にチャレンジしてきました https://next.rikunabi.com/journal/20180524_c13_iq/
+- エンジニアと1on1をするときの事前面談シートテンプレート https://blog.shibayu36.org/entry/2018/12/17/193000
 
 ## メモ
 
