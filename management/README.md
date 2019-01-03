@@ -55,6 +55,8 @@
 - Amazonシアトル本社の英語面接対策のために僕がしたこと https://honkiku.com/prepare-for-interview/?amp=1
 - エンジニアにも役に立つ、MBAで学んだ基礎スキル 20選 https://qiita.com/sue738/items/97b602debf680183c4e7
 - コミュ力もリーダーシップもいらない。元Google社員が語る、本当に優秀な人材とは https://www.huffingtonpost.jp/2018/01/16/piotr_a_23334437/
+- プロダクトマネジメントトライアングルと各社の PM の職責と JD https://medium.com/@tumada/product-management-triangle-job-description-d18d1855ef65
+- 【翻訳】プロダクトマネジメントトライアングル https://ninjinkun.hatenablog.com/entry/the-product-management-triangle-ja
 
 ## メモ
 
