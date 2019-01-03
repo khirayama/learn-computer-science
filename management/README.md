@@ -54,6 +54,7 @@
 - エンジニアがはてなでマネージャーをやるということ https://blog.song.mu/entry/hatena-director-advent-calendar-2016-15
 - Amazonシアトル本社の英語面接対策のために僕がしたこと https://honkiku.com/prepare-for-interview/?amp=1
 - エンジニアにも役に立つ、MBAで学んだ基礎スキル 20選 https://qiita.com/sue738/items/97b602debf680183c4e7
+- コミュ力もリーダーシップもいらない。元Google社員が語る、本当に優秀な人材とは https://www.huffingtonpost.jp/2018/01/16/piotr_a_23334437/
 
 ## メモ
 
