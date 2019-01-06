@@ -59,6 +59,7 @@
 - 【翻訳】プロダクトマネジメントトライアングル https://ninjinkun.hatenablog.com/entry/the-product-management-triangle-ja
 - 池澤あやか、Facebookの日本オフィスに突撃！――コーディング面接にチャレンジしてきました https://next.rikunabi.com/journal/20180524_c13_iq/
 - エンジニアと1on1をするときの事前面談シートテンプレート https://blog.shibayu36.org/entry/2018/12/17/193000
+- 欧州クラブのチームモデル https://note.mu/yukes68/n/n19792f691121
 
 ## メモ
 
