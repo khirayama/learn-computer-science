@@ -1,7 +1,9 @@
 # 2019
 
 - [ ] コンピュータサイエンス
+  - [ ] プログラミング言語
     - [ ] [BLOG] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
+    - [x] [BLOG] [型システム 〜プログラムの安全性を支える数学〜](https://laborify.net/2018/12/09/igarashi_type_system/)
 
 # 2018
 
