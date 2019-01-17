@@ -61,6 +61,7 @@
 - エンジニアと1on1をするときの事前面談シートテンプレート https://blog.shibayu36.org/entry/2018/12/17/193000
 - 欧州クラブのチームモデル https://note.mu/yukes68/n/n19792f691121
 - ITエンジニアを採用した後に オンボーディングの取り組み方 https://itjinzai-lab.jp/article/detail/1386
+- コーチングとは何か図説してみた https://note.mu/kobaka7/n/n0e2de5bc2b9a
 
 ## メモ
 
