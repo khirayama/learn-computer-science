@@ -65,6 +65,8 @@
 - 心理的安全性を醸成するとパフォーマンスが急に高くなるんじゃなくて、「心理的安全性が高まると、"組織学習が促進されて"、その結果パフォーマンスと相関がある」っていうことを世の中の組織に関わる人に知ってほしいです。 https://mobile.twitter.com/marumalk/status/1086596826499665920?s=19
 - Stripe Atlas: エンジニアリング組織の規模拡大に関するガイド https://stripe.com/atlas/guides/scaling-eng?locale=ja
 - 成果を出すチームに共通する組織文化とは？（篠田真貴子）｜翻訳書ときどき洋書｜note https://note.mu/tuttlemori/n/na94cce8ec3e8
+- Square の採用プロセスについて https://medium.com/@oldergod/square-%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-8d95b8346917
+- 面接 - Google 人材募集 https://careers.google.com/intl/ja_jp/how-we-hire/interview/#interviews-for-software-engineering-and-technical-roles
 
 ## メモ
 
