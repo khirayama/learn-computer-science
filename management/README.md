@@ -62,6 +62,7 @@
 - 欧州クラブのチームモデル https://note.mu/yukes68/n/n19792f691121
 - ITエンジニアを採用した後に オンボーディングの取り組み方 https://itjinzai-lab.jp/article/detail/1386
 - コーチングとは何か図説してみた https://note.mu/kobaka7/n/n0e2de5bc2b9a
+- 心理的安全性を醸成するとパフォーマンスが急に高くなるんじゃなくて、「心理的安全性が高まると、"組織学習が促進されて"、その結果パフォーマンスと相関がある」っていうことを世の中の組織に関わる人に知ってほしいです。 https://mobile.twitter.com/marumalk/status/1086596826499665920?s=19
 
 ## メモ
 
