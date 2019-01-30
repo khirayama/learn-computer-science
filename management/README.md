@@ -69,6 +69,7 @@
 - 面接 - Google 人材募集 https://careers.google.com/intl/ja_jp/how-we-hire/interview/#interviews-for-software-engineering-and-technical-roles
 - Good Tech Lead, Bad Tech Lead｜Takayuki Sano｜note https://note.mu/ypponatoz/n/n3def2a796f4e
 - ２つのDXと技術的負債-YAPC Tokyo 2019 - Speaker Deck https://speakerdeck.com/hirokidaichi/2tufalsedxtoji-shu-de-fu-zhai-yapc-tokyo-2019
+- プロダクトマネジメントとは[新卒研修] - Speaker Deck https://speakerdeck.com/taishiblue/purodakutomanezimentotoha-xin-zu-yan-xiu
 
 ## メモ
 
