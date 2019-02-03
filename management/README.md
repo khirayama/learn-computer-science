@@ -70,6 +70,8 @@
 - Good Tech Lead, Bad Tech Lead｜Takayuki Sano｜note https://note.mu/ypponatoz/n/n3def2a796f4e
 - ２つのDXと技術的負債-YAPC Tokyo 2019 - Speaker Deck https://speakerdeck.com/hirokidaichi/2tufalsedxtoji-shu-de-fu-zhai-yapc-tokyo-2019
 - プロダクトマネジメントとは[新卒研修] - Speaker Deck https://speakerdeck.com/taishiblue/purodakutomanezimentotoha-xin-zu-yan-xiu
+- マネジメントとエンジニアリングの両立が難しいのはなぜか？のたとえ話 - 文字っぽいの。 https://fromatom.hatenablog.com/entry/2019/02/01/185049
+- マネージャーの視点から見える向こう側の景色｜Kazutaka Irie｜note https://note.mu/kazukomati/n/nd02cbddf40f5
 
 ## メモ
 
