@@ -72,6 +72,7 @@
 - プロダクトマネジメントとは[新卒研修] - Speaker Deck https://speakerdeck.com/taishiblue/purodakutomanezimentotoha-xin-zu-yan-xiu
 - マネジメントとエンジニアリングの両立が難しいのはなぜか？のたとえ話 - 文字っぽいの。 https://fromatom.hatenablog.com/entry/2019/02/01/185049
 - マネージャーの視点から見える向こう側の景色｜Kazutaka Irie｜note https://note.mu/kazukomati/n/nd02cbddf40f5
+- マネージャーがメンバーとの1on1で確認したいこと。今、注力していることは？OKRの進捗や課題感は？ より良い成果を実現するために、本人と周囲ができることは？ 今後のキャリアで興味あることは？どう力になれるか？https://mobile.twitter.com/kinotatsuo/status/1094230698083270656?s=19
 
 ## メモ
 
