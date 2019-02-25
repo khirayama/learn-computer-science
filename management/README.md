@@ -75,6 +75,7 @@
 - マネージャーがメンバーとの1on1で確認したいこと。今、注力していることは？OKRの進捗や課題感は？ より良い成果を実現するために、本人と周囲ができることは？ 今後のキャリアで興味あることは？どう力になれるか？https://mobile.twitter.com/kinotatsuo/status/1094230698083270656?s=19
 - ビジネス上で互いの距離を急速に近づける安定のアプローチ〜AIインタビュー｜Yasuhiro Yoshizawa｜note https://note.mu/yasuyasu1976/n/nb3daedaf2ab6
 - 全然わからない。俺たちは雰囲気でマネージャーをやっている。 - アルパカログ https://alpacat.hatenablog.com/entry/atmospheric-manager
+- マネジメント視点でのオープンソースソフトウェア貢献に対する取り組み - Yahoo! JAPAN Tech Blog https://techblog.yahoo.co.jp/oss/oss_management/
 
 ## メモ
 
