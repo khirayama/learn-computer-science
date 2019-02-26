@@ -6,6 +6,7 @@
     - [x] [BLOG] [型システム 〜プログラムの安全性を支える数学〜](https://laborify.net/2018/12/09/igarashi_type_system/)
   - [x] インターネット
     - [x] [BLOG] [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+    - [x] [BLOG] [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
 
 # 2018
 
