@@ -77,6 +77,7 @@
 - 全然わからない。俺たちは雰囲気でマネージャーをやっている。 - アルパカログ https://alpacat.hatenablog.com/entry/atmospheric-manager
 - マネジメント視点でのオープンソースソフトウェア貢献に対する取り組み - Yahoo! JAPAN Tech Blog https://techblog.yahoo.co.jp/oss/oss_management/
 - カイゼン・ジャーニーから見つかった新たなfunと前進への旅路 https://speakerdeck.com/araitakeshi/kaizenziyanikarajian-tukatutaxin-tanafuntoqian-jin-hefalselu-lu
+- チームのパフォーマンスとエンゲージメントを高める「心理的安全性」の科学 - ログミー[o_O] https://logmi.jp/business/articles/320409
 
 ## メモ
 
