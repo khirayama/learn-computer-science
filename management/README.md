@@ -76,6 +76,7 @@
 - ビジネス上で互いの距離を急速に近づける安定のアプローチ〜AIインタビュー｜Yasuhiro Yoshizawa｜note https://note.mu/yasuyasu1976/n/nb3daedaf2ab6
 - 全然わからない。俺たちは雰囲気でマネージャーをやっている。 - アルパカログ https://alpacat.hatenablog.com/entry/atmospheric-manager
 - マネジメント視点でのオープンソースソフトウェア貢献に対する取り組み - Yahoo! JAPAN Tech Blog https://techblog.yahoo.co.jp/oss/oss_management/
+- カイゼン・ジャーニーから見つかった新たなfunと前進への旅路 https://speakerdeck.com/araitakeshi/kaizenziyanikarajian-tukatutaxin-tanafuntoqian-jin-hefalselu-lu
 
 ## メモ
 
