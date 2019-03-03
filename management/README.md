@@ -78,6 +78,9 @@
 - マネジメント視点でのオープンソースソフトウェア貢献に対する取り組み - Yahoo! JAPAN Tech Blog https://techblog.yahoo.co.jp/oss/oss_management/
 - カイゼン・ジャーニーから見つかった新たなfunと前進への旅路 https://speakerdeck.com/araitakeshi/kaizenziyanikarajian-tukatutaxin-tanafuntoqian-jin-hefalselu-lu
 - チームのパフォーマンスとエンゲージメントを高める「心理的安全性」の科学 - ログミー[o_O] https://logmi.jp/business/articles/320409
+- 人事の超プロが明かす評価基準 を読んだ & エンジニアの評価基準について - HsbtDiary(2019-02-27) https://www.hsbt.org/diary/20190227.html
+- プロダクトマネージャーはSlack（ゆとり）が大事 - hikoharu's PM blog http://hikoharu06.hatenablog.com/entry/2019/02/26/201519
+- 12ステップで作る 組込みOS自作入門 http://kozos.jp/books/makeos/#buy_all
 
 ## メモ
 
