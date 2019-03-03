@@ -1,6 +1,8 @@
 # 2019
 
 - [ ] コンピュータサイエンス
+  - [ ] アルゴリズムとデータ構造
+    - [ ] [BLOG] [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問 | POSTD](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
   - [ ] プログラミング言語
     - [ ] [BLOG] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
     - [x] [BLOG] [型システム 〜プログラムの安全性を支える数学〜](https://laborify.net/2018/12/09/igarashi_type_system/)
