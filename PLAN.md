@@ -6,6 +6,8 @@
   - [ ] プログラミング言語
     - [ ] [BLOG] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
     - [x] [BLOG] [型システム 〜プログラムの安全性を支える数学〜](https://laborify.net/2018/12/09/igarashi_type_system/)
+  - [ ] コンピュータ
+    - [ ] [BLOG] [12ステップで作る 組込みOS自作入門](http://kozos.jp/books/makeos/#buy_all)
   - [x] インターネット
     - [x] [BLOG] [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
     - [x] [BLOG] [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
