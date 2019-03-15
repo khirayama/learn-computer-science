@@ -84,6 +84,7 @@
 - リクルートメント・マーケティング入門：あたらしい採用の常識 / Recruitment Marketing 101 - Speaker Deck https://speakerdeck.com/wantedly/recruitment-marketing-101
 - 時雨堂を支えるマネージメント https://gist.github.com/voluntas/fa1a3c50ce988b5c187e5036419b145a
 - Netflixだって失敗から学ぶ。世界のPM達が注目した10個の教訓 - Quest PM https://questpm.hatenablog.com/entry/learn_from_failure_at_netflix
+- いきなり1on1のフレームワーク - エンジニアリング、マネジメント、日常、生活 https://nitt-san.hatenablog.com/entry/2019/02/16/140844
 
 ## メモ
 
