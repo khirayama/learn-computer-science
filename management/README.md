@@ -82,6 +82,7 @@
 - プロダクトマネージャーはSlack（ゆとり）が大事 - hikoharu's PM blog http://hikoharu06.hatenablog.com/entry/2019/02/26/201519
 - 木下達夫 メルカリCHRO /Tatsuo Kinoshita Mercari CHRO on Twitter: "1on1でも採用面接でも聴きたい内容ですね〜 https://t.co/40hm643oVz" / Twitter https://mobile.twitter.com/kinotatsuo/status/1102019595018231808?s=19
 - リクルートメント・マーケティング入門：あたらしい採用の常識 / Recruitment Marketing 101 - Speaker Deck https://speakerdeck.com/wantedly/recruitment-marketing-101
+- 時雨堂を支えるマネージメント https://gist.github.com/voluntas/fa1a3c50ce988b5c187e5036419b145a
 
 ## メモ
 
