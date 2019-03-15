@@ -83,6 +83,7 @@
 - 木下達夫 メルカリCHRO /Tatsuo Kinoshita Mercari CHRO on Twitter: "1on1でも採用面接でも聴きたい内容ですね〜 https://t.co/40hm643oVz" / Twitter https://mobile.twitter.com/kinotatsuo/status/1102019595018231808?s=19
 - リクルートメント・マーケティング入門：あたらしい採用の常識 / Recruitment Marketing 101 - Speaker Deck https://speakerdeck.com/wantedly/recruitment-marketing-101
 - 時雨堂を支えるマネージメント https://gist.github.com/voluntas/fa1a3c50ce988b5c187e5036419b145a
+- Netflixだって失敗から学ぶ。世界のPM達が注目した10個の教訓 - Quest PM https://questpm.hatenablog.com/entry/learn_from_failure_at_netflix
 
 ## メモ
 
