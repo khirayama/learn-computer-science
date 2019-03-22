@@ -85,6 +85,8 @@
 - 時雨堂を支えるマネージメント https://gist.github.com/voluntas/fa1a3c50ce988b5c187e5036419b145a
 - Netflixだって失敗から学ぶ。世界のPM達が注目した10個の教訓 - Quest PM https://questpm.hatenablog.com/entry/learn_from_failure_at_netflix
 - いきなり1on1のフレームワーク - エンジニアリング、マネジメント、日常、生活 https://nitt-san.hatenablog.com/entry/2019/02/16/140844
+- 心理的安全性と、Veinの紹介　Psychological safety and introduction of Vein https://www.slideshare.net/TokorotenNakayama/veinpsychological-safety-and-introduction-of-vein
+- 人間はハックされる動物である | WIRED.jp https://wired.jp/special/2019/ai-yuval-noah-harari-tristan-harris
 - Questions for our first 1:1 | Lara Hogan https://larahogan.me/blog/first-one-on-one-questions/
 
 ## メモ
