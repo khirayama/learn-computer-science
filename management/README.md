@@ -91,6 +91,7 @@
 - 濱口秀司のコラボレーション実験 - 西尾泰和のScrapbox https://scrapbox.io/nishio/%E6%BF%B1%E5%8F%A3%E7%A7%80%E5%8F%B8%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%AE%9F%E9%A8%93
 - 夢にでるほど1on1について考えた mixi developers Medium https://medium.com/mixi-developers/%E5%A4%A2%E3%81%AB%E3%81%A7%E3%82%8B%E3%81%BB%E3%81%A91on1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%81%9F-ebc954800555
 - Google退職します｜eqsan｜note https://note.mu/xyx/n/n5d612396ed8f
+- コミュニケーションで大事な推論のはしごについて https://medium.com/kkds-remarks/ladder-of-inference-a10ce4ae2f4c
 
 ## メモ
 
