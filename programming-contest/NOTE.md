@@ -1,0 +1,31 @@
+- Solution
+  - 返り値の為の変数とそのreturnから書いてみる
+  - 与えられた条件を整理する
+    - emptyはありえる？
+    - nagativeはありえる？
+  - 特性をメモしておく
+    - sort済み？
+    - なぜ引数が2つに分かれてる？
+  - 再帰
+    - 問題を小さくする方法
+    - 終了条件
+  - Recursive Approach
+  - Brute Force Approach
+  - Sliding Window Approach
+- Optimize
+  - 枝狩り
+  - ループをやめる
+- Approach
+  - substring
+    - 総当たり
+    - window
+- JavaScript Tips
+  - 文字列
+    - 部分文字列: substring(start, end) // 非破壊
+    - 部分文字列: substr(start, len) // 非破壊、非推奨
+  - 数字
+    - 四捨五入: Math.round
+    - 切り上げ: Math.ceil
+    - 切り捨て: Math.floor
+  - その他
+    - Setを利用してunique値だけの配列を作れる
