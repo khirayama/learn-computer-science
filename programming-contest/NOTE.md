@@ -1,17 +1,22 @@
 - Solution
   - 返り値の為の変数とそのreturnから書いてみる
+  - 不恰好、不効率でも一度答えに行き着くこと
+    - 問題を理解する
+    - テストケースを増やせる
   - 与えられた条件を整理する
     - emptyはありえる？
     - nagativeはありえる？
   - 特性をメモしておく
     - sort済み？
     - なぜ引数が2つに分かれてる？
+    - 特殊な要件(計算量をxxxとする)
   - 再帰
     - 問題を小さくする方法
     - 終了条件
   - Recursive Approach
   - Brute Force Approach
   - Sliding Window Approach
+  - 計算量をメモする
 - Optimize
   - 枝狩り
   - ループをやめる
@@ -29,3 +34,6 @@
     - 切り捨て: Math.floor
   - その他
     - Setを利用してunique値だけの配列を作れる
+- その他
+  - 基礎的なやり方と計算量は暗記が早そう
+    - バブルソート
