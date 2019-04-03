@@ -25,6 +25,8 @@
   - substring
     - 総当たり
     - window
+  - palindrome 回文
+    - 鏡写しの特性を利用して中心から左右の文字も同じかチェックするように広げればよい
 - JavaScript Tips
   - 文字列
     - 部分文字列: substring(start, end) // 非破壊
