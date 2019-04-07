@@ -15,6 +15,9 @@
     - [x] [BLOG] [Webパフォーマンスの振り返り 2018 - Webパフォーマンスについて](http://takehora.hatenadiary.jp/entry/2018/12/07/055454)
     - [x] [BLOG] [Yahoo!ニュースにおけるBFFパフォーマンスチューニング事例](https://www.slideshare.net/techblogyahoo/yahoobff)
     - [x] [BLOG] [QUICとHTTP/3時代のインターネット解説書はどうあるべきだろう - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/01/31/150740)
+- [x] ソフトウェア工学
+  - [x] その他
+    - [x] [BLOG] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
 
 # 2018
 
