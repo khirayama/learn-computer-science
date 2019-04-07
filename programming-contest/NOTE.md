@@ -46,6 +46,18 @@
   - 基礎的なやり方と計算量は暗記が早そう
     - バブルソート
 
+## Checklist
+/*
+- [ ] Understand the description
+- [ ] Make an idea
+- [ ] Add basic test cases
+- [ ] Make an implementation
+- [ ] Check the implementation
+- [ ] Run code
+- [ ] Add extra test cases
+** Test cases **
+*/
+
 - 厳しかった
 https://leetcode.com/problems/regular-expression-matching/
 https://leetcode.com/problems/longest-palindromic-substring/
