@@ -37,8 +37,18 @@
     - 四捨五入: Math.round
     - 切り上げ: Math.ceil
     - 切り捨て: Math.floor
+    - int変換: parseInt(num, 10)
   - その他
     - Setを利用してunique値だけの配列を作れる
 - その他
   - 基礎的なやり方と計算量は暗記が早そう
     - バブルソート
+
+- 厳しかった
+https://leetcode.com/problems/regular-expression-matching/submissions/
+https://leetcode.com/problems/longest-palindromic-substring/
+- とりあえずはOKだけどもっとクールにできた|できそう
+https://leetcode.com/problems/palindrome-number/
+https://leetcode.com/problems/string-to-integer-atoi/
+https://leetcode.com/problems/zigzag-conversion/
+https://leetcode.com/problems/integer-to-roman/submissions/
