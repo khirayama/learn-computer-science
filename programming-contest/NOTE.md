@@ -58,16 +58,6 @@
 ** Test cases **
 */
 
-- 厳しかった
-https://leetcode.com/problems/regular-expression-matching/
-https://leetcode.com/problems/longest-palindromic-substring/
-- とりあえずはOKだけどもっとクールにできた|できそう
-https://leetcode.com/problems/palindrome-number/
-https://leetcode.com/problems/string-to-integer-atoi/
-https://leetcode.com/problems/zigzag-conversion/
-https://leetcode.com/problems/integer-to-roman/
-https://leetcode.com/problems/roman-to-integer/
-
 ## Refs
 
 - [計算量オーダーについて - Qiita](https://qiita.com/asksaito/items/59e0d48408f1eab081b5)
