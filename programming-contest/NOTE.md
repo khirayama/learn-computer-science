@@ -42,6 +42,10 @@
     - int変換: parseInt(num, 10)
   - 配列
     - 抜き出し: slice(start, end) // 非破壊
+    - 先頭追加: unshift
+    - 末尾追加: push
+    - 先頭削除: shift
+    - 末尾削除: pop
   - その他
     - Setを利用してunique値だけの配列を作れる
 - その他
