@@ -40,6 +40,8 @@
     - 切り上げ: Math.ceil
     - 切り捨て: Math.floor
     - int変換: parseInt(num, 10)
+  - 配列
+    - 抜き出し: slice(start, end) // 非破壊
   - その他
     - Setを利用してunique値だけの配列を作れる
 - その他
