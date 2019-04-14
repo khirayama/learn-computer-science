@@ -63,3 +63,4 @@
 ## Refs
 
 - [計算量オーダーについて - Qiita](https://qiita.com/asksaito/items/59e0d48408f1eab081b5)
+- [AtCoderで水色になるまでにやったこと＆あなたが緑色で停滞する3つの理由 - ホスフィンの日記](https://mine691.hatenablog.com/entry/2019/04/11/215129)
