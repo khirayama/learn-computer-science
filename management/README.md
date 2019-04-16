@@ -93,6 +93,7 @@
 - Google退職します｜eqsan｜note https://note.mu/xyx/n/n5d612396ed8f
 - コミュニケーションで大事な推論のはしごについて https://medium.com/kkds-remarks/ladder-of-inference-a10ce4ae2f4c
 - カンム社で自分がやってる1on1の話 https://akirachiku.com/post/2019-04-07-ranchi/
+- イノベーションを妨げる「無意識バイアス」を組織が克服するには？ Facebookに学ぶ | 未来を変えるプロジェクト by パーソルキャリア https://mirai.doda.jp/series/interview/konomi-lacke/
 
 ## メモ
 
