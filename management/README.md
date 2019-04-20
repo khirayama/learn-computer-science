@@ -97,6 +97,7 @@
 - プロダクトを成功に導く「プロダクトマネージャー」とはどんな仕事なのか？プロジェクトマネージャーとの違いは？専門家二人に根掘り葉掘り聞いてみた - GIGAZINE https://gigazine.net/news/20190325-udemy-product-manager-interview/
 - 奈々/HR on Twitter: "部下から慕われる管理職あるある 1. 優しい＜公平性 (実際に公平かはわからないが公平に見えるよう配慮している。優しさより重視される傾向。) 2. 怒鳴らない、感情コントロールを試みてる(不機嫌は暴力) 3. 指示が的確、戻りが少ない 4. 業務の詳細まで理解しているor完全に任せて責任とる" https://twitter.com/nanako31453642/status/1115272729098194944
 - なぜ「企業文化」が大切なのか？｜企業文化デザイン論｜Kenji Tomita | tommygx90｜note https://note.mu/symsonic/n/n45d67c3df3f6
+- 忙しい人のためのダニエル・カーネマン https://twitter.com/i/moments/1016327843125420033
 
 ## メモ
 
