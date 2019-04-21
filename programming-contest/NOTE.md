@@ -42,6 +42,7 @@
     - int変換: parseInt(num, 10)
   - 配列
     - 抜き出し: slice(start, end) // 非破壊
+    - 置換: splice(start, count, items)
     - 先頭追加: unshift
     - 末尾追加: push
     - 先頭削除: shift
