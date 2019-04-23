@@ -99,6 +99,7 @@
 - なぜ「企業文化」が大切なのか？｜企業文化デザイン論｜Kenji Tomita | tommygx90｜note https://note.mu/symsonic/n/n45d67c3df3f6
 - 忙しい人のためのダニエル・カーネマン https://twitter.com/i/moments/1016327843125420033
 - エンジニアメンター制度の効果的な運用を目指して/improve-mentor-system - Speaker Deck https://speakerdeck.com/shibayu36/improve-mentor-system
+- Goodpatch Core Value - Speaker Deck https://speakerdeck.com/naofumit/goodpatch-core-value
 
 ## メモ
 
