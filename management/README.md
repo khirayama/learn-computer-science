@@ -99,6 +99,9 @@
 - なぜ「企業文化」が大切なのか？｜企業文化デザイン論｜Kenji Tomita | tommygx90｜note https://note.mu/symsonic/n/n45d67c3df3f6
 - 忙しい人のためのダニエル・カーネマン https://twitter.com/i/moments/1016327843125420033
 - エンジニアメンター制度の効果的な運用を目指して/improve-mentor-system - Speaker Deck https://speakerdeck.com/shibayu36/improve-mentor-system
+- カルチャー崩壊と再構築。 Goodpatchが取り組んだ組織デザインの2年間 - 前編｜naofumit｜note https://note.mu/naofumit/n/n028df2984256
+- 仕事と給与と評価の関係 - Speaker Deck https://speakerdeck.com/sogitani1107/shi-shi-togei-yu-toping-jia-falseguan-xi
+- 「きちんと管理すれば企業は成長する」の迷信が企業を衰退させる〜ToMo指数の研究〜｜Yasuhiro Yoshizawa｜note https://note.mu/yasuyasu1976/n/n9cda73b08177
 
 ## メモ
 
