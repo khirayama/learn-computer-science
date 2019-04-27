@@ -3,12 +3,14 @@
 - [ ] コンピュータサイエンス
   - [ ] アルゴリズムとデータ構造
     - [ ] [BLOG] [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問 | POSTD](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
+    - [ ] [BLOG] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
   - [ ] プログラミング言語
     - [ ] [BLOG] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
     - [ ] [TODO] [rui314/minilisp: A readable lisp in less than 1k lines of C](https://github.com/rui314/minilisp)
     - [x] [BLOG] [型システム 〜プログラムの安全性を支える数学〜](https://laborify.net/2018/12/09/igarashi_type_system/)
   - [ ] コンピュータ
     - [ ] [BLOG] [12ステップで作る 組込みOS自作入門](http://kozos.jp/books/makeos/#buy_all)
+    - [x] [BLOG] [【初心者にも分かり易い】文字コードの仕組み入門 ～ASCIIとの互換性、文字集合との違い、UnicodeとUTF-8の違いについて～ | SEの道標](https://milestone-of-se.nesuke.com/nw-basic/as-nw-engineer/charset-summary/amp/)
   - [x] インターネット
     - [x] [BLOG] [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
     - [x] [BLOG] [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
@@ -16,6 +18,8 @@
     - [x] [BLOG] [Yahoo!ニュースにおけるBFFパフォーマンスチューニング事例](https://www.slideshare.net/techblogyahoo/yahoobff)
     - [x] [BLOG] [QUICとHTTP/3時代のインターネット解説書はどうあるべきだろう - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/01/31/150740)
 - [x] ソフトウェア工学
+  - [x] サービス作り
+    - [x] [BLOG] [ユーザー自身の道具になるためのインターフェイス](https://yuheiy.github.io/interface-to-become-your-own-tool/)
   - [x] その他
     - [x] [BLOG] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
     - [x] [BLOG] [Product Management Seminar Report - Speaker Deck](https://speakerdeck.com/cosmic_cowboy/product-management-seminar-report)
@@ -57,6 +61,7 @@
   - [x] サービス作り
     - [x] [BLOG] [UIデザイン改善のためのユーザビリティ評価](https://u-site.jp/usability/)
     - [x] [BOOK] [わかばちゃんと学ぶ Googleアナリティクス](https://www.amazon.co.jp/dp/B07BMNGXFC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+    - [x] [BLOG] [ユーザー自身の道具になるためのインターフェイス](https://yuheiy.github.io/interface-to-become-your-own-tool/)
   - [x] ライブラリ作成
     - [x] [TODO] [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/) [repo khirayama/mpm](https://github.com/khirayama/mpm)
     - [x] [TODO] [minipack](https://github.com/ronami/minipack) [repo khirayama/minipack](https://github.com/khirayama/minipack)
