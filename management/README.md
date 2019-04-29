@@ -103,6 +103,7 @@
 - 仕事と給与と評価の関係 - Speaker Deck https://speakerdeck.com/sogitani1107/shi-shi-togei-yu-toping-jia-falseguan-xi
 - 「きちんと管理すれば企業は成長する」の迷信が企業を衰退させる〜ToMo指数の研究〜｜Yasuhiro Yoshizawa｜note https://note.mu/yasuyasu1976/n/n9cda73b08177
 - Goodpatch Core Value - Speaker Deck https://speakerdeck.com/naofumit/goodpatch-core-value
+- 最近のシリコンバレーSoftware Engineer面接への雑感｜シリコンバレーで働くソフトウェアエンジニア｜note https://note.mu/technologynote/n/n7d3461ecd543
 
 ## メモ
 
