@@ -8,6 +8,7 @@
     - [ ] [BLOG] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
     - [ ] [TODO] [rui314/minilisp: A readable lisp in less than 1k lines of C](https://github.com/rui314/minilisp)
     - [x] [BLOG] [型システム 〜プログラムの安全性を支える数学〜](https://laborify.net/2018/12/09/igarashi_type_system/)
+    - [x] [BLOG] [コンパイラ開発の勉強の仕方. Medium](https://medium.com/se-cant-code/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E9%96%8B%E7%99%BA%E3%81%AE%E5%8B%89%E5%BC%B7%E3%81%AE%E4%BB%95%E6%96%B9-e1e016e5757e)
   - [ ] コンピュータ
     - [ ] [BLOG] [12ステップで作る 組込みOS自作入門](http://kozos.jp/books/makeos/#buy_all)
     - [x] [BLOG] [【初心者にも分かり易い】文字コードの仕組み入門 ～ASCIIとの互換性、文字集合との違い、UnicodeとUTF-8の違いについて～ | SEの道標](https://milestone-of-se.nesuke.com/nw-basic/as-nw-engineer/charset-summary/amp/)
