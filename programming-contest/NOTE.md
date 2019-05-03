@@ -81,3 +81,4 @@
 - [アルゴリズムとデータ構造 | ++C++; // 未確認飛行 C](https://ufcpp.net/study/algorithm/)
 - [ワンランク上に行くプロコン講座 - YouTube](https://www.youtube.com/watch?v=_Je4rukUcqE&app=desktop)
 - [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
+- [競技プログラミングの問題の解き方、そのマニュアル - うさぎ小屋](https://kimiyuki.net/blog/2016/06/21/how-to-solve-problems-in-competitive-programming/)
