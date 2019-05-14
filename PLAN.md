@@ -12,6 +12,7 @@
   - [ ] コンピュータ
     - [ ] [BLOG] [12ステップで作る 組込みOS自作入門](http://kozos.jp/books/makeos/#buy_all)
     - [x] [BLOG] [【初心者にも分かり易い】文字コードの仕組み入門 ～ASCIIとの互換性、文字集合との違い、UnicodeとUTF-8の違いについて～ | SEの道標](https://milestone-of-se.nesuke.com/nw-basic/as-nw-engineer/charset-summary/amp/)
+    - [x] [BLOG] [全てのエンジニアに知ってもらいたいOSの中身/OS that we should know - Speaker Deck](https://speakerdeck.com/ariaki/os-that-we-should-know)
   - [x] インターネット
     - [x] [BLOG] [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
     - [x] [BLOG] [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
