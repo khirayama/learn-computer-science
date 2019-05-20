@@ -106,6 +106,7 @@
 - 最近のシリコンバレーSoftware Engineer面接への雑感｜シリコンバレーで働くソフトウェアエンジニア｜note https://note.mu/technologynote/n/n7d3461ecd543
 - なぜグローバル企業の経営陣は「定時退社」するのか？｜とくさん｜note https://note.mu/noritoku/n/n5578c7a69b25
 - 「情熱を探そう」というアドバイスはもうやめよう Taka Umada Medium https://medium.com/@tumada/do-not-find-your-passion-a7b2f290b5a
+- 1on1を上達するために - Speaker Deck https://speakerdeck.com/nitt_san/1on1woshang-da-surutameni
 
 ## メモ
 
