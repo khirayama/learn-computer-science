@@ -110,6 +110,7 @@
 - What we've learned about hiring engineering managers - CircleCI https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
 - The Engineer/Manager Pendulum charity.wtf https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/amp/
 - Here's How Google Knows in Less Than 5 Minutes if Someone Is a Great Leader | Inc.com https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-someone-is-a-great-leader.html
+- マネージャの資質とマネジメントの本質 https://kuranuki.sonicgarden.jp/2019/05/management.html
 
 ## メモ
 
