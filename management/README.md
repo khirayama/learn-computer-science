@@ -106,6 +106,11 @@
 - 最近のシリコンバレーSoftware Engineer面接への雑感｜シリコンバレーで働くソフトウェアエンジニア｜note https://note.mu/technologynote/n/n7d3461ecd543
 - なぜグローバル企業の経営陣は「定時退社」するのか？｜とくさん｜note https://note.mu/noritoku/n/n5578c7a69b25
 - 「情熱を探そう」というアドバイスはもうやめよう Taka Umada Medium https://medium.com/@tumada/do-not-find-your-passion-a7b2f290b5a
+- 1on1を上達するために - Speaker Deck https://speakerdeck.com/nitt_san/1on1woshang-da-surutameni
+- What we've learned about hiring engineering managers - CircleCI https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/
+- The Engineer/Manager Pendulum charity.wtf https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/amp/
+- Here's How Google Knows in Less Than 5 Minutes if Someone Is a Great Leader | Inc.com https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-someone-is-a-great-leader.html
+- マネージャの資質とマネジメントの本質 https://kuranuki.sonicgarden.jp/2019/05/management.html
 
 ## メモ
 
