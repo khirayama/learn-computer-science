@@ -112,6 +112,7 @@
 - Here's How Google Knows in Less Than 5 Minutes if Someone Is a Great Leader | Inc.com https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-someone-is-a-great-leader.html
 - マネージャの資質とマネジメントの本質 https://kuranuki.sonicgarden.jp/2019/05/management.html
 - システム思考で強いチームを創っていく、そのマネージャーの役割とは https://note.mu/muroya/n/nf44ed6d3bd74
+- プロジェクト・アリストテレスの日本語訳：Googleが発見したチームのパフォーマンスを最大化する方法 https://qiita.com/ino-shin/items/75e32c9202ae5c29ad5c
 
 ## メモ
 
