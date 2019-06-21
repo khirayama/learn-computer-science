@@ -115,6 +115,7 @@
 - プロジェクト・アリストテレスの日本語訳：Googleが発見したチームのパフォーマンスを最大化する方法 https://qiita.com/ino-shin/items/75e32c9202ae5c29ad5c
 - (翻訳) エンジニアとマネージャの振り子 https://rfushimi.hatenablog.jp/entry/2019/04/23/204637
 - 組織のパフォーマンスを上げるキーワード、「トランザクティブ・メモリー」 https://blog.timecrowd.net/transactive-memory/
+- 父親に聞いた管理職として「ダメなチームをデキるチームにする必勝パターン」 http://docs.komagata.org/5011
 
 ## メモ
 
