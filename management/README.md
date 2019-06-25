@@ -119,6 +119,7 @@
 - 父親に聞いた管理職として「ダメなチームをデキるチームにする必勝パターン」 http://docs.komagata.org/5011
 - エンジニア、エンジニアリングマネージャーとして成長するために必要なこととは？ #DevLOVEX https://speakerdeck.com/tsuyok/ensinia-ensiniarinkumanesiyatositecheng-chang-surutamenibi-yao-nakototoha-number-devlovex
 - 傾聴スキルはセクハラをも滅する。 https://note.mu/nyankichi1130/n/n27a972b2dfb8
+- LINEのエンジニアリングマネージャーが語る、優れたEMの条件と求められること https://logmi.jp/tech/articles/321346
 
 ## メモ
 
