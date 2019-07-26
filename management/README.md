@@ -121,6 +121,7 @@
 - 傾聴スキルはセクハラをも滅する。 https://note.mu/nyankichi1130/n/n27a972b2dfb8
 - LINEのエンジニアリングマネージャーが語る、優れたEMの条件と求められること https://logmi.jp/tech/articles/321346
 - ところてん on Twitter: "心理的安全性の周囲の構造と書籍のマッピング、割とこんな感じだと思う。 明日のデブサミの資料を作ってるが、何も終わらん。発表できるんかなーこれ" https://twitter.com/tokoroten/status/1145455414101737472
+- Tips For Writing Documentation - M3 Documentation https://m3db.github.io/m3/misc/writing_docs/
 
 ## メモ
 
