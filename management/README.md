@@ -122,6 +122,7 @@
 - LINEのエンジニアリングマネージャーが語る、優れたEMの条件と求められること https://logmi.jp/tech/articles/321346
 - ところてん on Twitter: "心理的安全性の周囲の構造と書籍のマッピング、割とこんな感じだと思う。 明日のデブサミの資料を作ってるが、何も終わらん。発表できるんかなーこれ" https://twitter.com/tokoroten/status/1145455414101737472
 - Tips For Writing Documentation - M3 Documentation https://m3db.github.io/m3/misc/writing_docs/
+- グーグルが出した「最終解」理想のリーダーとチーム｜出世ナビ｜NIKKEI STYLE https://style.nikkei.com/article/DGXMZO48146440S9A800C1000000/
 
 ## メモ
 
