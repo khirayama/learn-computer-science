@@ -59,6 +59,7 @@
       - 手法(挿入・交換・選択・マージ)
       - 再帰
     - JavaScriptのsortは？
+      - [Array.prototype.sort について | メモログ](https://memolog.org/2018/about-array-prototype-sort.html)
     - バブルソート
 
 ## Checklist
