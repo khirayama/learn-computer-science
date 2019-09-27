@@ -126,6 +126,7 @@
 - CTOとVPoE（VP or Engineering）の違い | Coral Capital https://coralcap.co/2019/07/vp-engineering-vs-cto/
 - Good Tech Lead, Bad Tech Lead｜Takayuki Sano｜note https://note.mu/ypponatoz/n/n3def2a796f4e
 - Google Engineering Practices Documentation | eng-practices https://google.github.io/eng-practices/
+- タチの悪い凄腕エンジニア｜フロイド｜note https://note.mu/floyd0/n/n1db7854ca2e2
 
 ## メモ
 
