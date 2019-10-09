@@ -28,6 +28,7 @@
     - [x] [BLOG] [世界一わかりやすいSEOの教科書｜マルーン｜note](https://note.mu/maroooooooooon/n/ned8ba77fc27d)
     - [x] [BLOG] [【翻訳】マテリアルデザイン - モーションデザイン｜Iori Iwaki｜note](https://note.mu/ioriiwaki/m/mf7bef05b0bd1)
     - [x] [BLOG] [[翻訳記事]マイクロフロントエンド - マイクロサービスのフロントエンドへの応用](https://micro-frontends-japanese.org/)
+    - [x] [BLOG] [Flutter - Flutter internals](https://www.didierboelens.com/2019/09/flutter-internals/)
   - [x] その他
     - [x] [BLOG] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
     - [x] [BLOG] [Product Management Seminar Report - Speaker Deck](https://speakerdeck.com/cosmic_cowboy/product-management-seminar-report)
