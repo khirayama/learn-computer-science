@@ -128,6 +128,11 @@
 - Google Engineering Practices Documentation | eng-practices https://google.github.io/eng-practices/
 - タチの悪い凄腕エンジニア｜フロイド｜note https://note.mu/floyd0/n/n1db7854ca2e2
 - プレゼンを分解してみた https://twitter.com/goando/status/1117390770049175554
+- Netflixを生んだ｢成功の8カ条｣とは？ https://www.lifehacker.jp/amp/2019/10/netflix-8items.html
+- GMOペパボ柴田博志が教える。経営者も理解しておくべき「技術的負債」 https://flxy.jp/article/7533
+- Amazonは最大のハックである「税ハック」と日本のソフトウェア産業の競争優位 https://irnote.com/n/n6d9a3e7a17c0
+- 退職面談はCEOがするべきだ https://coralcap.co/2019/10/exit-interview/
+- Dropbox で4年働いて学んだこと10のこと http://www.shoe-g.com/2019/07/what-I-learnt-at-dropbox.html
 
 ## メモ
 
