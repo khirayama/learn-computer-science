@@ -133,6 +133,7 @@
 - Amazonは最大のハックである「税ハック」と日本のソフトウェア産業の競争優位 https://irnote.com/n/n6d9a3e7a17c0
 - 退職面談はCEOがするべきだ https://coralcap.co/2019/10/exit-interview/
 - Dropbox で4年働いて学んだこと10のこと http://www.shoe-g.com/2019/07/what-I-learnt-at-dropbox.html
+- GoogleやTwitterに学ぶ転職者受け入れのコツ https://note.mu/noritoku/n/ne3551b51d69b
 
 ## メモ
 
