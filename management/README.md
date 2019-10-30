@@ -134,6 +134,7 @@
 - 退職面談はCEOがするべきだ https://coralcap.co/2019/10/exit-interview/
 - Dropbox で4年働いて学んだこと10のこと http://www.shoe-g.com/2019/07/what-I-learnt-at-dropbox.html
 - GoogleやTwitterに学ぶ転職者受け入れのコツ https://note.mu/noritoku/n/ne3551b51d69b
+- 面接時に見ているポイント https://techlog.voyagegroup.com/entry/2019/10/29/080000
 
 ## メモ
 
