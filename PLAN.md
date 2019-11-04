@@ -22,6 +22,7 @@
     - [x] [BLOG] [Webパフォーマンスの振り返り 2018 - Webパフォーマンスについて](http://takehora.hatenadiary.jp/entry/2018/12/07/055454)
     - [x] [BLOG] [Yahoo!ニュースにおけるBFFパフォーマンスチューニング事例](https://www.slideshare.net/techblogyahoo/yahoobff)
     - [x] [BLOG] [QUICとHTTP/3時代のインターネット解説書はどうあるべきだろう - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/01/31/150740)
+    - [x] [BLOG] [How Web Content Can Affect Power Usage | WebKit](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/)
 - [x] ソフトウェア工学
   - [x] サービス作り
     - [x] [BLOG] [ユーザー自身の道具になるためのインターフェイス](https://yuheiy.github.io/interface-to-become-your-own-tool/)
