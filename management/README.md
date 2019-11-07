@@ -137,6 +137,7 @@
 - 面接時に見ているポイント https://techlog.voyagegroup.com/entry/2019/10/29/080000
 - やりたいこととやるべきことの峻別 - NorthPage https://north.thco.mp/2019/11/07/want-to-do-and-have-to-do/
 - OKR運用失敗の3つの理由、なぜ高すぎる目標が逆効果になるのか https://coralcap.co/2019/11/three-reasons-okrs-backfire/
+- 上司が有能かどうか見極めるためのチェックポイント5つ https://www.lifehacker.jp/2019/11/201718-5-ways-to-check-if-your-boss-is-incompetent-according-to-an-expert-in-psychological-profiling_businessinsider.html
 
 ## メモ
 
