@@ -136,6 +136,7 @@
 - GoogleやTwitterに学ぶ転職者受け入れのコツ https://note.mu/noritoku/n/ne3551b51d69b
 - 面接時に見ているポイント https://techlog.voyagegroup.com/entry/2019/10/29/080000
 - やりたいこととやるべきことの峻別 - NorthPage https://north.thco.mp/2019/11/07/want-to-do-and-have-to-do/
+- OKR運用失敗の3つの理由、なぜ高すぎる目標が逆効果になるのか https://coralcap.co/2019/11/three-reasons-okrs-backfire/
 
 ## メモ
 
