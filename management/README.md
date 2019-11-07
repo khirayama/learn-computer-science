@@ -135,6 +135,7 @@
 - Dropbox で4年働いて学んだこと10のこと http://www.shoe-g.com/2019/07/what-I-learnt-at-dropbox.html
 - GoogleやTwitterに学ぶ転職者受け入れのコツ https://note.mu/noritoku/n/ne3551b51d69b
 - 面接時に見ているポイント https://techlog.voyagegroup.com/entry/2019/10/29/080000
+- やりたいこととやるべきことの峻別 - NorthPage https://north.thco.mp/2019/11/07/want-to-do-and-have-to-do/
 
 ## メモ
 
