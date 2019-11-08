@@ -140,6 +140,7 @@
 - 上司が有能かどうか見極めるためのチェックポイント5つ https://www.lifehacker.jp/2019/11/201718-5-ways-to-check-if-your-boss-is-incompetent-according-to-an-expert-in-psychological-profiling_businessinsider.html
 - 質とスピード / Quality and Speed https://speakerdeck.com/twada/quality-and-speed
 - ミクシィのマネージャーは悩んでいる / mixi's manager is in trouble https://speakerdeck.com/_atsushisakai/mixis-manager-is-in-trouble
+- 納得感のある決定事項の共有方法 http://konifar-zatsu.hatenadiary.jp/entry/2019/06/03/120437
 
 ## メモ
 
