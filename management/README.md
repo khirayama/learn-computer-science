@@ -139,6 +139,7 @@
 - OKR運用失敗の3つの理由、なぜ高すぎる目標が逆効果になるのか https://coralcap.co/2019/11/three-reasons-okrs-backfire/
 - 上司が有能かどうか見極めるためのチェックポイント5つ https://www.lifehacker.jp/2019/11/201718-5-ways-to-check-if-your-boss-is-incompetent-according-to-an-expert-in-psychological-profiling_businessinsider.html
 - 質とスピード / Quality and Speed https://speakerdeck.com/twada/quality-and-speed
+- ミクシィのマネージャーは悩んでいる / mixi's manager is in trouble https://speakerdeck.com/_atsushisakai/mixis-manager-is-in-trouble
 
 ## メモ
 
