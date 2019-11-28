@@ -141,6 +141,7 @@
 - 質とスピード / Quality and Speed https://speakerdeck.com/twada/quality-and-speed
 - ミクシィのマネージャーは悩んでいる / mixi's manager is in trouble https://speakerdeck.com/_atsushisakai/mixis-manager-is-in-trouble
 - 納得感のある決定事項の共有方法 http://konifar-zatsu.hatenadiary.jp/entry/2019/06/03/120437
+- 経営陣と現場の距離は、社員規模に比例しない https://coralcap.co/2019/11/candid-conversations/
 
 ## メモ
 
