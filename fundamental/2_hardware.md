@@ -28,9 +28,9 @@
   - [x] 入出力インタフェース
   - [x] 補助記憶装置
   - [x] 入出力装置
-- [ ] 組込システムのハードウェア要素
-  - [ ] LSI(Large Scale Integration)
-  - [ ] 入出力
-  - [ ] ワンチップマイコン
-  - [ ] IoT(Internet of Things)
-  - [ ] その他の要素
+- [x] 組込システムのハードウェア要素
+  - [x] LSI(Large Scale Integration)
+  - [x] 入出力
+  - [x] ワンチップマイコン
+  - [x] IoT(Internet of Things)
+  - [x] その他の要素
