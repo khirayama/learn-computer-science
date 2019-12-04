@@ -143,6 +143,7 @@
 - 納得感のある決定事項の共有方法 http://konifar-zatsu.hatenadiary.jp/entry/2019/06/03/120437
 - 経営陣と現場の距離は、社員規模に比例しない https://coralcap.co/2019/11/candid-conversations/
 - 2019年エウレカエンジニア組織の振り返り https://medium.com/eureka-engineering/engineer-org-2019-483ce8350039
+- What Is a Product Requirements Document (PRD)? https://www.productplan.com/glossary/product-requirements-document/
 
 ## メモ
 
