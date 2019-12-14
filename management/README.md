@@ -145,6 +145,7 @@
 - 2019年エウレカエンジニア組織の振り返り https://medium.com/eureka-engineering/engineer-org-2019-483ce8350039
 - What Is a Product Requirements Document (PRD)? https://www.productplan.com/glossary/product-requirements-document/
 - 権限移譲する技術 https://blog.shojimiyata.com/entry/2019/12/03/132635
+- エンジニア組織の成長に必要なのは、一人の情熱を大切にすることである - Akatsuki Hackers Lab | 株式会社アカツキ（Akatsuki Inc.) https://hackerslab.aktsk.jp/2019/12/10/112504
 
 ## メモ
 
