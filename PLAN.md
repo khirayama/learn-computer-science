@@ -6,6 +6,7 @@
     - [ ] [BLOG] [Let's Create a Simple Load Balancer With Go - kasvith.github.io - a personal blog space](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
     - [ ] [BLOG] [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
     - [ ] [BLOG] [Vanilla JavaScript and HTML - No frameworks. No libraries. No problem. - DEV Community](https://dev.to/pluralsight/vanilla-javascript-and-html-no-frameworks-no-libraries-no-problem-2n99)
+    - [ ] [BLOG] [JSON Parser with JavaScript | Tan Li Hau](https://lihautan.com/json-parser-with-javascript/)
   - [ ] アルゴリズムとデータ構造
     - [ ] [BLOG] [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問 | POSTD](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
     - [ ] [BLOG] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
