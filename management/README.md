@@ -147,6 +147,8 @@
 - 権限移譲する技術 https://blog.shojimiyata.com/entry/2019/12/03/132635
 - エンジニア組織の成長に必要なのは、一人の情熱を大切にすることである - Akatsuki Hackers Lab | 株式会社アカツキ（Akatsuki Inc.) https://hackerslab.aktsk.jp/2019/12/10/112504
 - エンジニアリング組織の基礎知識 / Basic knowledge of engineering organization - Speaker Deck https://speakerdeck.com/nari_ex/basic-knowledge-of-engineering-organization
+- エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド https://qiita.com/hirokidaichi/items/95678bb1cef32629c317
+- プロダクトマネージャー1年目の教科書｜奥原拓也 / クラシルPdM https://note.com/okutaku/n/neef7699a9172
 
 ## メモ
 
