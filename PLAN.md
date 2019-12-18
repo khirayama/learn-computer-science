@@ -19,6 +19,7 @@
     - [x] [BLOG] [コンパイラ開発の勉強の仕方. Medium](https://medium.com/se-cant-code/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E9%96%8B%E7%99%BA%E3%81%AE%E5%8B%89%E5%BC%B7%E3%81%AE%E4%BB%95%E6%96%B9-e1e016e5757e)
   - [ ] コンピュータ
     - [ ] [BLOG] [12ステップで作る 組込みOS自作入門](http://kozos.jp/books/makeos/#buy_all)
+    - [x] [BLOG] [マイクロカーネルとL4について (Yabaitech.tokyo, Writing a (micro)kernel in Rust in 12 days より) - 豆腐の豆腐和え](http://nullpo-head.hateblo.jp/entry/2019/12/15/184016)
     - [x] [BLOG] [イケてるエンジニアになろうシリーズ 〜メモリとプロセスとスレッド編〜 - もろず blog](https://moro-archive.hatenablog.com/entry/2014/09/11/013520)
     - [x] [BLOG] [メモリとスタックとヒープとプログラミング言語 | κeenのHappy Hacκing Blog](https://keens.github.io/blog/2017/04/30/memoritosutakkutohi_puto/)
     - [x] [BLOG] [【初心者にも分かり易い】文字コードの仕組み入門 ～ASCIIとの互換性、文字集合との違い、UnicodeとUTF-8の違いについて～ | SEの道標](https://milestone-of-se.nesuke.com/nw-basic/as-nw-engineer/charset-summary/amp/)
