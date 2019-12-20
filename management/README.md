@@ -149,6 +149,7 @@
 - エンジニアリング組織の基礎知識 / Basic knowledge of engineering organization - Speaker Deck https://speakerdeck.com/nari_ex/basic-knowledge-of-engineering-organization
 - エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド https://qiita.com/hirokidaichi/items/95678bb1cef32629c317
 - プロダクトマネージャー1年目の教科書｜奥原拓也 / クラシルPdM https://note.com/okutaku/n/neef7699a9172
+- ゼロからはじめるプロダクトマネージャー生活 https://www.slideshare.net/takaumada/zero-to-product-manager
 
 ## メモ
 
