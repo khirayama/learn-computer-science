@@ -150,6 +150,7 @@
 - エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド https://qiita.com/hirokidaichi/items/95678bb1cef32629c317
 - プロダクトマネージャー1年目の教科書｜奥原拓也 / クラシルPdM https://note.com/okutaku/n/neef7699a9172
 - ゼロからはじめるプロダクトマネージャー生活 https://www.slideshare.net/takaumada/zero-to-product-manager
+- Engineering Manager になってから身に沁みた12のアイデアと言葉 - これはただの日記 http://kths.hatenablog.com/entry/engineering-manager-ideas
 
 ## メモ
 
