@@ -1,12 +1,12 @@
 ## ネットワーク
 
-- [ ] プロトコルの全体像
-  - [ ] 通信規格とプロトコル
-  - [ ] プロトコルと階層
-  - [ ] TCP/IPの階層
-  - [ ] TCP/IPの階層とヘッダ
-  - [ ] データ伝送とアドレスの変化
-  - [ ] TCP/IPとOSI基本参照モデル
+- [x] プロトコルの全体像
+  - [x] 通信規格とプロトコル
+  - [x] プロトコルと階層
+  - [x] TCP/IPの階層
+  - [x] TCP/IPの階層とヘッダ
+  - [x] データ伝送とアドレスの変化
+  - [x] TCP/IPとOSI基本参照モデル
 - [ ] データリンク層
   - [ ] LANのプロトコル
   - [ ] CSMA/CD(Carrier Sense Multiple Access with Collision Detection)方式
