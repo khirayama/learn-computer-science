@@ -7,14 +7,14 @@
   - [x] TCP/IPの階層とヘッダ
   - [x] データ伝送とアドレスの変化
   - [x] TCP/IPとOSI基本参照モデル
-- [ ] データリンク層
-  - [ ] LANのプロトコル
-  - [ ] CSMA/CD(Carrier Sense Multiple Access with Collision Detection)方式
-  - [ ] CSMA/CA(Carrier Sense Multiple Access with Collision Avoidance)方式
-  - [ ] PPP(Point-to-Point Protocol)
-  - [ ] イーサネット(IEEE802.3)
-  - [ ] 無線LAN(IEEE802.11)
-  - [ ] PLC(Power Line Communication)
+- [x] データリンク層
+  - [x] LANのプロトコル
+  - [x] CSMA/CD(Carrier Sense Multiple Access with Collision Detection)方式
+  - [x] CSMA/CA(Carrier Sense Multiple Access with Collision Avoidance)方式
+  - [x] PPP(Point-to-Point Protocol)
+  - [x] イーサネット(IEEE802.3)
+  - [x] 無線LAN(IEEE802.11)
+  - [x] PLC(Power Line Communication)
 - [ ] ネットワーク層
   - [ ] ネットワーク層のプロトコル
   - [ ] IP(Internet Protocol)の役割
