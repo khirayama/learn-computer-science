@@ -28,13 +28,13 @@
   - [x] UDP
   - [x] フロー制御
   - [x] ポート番号
-- [ ] アプリケーション層
-  - [ ] WWWW(World Wide Web)
-  - [ ] 電子メール
-  - [ ] DNS(Domain Name System)
-  - [ ] SNMP(Simple Network Management Protocol)
-  - [ ] DHCP(Dynamic Host Configuration Protocol)
-  - [ ] その他のプロトコル
+- [x] アプリケーション層
+  - [x] WWWW(World Wide Web)
+  - [x] 電子メール
+  - [x] DNS(Domain Name System)
+  - [x] SNMP(Simple Network Management Protocol)
+  - [x] DHCP(Dynamic Host Configuration Protocol)
+  - [x] その他のプロトコル
 - [ ] LAN間接続
   - [ ] LAN間接続機器とプロトコル階層
   - [ ] スパニングツリー
