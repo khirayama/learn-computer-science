@@ -15,13 +15,13 @@
   - [x] イーサネット(IEEE802.3)
   - [x] 無線LAN(IEEE802.11)
   - [x] PLC(Power Line Communication)
-- [ ] ネットワーク層
-  - [ ] ネットワーク層のプロトコル
-  - [ ] IP(Internet Protocol)の役割
-  - [ ] IPアドレス
-  - [ ] ルーティング
-  - [ ] ICMP(Internet Control Message Protocol)
-  - [ ] ARP/RARP(Address Resolution Protocol/Reverse ARP)
+- [x] ネットワーク層
+  - [x] ネットワーク層のプロトコル
+  - [x] IP(Internet Protocol)の役割
+  - [x] IPアドレス
+  - [x] ルーティング
+  - [x] ICMP(Internet Control Message Protocol)
+  - [x] ARP/RARP(Address Resolution Protocol/Reverse ARP)
 - [ ] トランスポート層
   - [ ] コネクション/コネクションレス
   - [ ] TCP
