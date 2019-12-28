@@ -22,12 +22,12 @@
   - [x] ルーティング
   - [x] ICMP(Internet Control Message Protocol)
   - [x] ARP/RARP(Address Resolution Protocol/Reverse ARP)
-- [ ] トランスポート層
-  - [ ] コネクション/コネクションレス
-  - [ ] TCP
-  - [ ] UDP
-  - [ ] フロー制御
-  - [ ] ポート番号
+- [x] トランスポート層
+  - [x] コネクション/コネクションレス
+  - [x] TCP
+  - [x] UDP
+  - [x] フロー制御
+  - [x] ポート番号
 - [ ] アプリケーション層
   - [ ] WWWW(World Wide Web)
   - [ ] 電子メール
