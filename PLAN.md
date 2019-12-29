@@ -32,6 +32,7 @@
     - [x] [BLOG] [全てのエンジニアに知ってもらいたいOSの中身/OS that we should know - Speaker Deck](https://speakerdeck.com/ariaki/os-that-we-should-know)
     - [x] [BLOG] [ハードウェアの仕組みとソフトウェア処理 マイコンの動作を理解する｜Tech Village （テックビレッジ） CQ出版株式会社](http://www.kumikomi.net/archives/2009/11/post_23.php)
   - [x] インターネット
+    - [x] [BLOG] [レンダリング パフォーマンス  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/?hl=ja)
     - [x] [BLOG] [2019 Javascript engine 俯瞰 - abcdefGets](http://abcdef.gets.b6n.ch/entry/2019/12/11/121840)
     - [x] [BLOG] [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
     - [x] [BLOG] [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
