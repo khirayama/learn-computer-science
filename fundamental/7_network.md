@@ -35,11 +35,11 @@
   - [x] SNMP(Simple Network Management Protocol)
   - [x] DHCP(Dynamic Host Configuration Protocol)
   - [x] その他のプロトコル
-- [ ] LAN間接続
-  - [ ] LAN間接続機器とプロトコル階層
-  - [ ] スパニングツリー
-  - [ ] ネットワークの仮想化
-  - [ ] VRRP(Virtual Router Redundancy Protocol)
+- [x] LAN間接続
+  - [x] LAN間接続機器とプロトコル階層
+  - [x] スパニングツリー
+  - [x] ネットワークの仮想化
+  - [x] VRRP(Virtual Router Redundancy Protocol)
 - [ ] インターネット技術
   - [ ] プロキシサーバ
   - [ ] NAPT
