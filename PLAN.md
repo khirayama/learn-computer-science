@@ -56,6 +56,9 @@
     - [x] [BLOG] [Flutter - Flutter internals](https://www.didierboelens.com/2019/09/flutter-internals/)
     - [x] [BLOG] [2019年、サイバーエージェントのアクセシビリティを振り返る | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/24277/)
     - [x] [BLOG] [JavaScriptセキュリティの基礎知識：連載｜gihyo.jp … 技術評論社](http://gihyo.jp/dev/serial/01/javascript-security)
+    - [x] [BLOG] [Google Testing Blog: Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html)
+    - [x] [BLOG] [結合テストと呼ぶのをやめた話 - asterisc](http://akito0107.hatenablog.com/entry/2018/08/27/190333)
+    - [x] [BLOG] [JSON Web Token（JWT）の紹介とYahoo! JAPANにおけるJWTの活用 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2017/jwt/)
   - [x] その他
     - [x] [BLOG] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
     - [x] [BLOG] [Product Management Seminar Report - Speaker Deck](https://speakerdeck.com/cosmic_cowboy/product-management-seminar-report)
