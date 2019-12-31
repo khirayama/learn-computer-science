@@ -40,6 +40,7 @@
   - [x] インターネット
     - [x] [BLOG] [レンダリング パフォーマンス  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/?hl=ja)
     - [x] [BLOG] [2019 Javascript engine 俯瞰 - abcdefGets](http://abcdef.gets.b6n.ch/entry/2019/12/11/121840)
+    - [x] [BLOG] [すべての新米フロントエンドエンジニアに読んでほしい50の資料 - Qiita](https://qiita.com/suzu-4/items/ea5d802cb0ad16682ae2)
     - [x] [BLOG] [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
     - [x] [BLOG] [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
     - [x] [BLOG] [Webパフォーマンスの振り返り 2018 - Webパフォーマンスについて](http://takehora.hatenadiary.jp/entry/2018/12/07/055454)
