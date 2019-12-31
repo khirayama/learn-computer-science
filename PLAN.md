@@ -16,6 +16,7 @@
     - [x] [BLOG] [JavaScriptの概念たち (前編) - Qiita](https://qiita.com/tsin1rou/items/90576b6c00b895478610)
     - [x] [BLOG] [JavaScriptの概念たち (後編) - Qiita](https://qiita.com/tsin1rou/items/b30885b189a8ec596c72)
     - [x] [BLOG] [Node.jsへのコントリビュート解説、そしてOSSへ貢献するということ - 別にしんどくないブログ](https://shisama.hatenablog.com/entry/2019/12/04/204400)
+    - [x] [BLOG] [JavaScriptの仕組み：イベントループと非同期プログラミングの台頭+ async / awaitでコーディングを改善する5つの方法](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5#4156)
     - [x] [BLOG] [Task Queue and Job Queue - Deep dive into Javascript Event Loop Model - Hashnode](https://hashnode.com/post/task-queue-and-job-queue-deep-dive-into-javascript-event-loop-model-cjui19qqa005wdgs1742fa4wz)
     - [x] [BLOG] [型システム 〜プログラムの安全性を支える数学〜](https://laborify.net/2018/12/09/igarashi_type_system/)
     - [x] [BLOG] [コンパイラ開発の勉強の仕方. Medium](https://medium.com/se-cant-code/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E9%96%8B%E7%99%BA%E3%81%AE%E5%8B%89%E5%BC%B7%E3%81%AE%E4%BB%95%E6%96%B9-e1e016e5757e)
