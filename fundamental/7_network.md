@@ -40,11 +40,11 @@
   - [x] スパニングツリー
   - [x] ネットワークの仮想化
   - [x] VRRP(Virtual Router Redundancy Protocol)
-- [ ] インターネット技術
-  - [ ] プロキシサーバ
-  - [ ] NAPT
-  - [ ] IP電話
-  - [ ] WSN(Wireless Sensor Networks)
+- [x] インターネット技術
+  - [x] プロキシサーバ
+  - [x] NAPT
+  - [x] IP電話
+  - [x] WSN(Wireless Sensor Networks)
 - [ ] ネットワークの評価
   - [ ] 伝送速度と時間
   - [ ] 実効的な伝送効率を考える
