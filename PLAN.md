@@ -11,6 +11,7 @@
     - [ ] [BLOG] [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問 | POSTD](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
     - [ ] [BLOG] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
     - [ ] [BLOG] [アルゴリズムとデータ構造](https://www.codereading.com/algo_and_ds/)
+    - [ ] [BLOG] [非公式PDF版SICP・新訳 - アスペ日記](https://takeda25.hatenablog.jp/entry/20151030/1446174031)
   - [ ] プログラミング言語
     - [ ] [BLOG] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
     - [ ] [TODO] [rui314/minilisp: A readable lisp in less than 1k lines of C](https://github.com/rui314/minilisp)
