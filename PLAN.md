@@ -52,6 +52,7 @@
     - [x] [BLOG] [How Web Content Can Affect Power Usage | WebKit](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/)
 - [x] ソフトウェア工学
   - [x] サービス作り
+    - [x] [BLOG] [Front-End Performance Checklist 2020 [PDF, Apple Pages, MS Word] — Smashing Magazine](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
     - [x] [BLOG] [ユーザー自身の道具になるためのインターフェイス](https://yuheiy.github.io/interface-to-become-your-own-tool/)
     - [x] [BLOG] [世界一わかりやすいSEOの教科書｜マルーン｜note](https://note.mu/maroooooooooon/n/ned8ba77fc27d)
     - [x] [BLOG] [【翻訳】マテリアルデザイン - モーションデザイン｜Iori Iwaki｜note](https://note.mu/ioriiwaki/m/mf7bef05b0bd1)
