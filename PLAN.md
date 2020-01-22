@@ -66,6 +66,7 @@
     - [x] [BLOG] [結合テストと呼ぶのをやめた話 - asterisc](http://akito0107.hatenablog.com/entry/2018/08/27/190333)
     - [x] [BLOG] [JSON Web Token（JWT）の紹介とYahoo! JAPANにおけるJWTの活用 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/advent-calendar-2017/jwt/)
     - [x] [BLOG] [動作するきれいなコード: SeleniumConf Tokyo 2019 基調講演文字起こし+α - t-wadaのブログ](https://t-wada.hatenablog.jp/entry/clean-code-that-works)
+    - [x] [BLOG] [グロースについての9つのPrinciple｜樫田光 | Hikaru Kashida｜note](https://note.com/hik0107/n/n9f72c3e6164b)
   - [x] その他
     - [x] [BLOG] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
     - [x] [BLOG] [Product Management Seminar Report - Speaker Deck](https://speakerdeck.com/cosmic_cowboy/product-management-seminar-report)
