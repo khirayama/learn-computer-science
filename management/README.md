@@ -153,6 +153,8 @@
 - Engineering Manager になってから身に沁みた12のアイデアと言葉 - これはただの日記 http://kths.hatenablog.com/entry/engineering-manager-ideas
 - コーチングとは何か図説してみた https://note.com/kobaka7/n/n0e2de5bc2b9a
 - さいきょうのCode of Conductを求めて - ものがたり http://atsushieno.hatenablog.com/entry/2020/01/09/234625
+- Source: 事業におけるソフトウェアエンジニアリング https://blog.kentasuzuki.net/2020/01/blog-post.html?m=1
+- 「採用には王道しかない」「全社員でやるべき」グリーCTO藤本氏 x メルペイ石川の #EMTalk レポート【前編】 | mercan (メルカン) https://mercan.mercari.com/articles/19597/
 
 ## メモ
 
