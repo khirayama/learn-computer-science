@@ -32,15 +32,15 @@
 - [x] レビューと品質
   - [x] ソフトウェアの品質
   - [x] レビュー
-- [ ] 開発手法
-  - [ ] プロセスモデル
-  - [ ] RAD(Rapid Application Development)
-  - [ ] アジャイル
-  - [ ] XP(Extreme Programming)
-  - [ ] リバースエンジニアリング
-  - [ ] マッシュアップ
-  - [ ] コンカレントエンジニアリング(CE)
-  - [ ] CMMI(Capability Maturity Model Integration)
+- [x] 開発手法
+  - [x] プロセスモデル
+  - [x] RAD(Rapid Application Development)
+  - [x] アジャイル
+  - [x] XP(Extreme Programming)
+  - [x] リバースエンジニアリング
+  - [x] マッシュアップ
+  - [x] コンカレントエンジニアリング(CE)
+  - [x] CMMI(Capability Maturity Model Integration)
 - [ ] ヒューマンインタフェースとマルチメディア
   - [ ] フールプルーフ設計
   - [ ] コード設計
