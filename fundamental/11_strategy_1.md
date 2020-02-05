@@ -4,9 +4,9 @@
   - [x] 経営戦略と情報戦略
   - [x] 全体最適化計画
   - [x] EA(Enterprise Architecture)
-- [ ] ビジネスプロセスの改善
-  - [ ] BPR(Business Process Re-engineering)
-  - [ ] BPRから派生したビジネス
+- [x] ビジネスプロセスの改善
+  - [x] BPR(Business Process Re-engineering)
+  - [x] BPRから派生したビジネス
 - [ ] システムの企画〜調達
   - [ ] システム企画
   - [ ] 要件定義
