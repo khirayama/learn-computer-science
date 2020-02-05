@@ -27,6 +27,7 @@
     - [ ] [BLOG] [12ステップで作る 組込みOS自作入門](http://kozos.jp/books/makeos/#buy_all)
     - [ ] [BLOG] [ひとりでCPUとエミュレータとコンパイラを作る Advent Calendar 2017 - Qiita](https://qiita.com/advent-calendar/2017/lowlayer)
     - [ ] [BLOG] [Git の仕組み (1) - こせきの技術日記](http://koseki.hatenablog.com/entry/2014/04/22/inside-git-1)
+    - [ ] [BLOG] [自作CPU & 自作OSをやっていく (2) - 64ビットRISC-Vの "Hello World" をRustで作った | 俺とお前とlaysakura](https://laysakura.github.io/2020/02/03/handcraft-cpu-os-2/)
     - [x] [BLOG] [Hello World くらいしかできない言語のアセンブラをつくる - Qiita](https://qiita.com/mitsuchi/items/767544d6ca044cbcc9c4)
     - [x] [BLOG] [linux procfs 徹底入門 - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/15/075138)
     - [x] [BLOG] [Linux ファイルシステムを理解したい - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/01/130347)
