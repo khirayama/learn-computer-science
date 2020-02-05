@@ -1,9 +1,9 @@
 ## ストラテジ1 システム戦略と経営戦略
 
-- [ ] 全体最適化
-  - [ ] 経営戦略と情報戦略
-  - [ ] 全体最適化計画
-  - [ ] EA(Enterprise Architecture)
+- [x] 全体最適化
+  - [x] 経営戦略と情報戦略
+  - [x] 全体最適化計画
+  - [x] EA(Enterprise Architecture)
 - [ ] ビジネスプロセスの改善
   - [ ] BPR(Business Process Re-engineering)
   - [ ] BPRから派生したビジネス
