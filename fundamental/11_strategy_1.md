@@ -25,11 +25,11 @@
   - [x] 経営管理システム
   - [x] 流通・物流システム
   - [x] エンジニアリングシステム
-- [ ] e-ビジネス
-  - [ ] EC(Electronic Commerce)
-  - [ ] e-ビジネスの進め方
-  - [ ] EDI(Electronic Data Interchange)
-  - [ ] 電子決済システム
-  - [ ] ソーシャルメディア
+- [x] e-ビジネス
+  - [x] EC(Electronic Commerce)
+  - [x] e-ビジネスの進め方
+  - [x] EDI(Electronic Data Interchange)
+  - [x] 電子決済システム
+  - [x] ソーシャルメディア
 - [ ] 重点テーマ解説
   - [ ] 分析と戦略の事例
