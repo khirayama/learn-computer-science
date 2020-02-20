@@ -157,6 +157,7 @@
 - 「採用には王道しかない」「全社員でやるべき」グリーCTO藤本氏 x メルペイ石川の #EMTalk レポート【前編】 | mercan (メルカン) https://mercan.mercari.com/articles/19597/
 - いかにスタートアップのアイデアを得るか(翻訳) | 矢本 真丈 (@yamotty3) https://yamotty.tokyo/post/20171127_how-to-get-startup-ideas/
 - スケールする組織を支えるドキュメンテーションの技術をGitLab Handbookから学ぶ https://note.com/takahiroanno/n/n62b962e021d6
+- プロフェッショナルチームのマネジメントについて｜Nakamura Hiroki｜note https://note.com/hirokinakamura/n/n2a9caaae2028
 
 ## メモ
 
