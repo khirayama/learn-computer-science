@@ -158,7 +158,7 @@
 - いかにスタートアップのアイデアを得るか(翻訳) | 矢本 真丈 (@yamotty3) https://yamotty.tokyo/post/20171127_how-to-get-startup-ideas/
 - スケールする組織を支えるドキュメンテーションの技術をGitLab Handbookから学ぶ https://note.com/takahiroanno/n/n62b962e021d6
 - プロフェッショナルチームのマネジメントについて｜Nakamura Hiroki｜note https://note.com/hirokinakamura/n/n2a9caaae2028
-
+- 「問題から目を背けず取り組む」 一休の開発チームが6年間で学んだこと - Speaker Deck https://speakerdeck.com/naoya/wen-ti-karamu-wobei-kezuqu-rizu-mu-xiu-falsekai-fa-timuga6nian-jian-dexue-ndakoto
 ## メモ
 
 - 対外交渉すべきでは。外交官のようなもの
