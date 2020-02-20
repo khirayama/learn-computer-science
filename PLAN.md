@@ -15,6 +15,7 @@
   - [ ] プログラミング言語
     - [ ] [BLOG] [実装して理解するスライス #golang](https://qiita.com/tenntenn/items/5229bce80ddb688a708a)
     - [ ] [TODO] [rui314/minilisp: A readable lisp in less than 1k lines of C](https://github.com/rui314/minilisp)
+    - [x] [BLOG] [なぜ型ファーストで考えるのか - 貳佰伍拾陸夜日記](https://tarao.hatenablog.com/entry/type-first)
     - [x] [BLOG] [🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) | Technorage](https://deepu.tech/memory-management-in-v8/)
     - [x] [BLOG] [JavaScriptの概念たち (前編) - Qiita](https://qiita.com/tsin1rou/items/90576b6c00b895478610)
     - [x] [BLOG] [JavaScriptの概念たち (後編) - Qiita](https://qiita.com/tsin1rou/items/b30885b189a8ec596c72)
