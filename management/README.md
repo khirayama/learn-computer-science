@@ -159,6 +159,8 @@
 - スケールする組織を支えるドキュメンテーションの技術をGitLab Handbookから学ぶ https://note.com/takahiroanno/n/n62b962e021d6
 - プロフェッショナルチームのマネジメントについて｜Nakamura Hiroki｜note https://note.com/hirokinakamura/n/n2a9caaae2028
 - 「問題から目を背けず取り組む」 一休の開発チームが6年間で学んだこと - Speaker Deck https://speakerdeck.com/naoya/wen-ti-karamu-wobei-kezuqu-rizu-mu-xiu-falsekai-fa-timuga6nian-jian-dexue-ndakoto
+- VGraupera/1on1-questions: Mega list of 1 on 1 meeting questions compiled from a variety to sources https://github.com/VGraupera/1on1-questions
+
 ## メモ
 
 - 対外交渉すべきでは。外交官のようなもの
