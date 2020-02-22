@@ -53,6 +53,7 @@
     - [x] [BLOG] [Yahoo!ニュースにおけるBFFパフォーマンスチューニング事例](https://www.slideshare.net/techblogyahoo/yahoobff)
     - [x] [BLOG] [QUICとHTTP/3時代のインターネット解説書はどうあるべきだろう - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2019/01/31/150740)
     - [x] [BLOG] [How Web Content Can Affect Power Usage | WebKit](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/)
+    - [x] [BLOG] [仮想DOMは本当に“速い”のか？ DOM操作の新しい考え方を、フレームワークを実装して理解しよう - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2020/02/18/103000)
 - [x] ソフトウェア工学
   - [x] サービス作り
     - [x] [BLOG] [JavaScript における文字コードと「文字数」の数え方 | blog.jxck.io](https://blog.jxck.io/entries/2017-03-02/unicode-in-javascript.html)
