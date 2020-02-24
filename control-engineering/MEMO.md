@@ -6,11 +6,11 @@
   - [x] フィードバック制御
   - [x] 制御工学の役割
   - [x] 本書の概要
-- [ ] Pythonの基礎
-  - [ ] Python環境の構築
-  - [ ] Jupyter Notebookの使い方
-  - [ ] Pythonの基礎
-  - [ ] 本書で用いるモジュール
+- [x] Pythonの基礎
+  - [x] Python環境の構築
+  - [x] Jupyter Notebookの使い方
+  - [x] Pythonの基礎
+  - [x] 本書で用いるモジュール
 - [ ] 制御のためのモデル
   - [ ] 動的システムの表現
   - [ ] 伝達関数モデル
