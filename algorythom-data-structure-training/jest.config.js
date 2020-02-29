@@ -10,6 +10,6 @@ module.exports = {
       tsConfig: 'tsconfig.json',
     },
   },
-  testMatch: ['**/*.+(ts|tsx|js|jsx)'],
+  testMatch: ['**/*.ts'],
   testEnvironment: 'node',
 };
