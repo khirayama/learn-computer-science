@@ -2,8 +2,6 @@
  * 挿入ソート
  *
  ***/
-console.log('Hi');
-
 function add(a: number, b: number): number {
   return a + b;
 }
