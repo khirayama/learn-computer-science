@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "jest --watch",
-    "test": "jest"
+    "test": "jest",
+    "check": "npx npm-check-updates"
   },
   "author": "",
   "license": "ISC",
