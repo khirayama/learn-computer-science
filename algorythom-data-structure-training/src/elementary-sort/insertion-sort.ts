@@ -2,6 +2,12 @@
  * 挿入ソート
  *
  ***/
+function swap(items: number[], i: number, j: number): void {
+  let tmp = items[i];
+  items[i] = items[j];
+  items[j] = tmp;
+}
+
 function insertionSort(nums: number[]): number[][] {
   const result = [[...nums]];
 
