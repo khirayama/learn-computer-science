@@ -8,11 +8,15 @@ export const proc: {
     proc.state = [];
   },
   log: (arg: any) => {
-    proc.state.push(arg);
+    let data = arg;
+    if (typeof arg === 'object') {
+      data = JSON.parse(JSON.stringify(arg));
+    }
+    proc.state.push(data);
   },
 };
 
-export function swap(items: number[], i: number, j: number): void {
+export function swap(items: any[], i: number, j: number): void {
   let tmp = items[i];
   items[i] = items[j];
   items[j] = tmp;
