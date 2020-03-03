@@ -2,19 +2,7 @@
  * 挿入ソート
  *
  ***/
-const proc: {
-  state: any[];
-  reset: () => void;
-  log: (arg: any) => void;
-} = {
-  state: [],
-  reset: () => {
-    proc.state = [];
-  },
-  log: (arg: any) => {
-    proc.state.push(arg);
-  },
-};
+import { proc } from '../utils';
 
 function swap(items: number[], i: number, j: number): void {
   let tmp = items[i];
