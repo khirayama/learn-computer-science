@@ -11,3 +11,9 @@ export const proc: {
     proc.state.push(arg);
   },
 };
+
+export function swap(items: number[], i: number, j: number): void {
+  let tmp = items[i];
+  items[i] = items[j];
+  items[j] = tmp;
+}
