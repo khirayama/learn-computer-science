@@ -12,7 +12,8 @@ nodemon
   })
   .on('restart', files => {
     files.forEach(file => {
-      console.log(`Restart ${file} at ${Date.now()}.`);
+      const paths = file.split('/');
+      console.log(`Run ${paths[paths.length - 1]} at ${new Date().toString()}.`);
     });
     exec(`node ${files[0]}`, (err, stdout) => {
       console.log(stdout);
