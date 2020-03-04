@@ -1,3 +1,5 @@
+import deepEqual from 'fast-deep-equal';
+
 export const proc: {
   state: any[];
   reset: () => void;
@@ -15,6 +17,23 @@ export const proc: {
     proc.state.push(data);
   },
 };
+
+export function assert(actual: any, expected: any, options: { verbose: boolean } = { verbose: false }) {
+  const red = '\u001b[31m';
+  const green = '\u001b[32m';
+
+  const result = deepEqual(actual, expected);
+  if (result) {
+    console.log(`${green}Success.`);
+  } else {
+    console.log(`${red}Failed.`);
+    if (options.verbose) {
+      console.log(`Actual: ${JSON.stringify(actual)}`);
+      console.log(`Expected: ${JSON.stringify(expected)}`);
+    }
+  }
+  return result;
+}
 
 export function swap(items: any[], i: number, j: number): void {
   let tmp = items[i];
