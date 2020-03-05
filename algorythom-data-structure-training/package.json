@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "concurrently 'node ./bin/watch.js' 'tsc -w'",
-    "start": "jest --watch",
-    "test": "jest",
+    "start": "npm run dev",
     "check": "npx npm-check-updates"
   },
   "author": "",
