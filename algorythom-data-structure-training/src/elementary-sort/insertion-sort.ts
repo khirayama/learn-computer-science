@@ -6,6 +6,7 @@ import { proc, swap, assert } from '../utils';
 
 function insertionSort(nums: number[]): number[] {
   insertionSort.proc.reset();
+  insertionSort.proc.log(nums);
 
   for (let i = 1; i < nums.length; i += 1) {
     for (let j = i; 0 <= j; j -= 1) {
@@ -16,10 +17,7 @@ function insertionSort(nums: number[]): number[] {
         break;
       }
 
-      console.log(`i: ${i}(${num1}), j: ${j}(${num2}), nums: ${nums}`);
-
       if (num2 > num1) {
-        console.log('swap', j, j - 1);
         swap(nums, j, j - 1);
       } else {
         break;
@@ -28,7 +26,6 @@ function insertionSort(nums: number[]): number[] {
     insertionSort.proc.log(nums);
   }
 
-  console.log(nums);
   return nums;
 }
 insertionSort.proc = proc;
