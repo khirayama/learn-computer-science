@@ -7,7 +7,7 @@ import { proc, swap, assert } from '../utils';
 function insertionSort(nums: number[]): number[] {
   insertionSort.proc.reset();
 
-  for (let i = 1; i < nums.length - 1; i += 1) {
+  for (let i = 1; i < nums.length; i += 1) {
     for (let j = i; 0 <= j; j -= 1) {
       const num1 = nums[j];
       const num2 = nums[j - 1] || null;
@@ -16,11 +16,11 @@ function insertionSort(nums: number[]): number[] {
         break;
       }
 
-      console.log(`i: ${i}, j: ${j}, num1: ${num1}, num2: ${num2}, nums: ${nums}`);
+      console.log(`i: ${i}(${num1}), j: ${j}(${num2}), nums: ${nums}`);
 
       if (num2 > num1) {
-        console.log('swap', i, j - 1);
-        swap(nums, i, j - 1);
+        console.log('swap', j, j - 1);
+        swap(nums, j, j - 1);
       } else {
         break;
       }
@@ -33,7 +33,6 @@ function insertionSort(nums: number[]): number[] {
 }
 insertionSort.proc = proc;
 
-// insertionSort([5, 2, 4, 6, 1, 3]);
 assert(insertionSort([5, 2, 4, 6, 1, 3]), [1, 2, 3, 4, 5, 6]);
 assert(insertionSort.proc.state, [
   [5, 2, 4, 6, 1, 3],
