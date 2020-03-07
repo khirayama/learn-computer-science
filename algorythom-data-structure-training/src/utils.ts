@@ -34,9 +34,3 @@ export function assert(actual: any, expected: any, options: { verbose: boolean }
   }
   return result;
 }
-
-export function swap(items: any[], i: number, j: number): void {
-  let tmp = items[i];
-  items[i] = items[j];
-  items[j] = tmp;
-}
