@@ -12,27 +12,23 @@
  * 最悪空間計算量: O(n) total, O(1) auxiliary
  * 安定
  ***/
-import { proc, swap, assert } from '../utils';
+import { proc, assert } from '../utils';
 
 function insertionSort(nums: number[]): number[] {
   insertionSort.proc.reset();
   insertionSort.proc.log(nums);
 
   for (let i = 1; i < nums.length; i += 1) {
-    for (let j = i; 0 <= j; j -= 1) {
-      const num1 = nums[j];
-      const num2 = nums[j - 1] || null;
+    const num1 = nums[i];
 
-      if (num2 === null) {
-        break;
-      }
-
-      if (num2 > num1) {
-        swap(nums, j, j - 1);
-      } else {
-        break;
-      }
+    let j = i - 1;
+    let num2 = nums[j];
+    while (num2 !== undefined && num2 > num1) {
+      j -= 1;
+      num2 = nums[j];
     }
+    const num = nums.splice(i, 1)[0];
+    nums.splice(j + 1, 0, num);
     insertionSort.proc.log(nums);
   }
 
@@ -40,6 +36,7 @@ function insertionSort(nums: number[]): number[] {
 }
 insertionSort.proc = proc;
 
+assert(insertionSort([0, 2, 4, 6, 1, 0]), [0, 0, 1, 2, 4, 6]);
 assert(insertionSort([5, 2, 4, 6, 1, 3]), [1, 2, 3, 4, 5, 6]);
 assert(insertionSort.proc.state, [
   [5, 2, 4, 6, 1, 3],
