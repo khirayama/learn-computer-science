@@ -28,8 +28,8 @@ export function assert(actual: any, expected: any, options: { verbose: boolean }
   } else {
     console.log(`${red}Failed.`);
     if (options.verbose) {
-      console.log(`Actual: ${JSON.stringify(actual)}`);
-      console.log(`Expected: ${JSON.stringify(expected)}`);
+      console.log(`Actual   : ${JSON.stringify(actual)}`);
+      console.log(`Expected : ${JSON.stringify(expected)}`);
     }
   }
   return result;
