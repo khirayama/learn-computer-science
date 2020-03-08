@@ -8,3 +8,37 @@
  * 最悪空間計算量: O(1) auxiliary
  * 安定
  ***/
+import { proc, assert } from '../utils';
+
+function bubbleSort(nums: number[]): number[] {
+  bubbleSort.proc.reset();
+  bubbleSort.proc.log(nums);
+
+  for (let i = nums.length - 1; i > 0; i -= 1) {
+    for (let j = nums.length - 1; j > 0; j -= 1) {
+      const num1 = nums[j];
+      const num2 = nums[j - 1];
+
+      if (num1 < num2) {
+        let tmp = nums[j];
+        nums[j] = nums[j - 1];
+        nums[j - 1] = tmp;
+      }
+    }
+    bubbleSort.proc.log(nums);
+  }
+
+  return nums;
+}
+bubbleSort.proc = proc;
+
+assert(bubbleSort([0, 2, 4, 6, 1, 0]), [0, 0, 1, 2, 4, 6]);
+assert(bubbleSort([5, 2, 4, 6, 1, 3]), [1, 2, 3, 4, 5, 6]);
+assert(bubbleSort.proc.state, [
+  [5, 2, 4, 6, 1, 3],
+  [1, 5, 2, 4, 6, 3],
+  [1, 2, 5, 3, 4, 6],
+  [1, 2, 3, 5, 4, 6],
+  [1, 2, 3, 4, 5, 6],
+  [1, 2, 3, 4, 5, 6],
+]);
