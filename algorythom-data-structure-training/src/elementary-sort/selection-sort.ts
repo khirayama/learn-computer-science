@@ -8,3 +8,39 @@
  * 最悪空間計算量: O(n) total, O(1) auxiliary
  * 不安定
  ***/
+import { proc, assert } from '../utils';
+
+function selectionSort(nums: number[]): number[] {
+  selectionSort.proc.log(nums);
+
+  for (let i = 0; i < nums.length; i += 1) {
+    let mini = i;
+
+    for (let j = i + 1; j < nums.length; j += 1) {
+      let num = nums[j];
+      if (nums[mini] > num) {
+        mini = j;
+      }
+    }
+
+    let tmp = nums[mini];
+    nums[mini] = nums[i];
+    nums[i] = tmp;
+
+    selectionSort.proc.log(nums);
+  }
+  return nums;
+}
+selectionSort.proc = proc;
+
+assert(selectionSort([5, 4, 8, 7, 9, 3, 1]), [1, 3, 4, 5, 7, 8, 9]);
+assert(selectionSort.proc.state, [
+  [5, 4, 8, 7, 9, 3, 1],
+  [1, 4, 8, 7, 9, 3, 5],
+  [1, 3, 8, 7, 9, 4, 5],
+  [1, 3, 4, 7, 9, 8, 5],
+  [1, 3, 4, 5, 9, 8, 7],
+  [1, 3, 4, 5, 7, 8, 9],
+  [1, 3, 4, 5, 7, 8, 9],
+  [1, 3, 4, 5, 7, 8, 9],
+]);
