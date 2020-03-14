@@ -11,6 +11,7 @@
 import { proc, assert } from '../utils';
 
 function selectionSort(nums: number[]): number[] {
+  shellSort.proc.reset();
   selectionSort.proc.log(nums);
 
   for (let i = 0; i < nums.length; i += 1) {
