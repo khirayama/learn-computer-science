@@ -1,5 +1,5 @@
 import { assert } from '../utils';
-import { Stack } from '../data-structure/stack';
+import { Stack } from '../elementary-data-structure/stack';
 
 // Stack Question - Reverse Polish Notation
 function reversePolishNotation(code: string) {
