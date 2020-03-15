@@ -1,6 +1,8 @@
 /***
  * [スタック - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF)
  * データを後入れ先出し（LIFO: Last In First Out; FILO: First In Last Out）の構造で保持するものである。
+ *
+ * 探索アルゴリズムでスタックを使うかキューを使うかによって、深さ優先探索（スタック使用）か幅優先探索（キュー使用）になる。
  ***/
 import { assert } from '../utils';
 
