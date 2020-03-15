@@ -7,7 +7,7 @@
 
 import { assert } from '../utils';
 
-class Queue<T> {
+export class Queue<T> {
   public items: T[] = [];
 
   public enqueu(item: T) {
