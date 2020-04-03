@@ -15,3 +15,9 @@
 
 - JavaScript
   - Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
+
+- Stack & Queue
+  - 順番に物事を処理するときに有効なことが多い。
+  - 文字列の処理などでも有用
+  - Stackの場合順序の逆転ができる
+  - Stackの場合、深さ優先探索に。Queueの場合、幅優先探索に。
