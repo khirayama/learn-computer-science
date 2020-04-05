@@ -5,6 +5,7 @@
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) Linked List, Math
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) String, Stack
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/solution/) Linked List
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) Heap
 
 - Topics
   - Linked List
