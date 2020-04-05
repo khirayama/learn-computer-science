@@ -32,3 +32,8 @@
   - Stacks
   - Queues
 - Searching and Sorting
+  - Binary Search
+  - Recursion
+  - Bubble Sort
+  - Merge Sort
+  - Quick Sort
