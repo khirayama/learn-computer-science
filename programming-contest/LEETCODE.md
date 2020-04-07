@@ -38,3 +38,5 @@
   - Merge Sort
   - Quick Sort
 - Maps and Hashing
+- Trees
+- Graphs
