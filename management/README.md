@@ -161,6 +161,7 @@
 - 「問題から目を背けず取り組む」 一休の開発チームが6年間で学んだこと - Speaker Deck https://speakerdeck.com/naoya/wen-ti-karamu-wobei-kezuqu-rizu-mu-xiu-falsekai-fa-timuga6nian-jian-dexue-ndakoto
 - VGraupera/1on1-questions: Mega list of 1 on 1 meeting questions compiled from a variety to sources https://github.com/VGraupera/1on1-questions
 - スタートアップの組織設計図の5類型と、その失敗率 | Coral Capital https://coralcap.co/2020/03/organizational-blueprints/
+- スタートアップの急激な成長で何が起こるか http://suadd.com/wp/blog/2776
 
 ## メモ
 
