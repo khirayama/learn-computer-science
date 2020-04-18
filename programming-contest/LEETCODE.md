@@ -16,16 +16,42 @@
   - String
   - Stack
   - Heap
+  - Hash Table
 
 - JavaScript
   - Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
+    - set(key, value):
+    - get(key):
+    - delete(key):
+    - has(key):
+  - Array: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array
+    - 変更メソッド
+      - splice(start, count, items): https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+      - push:
+      - pop:
+      - unshift:
+      - shift:
+      - reverse:
+      - sort:
+    - アクセサメソッド
+      - concat:
+      - slice:
 
 - Stack & Queue
   - 順番に物事を処理するときに有効なことが多い。
-  - 文字列の処理などでも有用
-  - Stackの場合順序の逆転ができる
+  - 文字列の処理などでも有用。
+  - Stackの場合順序の逆転ができる。
   - Stackの場合、深さ優先探索に。Queueの場合、幅優先探索に。
-  - Queueには、Deques(双方向キュー、両端キュー)とPriority Queue(優先度付きキュー)に注意
+  - Queueには、Deques(双方向キュー、両端キュー)とPriority Queue(優先度付きキュー)に注意。
+- Binary Search
+  - 並び替えられた要素に対して、適切な位置を探すのに有効。
+- Heap
+  - ソート済み配列で、挿入に二分探索を利用するものと思えばよい。
+
+- [ ] Intro to Data Structures and Algorithms の Technical Interviewing Techniques を見直す
+- [ ] JSの各メソッド覚える
+- [ ] 二分探索の実装をすらすらかけるとよい https://leetcode.com/problems/kth-largest-element-in-a-stream/
+  - [ ] 単純な挿入のケースもあるけど、HashMapの値を利用するようなケースもある https://leetcode.com/problems/top-k-frequent-elements/
 
 - List-Based Collections
   - Lists
