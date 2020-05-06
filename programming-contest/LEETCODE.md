@@ -8,6 +8,7 @@
 - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) Heap
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) Hash Table, Heap
 - [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) Heap
+- [Two Sum](https://leetcode.com/problems/two-sum/) Array, Hash Table
 
 - Topics
   - Linked List
@@ -17,6 +18,7 @@
   - Stack
   - Heap
   - Hash Table
+  - Array
 
 - JavaScript
   - Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
