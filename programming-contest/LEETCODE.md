@@ -52,6 +52,37 @@
 - [ ] JSの各メソッド覚える
 - [ ] 二分探索の実装をすらすらかけるとよい https://leetcode.com/problems/kth-largest-element-in-a-stream/
   - [ ] 単純な挿入のケースもあるけど、HashMapの値を利用するようなケースもある https://leetcode.com/problems/top-k-frequent-elements/
+  - [ ] 参考 [Find K Pairs with Smallest Sums - LeetCode](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+```
+class PriorityQueueForKSmallestPairs {
+  constructor() {
+    this.items = [];
+  }
+  
+  enqueue(item/* { pos1, pos2, num1, num2 } */) {
+    let left = 0;
+    let right = this.items.length;
+    let mid = Math.floor((left + right) / 2);
+
+    while (left < right && this.items.length !== 0) {
+      const tmp = this.items[mid];
+
+      if (tmp.num1 + tmp.num2 <= item.num1 + item.num2) {
+        mid += 1;
+        left = mid;
+      } else {
+        right = mid;
+      }
+      mid = Math.floor((left + right) / 2);
+    }
+    this.items.splice(mid, 0, item);
+  }
+  
+  dequeue() {
+    return this.items.shift();
+  }
+}
+```
 
 - List-Based Collections
   - Lists
