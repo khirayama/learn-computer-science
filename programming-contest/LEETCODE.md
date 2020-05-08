@@ -9,6 +9,8 @@
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) Hash Table, Heap
 - [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) Heap
 - [Two Sum](https://leetcode.com/problems/two-sum/) Array, Hash Table
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) Hash Table, String
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) Hash Table, Two Pointers, Binary Search, Sort
 
 - Topics
   - Linked List
