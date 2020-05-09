@@ -12,6 +12,7 @@
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/) Hash Table, String
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) Hash Table, Two Pointers, Binary Search, Sort
 - [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) String
+- [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) Hash Table, String
 
 - Topics
   - Linked List
