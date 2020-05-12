@@ -1,18 +1,28 @@
-- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) Linked List, Two Points
-- [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) Linked List, Two Points
-- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) Linked List
-- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) Linked List
-- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) Linked List, Math
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) String, Stack
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/solution/) Linked List
-- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) Heap
-- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) Hash Table, Heap
-- [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) Heap
-- [Two Sum](https://leetcode.com/problems/two-sum/) Array, Hash Table
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) Hash Table, String
-- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) Hash Table, Two Pointers, Binary Search, Sort
-- [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) String
-- [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) Hash Table, String
+Linked List(5/5)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) Linked List, Two Points
+- [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) Linked List, Two Points
+- [x] [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) Linked List
+- [x] [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) Linked List
+- [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) Linked List, Math
+Stack(2/2)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) String, Stack
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/solution/) Linked List
+Heap, Priority Queue(3/3)
+- [x] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) Heap
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) Hash Table, Heap
+- [x] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) Heap
+Hash Map(5/6)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) Array, Hash Table
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) Hash Table, String
+- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) Hash Table, Two Pointers, Binary Search, Sort
+- [x] [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) String
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) Hash Table, String
+- [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) Array, Hash Table
+Graph, BFS, DFS(1/4)
+- [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/) Depth-first Search, Breadth-first Search, Union Find
+- [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) Array, Depth-first Search
+- [-] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 - Topics
   - Linked List
