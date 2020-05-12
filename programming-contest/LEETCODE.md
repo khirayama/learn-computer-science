@@ -58,7 +58,7 @@
 - [ ] JSの各メソッド覚える
 - [ ] 二分探索の実装をすらすらかけるとよい https://leetcode.com/problems/kth-largest-element-in-a-stream/
   - [ ] 単純な挿入のケースもあるけど、HashMapの値を利用するようなケースもある https://leetcode.com/problems/top-k-frequent-elements/
-  - [ ] 参考 [Find K Pairs with Smallest Sums - LeetCode](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+  - [ ] 参考 [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 ```
 class PriorityQueueForKSmallestPairs {
   constructor() {
