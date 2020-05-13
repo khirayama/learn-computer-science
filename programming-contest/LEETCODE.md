@@ -33,6 +33,9 @@ Graph, BFS, DFS(1/4)
   - Heap
   - Hash Table
   - Array
+  - Depth-first Search
+  - Breadth-first Search
+  - Union Find
 
 - JavaScript
   - Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
