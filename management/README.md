@@ -166,6 +166,7 @@
 - 読書録:「知性とは何か」「学ぶとは何か」まで踏み込んで日本・フィンランド・中国・シンガポール・カナダの学校にプロの研究者が泊まり込んだ教育体験記。邦題以外最高の現代のイザベラバード、教育版のガリバー旅行記。「日本の15歳はなぜ学力が高いのか？」ルーシー・クレハン https://medium.com/ecosystembymakers/cleverland-76b1f0a5da71
 - リモートワークを実施するチームのマネジメントをマスターする 前田ヒロ https://hiromaeda.com/2020/03/29/master-remote-work/
 - エンジニアはどのようにして技術を学べば良いのか https://genkiroid.github.io/2020/05/11/learn-tech/
+- 【スライド約300枚】ベンチャーマネージャーのマニュアル｜長村禎庸｜note https://note.com/nagam/n/n6ce5c74e0fe6
 
 ## メモ
 
