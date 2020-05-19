@@ -18,11 +18,15 @@ Hash Map(5/6)
 - [x] [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) String
 - [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) Hash Table, String
 - [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) Array, Hash Table
-Graph, BFS, DFS(1/4)
+Graph, BFS, DFS(2/4)
 - [x] [Number of Islands](https://leetcode.com/problems/number-of-islands/) Depth-first Search, Breadth-first Search, Union Find
 - [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) Array, Depth-first Search
 - [-] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
+Tree, BT, BST
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) Tree, Depth-first Search
+- [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) Tree, Breadth-first Search, Depth-first Search
+- [ ] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) Tree
 
 - Topics
   - Linked List
@@ -36,6 +40,7 @@ Graph, BFS, DFS(1/4)
   - Depth-first Search
   - Breadth-first Search
   - Union Find
+  - Tree
 
 - JavaScript
   - Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
