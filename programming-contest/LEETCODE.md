@@ -23,7 +23,7 @@ Graph, BFS, DFS(2/4)
 - [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) Array, Depth-first Search
 - [-] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
-Tree, BT, BST
+Tree, BT, BST(6/9)
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) Tree, Depth-first Search
 - [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) Tree, Breadth-first Search, Depth-first Search
 - [ ] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) Tree
