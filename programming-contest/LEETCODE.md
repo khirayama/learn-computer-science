@@ -26,7 +26,12 @@ Graph, BFS, DFS(2/4)
 Tree, BT, BST(6/9)
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) Tree, Depth-first Search
 - [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) Tree, Breadth-first Search, Depth-first Search
-- [ ] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) Tree
+- [x] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) Tree
+- [x] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) Tree, Depth-first Search
+- [x] [Path Sum](https://leetcode.com/problems/path-sum/) Tree, Depth-first Search
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) Tree, Breadth-first Search
+- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) Stack, Tree, Breadth-first Search
+
 
 - Topics
   - Linked List
