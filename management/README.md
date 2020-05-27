@@ -167,6 +167,7 @@
 - リモートワークを実施するチームのマネジメントをマスターする 前田ヒロ https://hiromaeda.com/2020/03/29/master-remote-work/
 - エンジニアはどのようにして技術を学べば良いのか https://genkiroid.github.io/2020/05/11/learn-tech/
 - 【スライド約300枚】ベンチャーマネージャーのマニュアル｜長村禎庸｜note https://note.com/nagam/n/n6ce5c74e0fe6
+- Googleの組織マネジメントをシリコンバレーで聞いた話 | ユニコーン転職日記 https://unicorn-tenshoku.com/google-management-culture/
 
 ## メモ
 
