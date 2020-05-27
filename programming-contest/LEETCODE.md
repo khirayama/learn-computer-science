@@ -76,6 +76,10 @@ Tree, BT, BST(6/9)
   - 並び替えられた要素に対して、適切な位置を探すのに有効。
 - Heap
   - ソート済み配列で、挿入に二分探索を利用するものと思えばよい。
+- Tree
+  - 幅優先探索と深さ優先探索をすぐ実装できるとよい
+  - 再帰を適用できるケースが多い
+  - stack/queueを使う場合、深さなど引き継いだ方がよい情報は一緒にstack/queueに入れる
 
 - [ ] Intro to Data Structures and Algorithms の Technical Interviewing Techniques を見直す
 - [ ] JSの各メソッド覚える
