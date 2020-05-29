@@ -168,7 +168,8 @@
 - エンジニアはどのようにして技術を学べば良いのか https://genkiroid.github.io/2020/05/11/learn-tech/
 - 【スライド約300枚】ベンチャーマネージャーのマニュアル｜長村禎庸｜note https://note.com/nagam/n/n6ce5c74e0fe6
 - Googleの組織マネジメントをシリコンバレーで聞いた話 | ユニコーン転職日記 https://unicorn-tenshoku.com/google-management-culture/
-- [優れたソフトウェア開発チームが持つ共通点とは？ - GIGAZINE](https://gigazine.net/amp/20200527-high-function-team-habit?__twitter_impression=true)
+- 優れたソフトウェア開発チームが持つ共通点とは? https://gigazine.net/amp/20200527-high-function-team-habit
+- 2年半のエンジニアリングマネジャー経験から学んだこと https://ohbarye.hatenablog.jp/entry/2020/05/23/reflections-of-being-engineering-managers
 
 ## メモ
 
