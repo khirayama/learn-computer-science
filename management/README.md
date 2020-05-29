@@ -139,7 +139,7 @@
 - OKR運用失敗の3つの理由、なぜ高すぎる目標が逆効果になるのか https://coralcap.co/2019/11/three-reasons-okrs-backfire/
 - 上司が有能かどうか見極めるためのチェックポイント5つ https://www.lifehacker.jp/2019/11/201718-5-ways-to-check-if-your-boss-is-incompetent-according-to-an-expert-in-psychological-profiling_businessinsider.html
 - 質とスピード / Quality and Speed https://speakerdeck.com/twada/quality-and-speed
-- ミクシィのマネージャーは悩んでいる / mixi's manager is in trouble https://speakerdeck.com/_atsushisakai/mixis-manager-is-in-trouble
+- ミクシィのマネージャーは悩んでいる / mixi's manager is in trouble `https://speakerdeck.com/_atsushisakai/mixis-manager-is-in-trouble`
 - 納得感のある決定事項の共有方法 http://konifar-zatsu.hatenadiary.jp/entry/2019/06/03/120437
 - 経営陣と現場の距離は、社員規模に比例しない https://coralcap.co/2019/11/candid-conversations/
 - 2019年エウレカエンジニア組織の振り返り https://medium.com/eureka-engineering/engineer-org-2019-483ce8350039
@@ -168,6 +168,7 @@
 - エンジニアはどのようにして技術を学べば良いのか https://genkiroid.github.io/2020/05/11/learn-tech/
 - 【スライド約300枚】ベンチャーマネージャーのマニュアル｜長村禎庸｜note https://note.com/nagam/n/n6ce5c74e0fe6
 - Googleの組織マネジメントをシリコンバレーで聞いた話 | ユニコーン転職日記 https://unicorn-tenshoku.com/google-management-culture/
+- [優れたソフトウェア開発チームが持つ共通点とは？ - GIGAZINE](https://gigazine.net/amp/20200527-high-function-team-habit?__twitter_impression=true)
 
 ## メモ
 
