@@ -23,7 +23,7 @@ Graph, BFS, DFS(2/4)
 - [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) Array, Depth-first Search
 - [-] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
-Tree, BT, BST(7/9)
+Tree, BT, BST(9/9)
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) Tree, Depth-first Search
 - [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) Tree, Breadth-first Search, Depth-first Search
 - [x] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) Tree
@@ -31,7 +31,7 @@ Tree, BT, BST(7/9)
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/) Tree, Depth-first Search
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) Tree, Breadth-first Search
 - [x] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) Stack, Tree, Breadth-first Search
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) Tree, Depth-first Search
+- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) Tree, Depth-first Search
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) Array, Tree, Depth-first Search
 
 
