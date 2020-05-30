@@ -32,7 +32,7 @@ Tree, BT, BST(7/9)
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) Tree, Breadth-first Search
 - [x] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) Stack, Tree, Breadth-first Search
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) Tree, Depth-first Search
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) Array, Tree, Depth-first Search
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) Array, Tree, Depth-first Search
 
 
 - Topics
