@@ -33,6 +33,18 @@ Tree, BT, BST(9/9)
 - [x] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) Stack, Tree, Breadth-first Search
 - [ ] [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) Tree, Depth-first Search
 - [ ] [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) Array, Tree, Depth-first Search
+Dynamic Programming(0/11)
+- [-] [Paint Fence](https://leetcode.com/problems/paint-fence/)
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) Binary Search, Dynamic Programming
+- [ ] [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) Array, Divide and Conquer, Dynamic Programming
+- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/) Array, Dynamc Programming
+- [ ] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) Array, Dynamic Programming
+- [ ] [House Robber](https://leetcode.com/problems/house-robber/) Dynamic Programming
+- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/) Dynamic Programming
+- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) Array, Dynamic Programming
+- [ ] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) Array, Greedy
+- [ ] [Word Break](https://leetcode.com/problems/word-break/) Dynamic Programming
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/) Dynamic Programming
 
 
 - Topics
