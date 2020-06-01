@@ -31,8 +31,8 @@ Tree, BT, BST(9/9)
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/) Tree, Depth-first Search
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) Tree, Breadth-first Search
 - [x] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) Stack, Tree, Breadth-first Search
-- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) Tree, Depth-first Search
-- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) Array, Tree, Depth-first Search
+- [ ] [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) Tree, Depth-first Search
+- [ ] [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) Array, Tree, Depth-first Search
 
 
 - Topics
