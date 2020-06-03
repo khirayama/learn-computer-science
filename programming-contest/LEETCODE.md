@@ -60,6 +60,9 @@ Dynamic Programming(0/11)
   - Breadth-first Search
   - Union Find
   - Tree
+  - Binary Search
+  - Dynamic Programming
+  - Divide and Conquer
 
 - JavaScript
   - Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
