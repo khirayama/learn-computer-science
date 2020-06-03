@@ -46,7 +46,7 @@ Dynamic Programming(0/11)
 - [ ] [Word Break](https://leetcode.com/problems/word-break/) Dynamic Programming
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/) Dynamic Programming
 Binary Search(0/4)
-- [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/) Array, Binary Search
+- [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/) Array, Binary Search
 - [ ] 
 - [ ] 
 - [ ] 
