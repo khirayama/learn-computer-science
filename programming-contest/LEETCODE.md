@@ -105,9 +105,25 @@ Binary Search(0/4)
 
 - [ ] Intro to Data Structures and Algorithms の Technical Interviewing Techniques を見直す
 - [ ] JSの各メソッド覚える
-- [ ] 二分探索の実装をすらすらかけるとよい https://leetcode.com/problems/kth-largest-element-in-a-stream/
+- [ ] 二分探索の実装をすらすらかけるとよい https://leetcode.com/problems/search-insert-position/
   - [ ] 単純な挿入のケースもあるけど、HashMapの値を利用するようなケースもある https://leetcode.com/problems/top-k-frequent-elements/
   - [ ] 参考 [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+```
+let left = 0;
+let right = nums.length;
+let mid = Math.floor((left + right) / 2);
+
+while (left < right) {
+  if (nums[mid] < target) {
+    left = mid + 1;
+  } else if (target <= nums[mid]) {
+    right = mid;
+  }
+  mid = Math.floor((left + right) / 2);
+}
+return mid;
+```
+- [ ] 優先度付きキュー(ヒープ)もスムーズにかけるとよい
 ```
 class PriorityQueueForKSmallestPairs {
   constructor() {
