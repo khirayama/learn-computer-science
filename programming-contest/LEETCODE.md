@@ -47,7 +47,7 @@ Dynamic Programming(0/11)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/) Dynamic Programming
 Binary Search(0/4)
 - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/) Array, Binary Search
-- [ ] 
+- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) Array, Binary Search
 - [ ] 
 - [ ] 
 
