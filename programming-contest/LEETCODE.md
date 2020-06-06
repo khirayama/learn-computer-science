@@ -48,7 +48,7 @@ Dynamic Programming(0/11)
 Binary Search(0/4)
 - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/) Array, Binary Search
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) Array, Binary Search
-
+- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) Array, Binary Search
 
 - Topics
   - Linked List
