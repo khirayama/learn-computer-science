@@ -170,6 +170,7 @@
 - Googleの組織マネジメントをシリコンバレーで聞いた話 | ユニコーン転職日記 https://unicorn-tenshoku.com/google-management-culture/
 - 優れたソフトウェア開発チームが持つ共通点とは? https://gigazine.net/amp/20200527-high-function-team-habit
 - 2年半のエンジニアリングマネジャー経験から学んだこと https://ohbarye.hatenablog.jp/entry/2020/05/23/reflections-of-being-engineering-managers
+- スタートアップに向いてる人の特徴 https://blog.kyanny.me/entry/2020/06/05/060647
 
 ## メモ
 
