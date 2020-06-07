@@ -75,6 +75,7 @@
     - [x] [BLOG] [これからは「一番最初に思い出してもらえるブランド」しか生き残れない 池田紀行@トライバル note](https://note.com/ikedanoriyuki/n/n36cf5cb14fc3)
     - [x] [BLOG] [Google Developers Japan: Web Vitals を支える科学](https://developers-jp.googleblog.com/2020/06/web-vitals.html)
     - [x] [BLOG] [Case study: Analyzing Notion app performance PerfPerfPerf](https://3perf.com/blog/notion/)
+    - [x] [BLOG] [0から始めるNode.jsパフォーマンスチューニング | kohsweblog](https://blog.koh.dev/2020-03-04-nodejs-performance/)
   - [x] その他
     - [x] [BLOG] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
     - [x] [BLOG] [Product Management Seminar Report - Speaker Deck](https://speakerdeck.com/cosmic_cowboy/product-management-seminar-report)
