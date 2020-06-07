@@ -73,6 +73,7 @@
     - [x] [BLOG] [動作するきれいなコード: SeleniumConf Tokyo 2019 基調講演文字起こし+ t-wadaのブログ](https://t-wada.hatenablog.jp/entry/clean-code-that-works)
     - [x] [BLOG] [グロースについての9つのPrinciple｜樫田光 | Hikaru Kashida｜note](https://note.com/hik0107/n/n9f72c3e6164b)
     - [x] [BLOG] [これからは「一番最初に思い出してもらえるブランド」しか生き残れない 池田紀行@トライバル note](https://note.com/ikedanoriyuki/n/n36cf5cb14fc3)
+    - [x] [BLOG] [Google Developers Japan: Web Vitals を支える科学](https://developers-jp.googleblog.com/2020/06/web-vitals.html)
   - [x] その他
     - [x] [BLOG] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
     - [x] [BLOG] [Product Management Seminar Report - Speaker Deck](https://speakerdeck.com/cosmic_cowboy/product-management-seminar-report)
