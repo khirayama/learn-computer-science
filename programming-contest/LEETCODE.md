@@ -45,7 +45,7 @@ Dynamic Programming(0/11)
 - [ ] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) Array, Greedy
 - [ ] [Word Break](https://leetcode.com/problems/word-break/) Dynamic Programming
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/) Dynamic Programming
-Binary Search(0/4)
+Binary Search(2/4)
 - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/) Array, Binary Search
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) Array, Binary Search
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) Array, Binary Search
