@@ -50,8 +50,11 @@ Binary Search(2/4)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) Array, Binary Search
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) Array, Binary Search
 - [ ] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) Array, Binary Search
-Recursion
+Recursion(0/3)
 - [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/) Math, Binary Search
+Sliding Window(0/2)
+Greedy + Backtracking(0/4)
+Others(0/7)
 
 - Topics
   - Linked List
