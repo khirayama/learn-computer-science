@@ -172,6 +172,7 @@
 - 2年半のエンジニアリングマネジャー経験から学んだこと https://ohbarye.hatenablog.jp/entry/2020/05/23/reflections-of-being-engineering-managers
 - スタートアップに向いてる人の特徴 https://blog.kyanny.me/entry/2020/06/05/060647
 - 「言い切る人」が強すぎる。 https://blog.tinect.jp/?p=65346
+- 「完璧な評価制度」なんてこの世に存在しない https://note.com/ikedanoriyuki/n/nf4037f68949d
 
 ## メモ
 
