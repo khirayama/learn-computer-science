@@ -175,6 +175,7 @@
 - 「完璧な評価制度」なんてこの世に存在しない https://note.com/ikedanoriyuki/n/nf4037f68949d
 - 視座の可視化 https://note.com/kgmyshin/n/ndbed1f3496a1
 - 専門職と視座 https://medium.com/mixi-developers/shiza-for-professional-job-4d86dc196c08
+- 良いコードを書くための8つの習慣 https://blog.newrelic.co.jp/engineering/8-ways-become-a-better-coder/
 
 ## メモ
 
