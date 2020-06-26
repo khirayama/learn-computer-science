@@ -176,6 +176,7 @@
 - 視座の可視化 https://note.com/kgmyshin/n/ndbed1f3496a1
 - 専門職と視座 https://medium.com/mixi-developers/shiza-for-professional-job-4d86dc196c08
 - 良いコードを書くための8つの習慣 https://blog.newrelic.co.jp/engineering/8-ways-become-a-better-coder/
+- Web系企業/事業会社への最高の反面教師: "Spotify's Failed #SquadGoals"を読んで https://norihiko-saito-1219.hatenablog.com/entry/2020/06/18/095233
 
 ## メモ
 
