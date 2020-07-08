@@ -1,1 +1,3 @@
-/samples/hello
+/samples/*
+!/samples/*.c
+!/samples/*.py
