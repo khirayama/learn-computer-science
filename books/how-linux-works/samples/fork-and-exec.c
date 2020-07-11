@@ -8,7 +8,7 @@ static void child()
   char *args[] = { "/bin/echo", "hello", NULL };
   printf("I'm child! my pid is %d.\n", getpid());
   fflush(stdout);
-  execve('/bin/echo', args, NULL);
+  execve("/bin/echo", args, NULL);
   err(EXIT_FAILURE, "exec() failed");
 }
 
