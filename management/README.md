@@ -179,6 +179,7 @@
 - Web系企業/事業会社への最高の反面教師: "Spotify's Failed #SquadGoals"を読んで https://norihiko-saito-1219.hatenablog.com/entry/2020/06/18/095233
 - チーム開発で活躍するために、自分の庭を作れると良い https://blog.sushi.money/entry/2020/06/27/114814
 - 人は知ってることしか見えない https://www.ki1tos.com/entry/2020/06/23/174141
+- 開発組織マネジメントのコツ https://speakerdeck.com/naoya/kai-fa-zu-zhi-manezimentofalsekotu
 
 ## メモ
 
