@@ -77,6 +77,7 @@
     - [x] [BLOG] [Case study: Analyzing Notion app performance PerfPerfPerf](https://3perf.com/blog/notion/)
     - [x] [BLOG] [0から始めるNode.jsパフォーマンスチューニング | kohsweblog](https://blog.koh.dev/2020-03-04-nodejs-performance/)
     - [x] [BLOG] [2015年Webサーバアーキテクチャ序論 - ゆううきブログ](https://blog.yuuk.io/entry/2015-webserver-architecture)
+    - [x] [BLOG] [Stop using Page Objects and Start using App Actions](https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/)
   - [x] その他
     - [x] [BLOG] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
     - [x] [BLOG] [Product Management Seminar Report - Speaker Deck](https://speakerdeck.com/cosmic_cowboy/product-management-seminar-report)
