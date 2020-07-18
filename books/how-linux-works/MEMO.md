@@ -97,6 +97,8 @@
   - [ ] まとめ
 - [ ] あとがき
 
+Ref https://github.com/satoru-takeuchi/linux-in-practice/blob/master/04-process-scheduler/sched.c
+
 - CPUにはユーザモードとカーネルモードがある
 - システムコールの種類
   - プロセス生成、削除
