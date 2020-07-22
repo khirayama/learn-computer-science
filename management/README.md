@@ -180,6 +180,7 @@
 - チーム開発で活躍するために、自分の庭を作れると良い https://blog.sushi.money/entry/2020/06/27/114814
 - 人は知ってることしか見えない https://www.ki1tos.com/entry/2020/06/23/174141
 - 開発組織マネジメントのコツ https://speakerdeck.com/naoya/kai-fa-zu-zhi-manezimentofalsekotu
+- [#PMの基本 連載秘話] トライアングルではない、PMが持つべきスキル https://note.com/tably/n/n2f0d286ae3b6
 
 ## メモ
 
