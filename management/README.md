@@ -181,6 +181,7 @@
 - 人は知ってることしか見えない https://www.ki1tos.com/entry/2020/06/23/174141
 - 開発組織マネジメントのコツ https://speakerdeck.com/naoya/kai-fa-zu-zhi-manezimentofalsekotu
 - [#PMの基本 連載秘話] トライアングルではない、PMが持つべきスキル https://note.com/tably/n/n2f0d286ae3b6
+- 優れたプロダクトマネージャーになるための22原則 https://gigazine.net/news/20200722-principles-great-product-managers/
 
 ## メモ
 
