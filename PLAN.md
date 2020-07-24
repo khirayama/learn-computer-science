@@ -36,6 +36,7 @@
     - [ ] [BLOG] [マイコンの基本構成、動作 | ルネサス エレクトロニクス](https://www.renesas.com/jp/ja/support/technical-resources/engineer-school/mcu-01-basic-structure-operation.html)
     - [ ] [BLOG] [Renesas Engineer School | ルネサス エレクトロニクス](https://www.renesas.com/jp/ja/support/technical-resources/engineer-school.html)
     - [ ] [BLOG] [「マイコン入門!! 必携用語集」関連の最新 ニュース・レビュー・解説 記事 まとめ - ITmedia Keywords](https://www.itmedia.co.jp/keywords/edn_micro_mustvocab.html)
+    - [x] [BLOG] [システムコールとは何なのか - Qiita](https://qiita.com/sxarp/items/aff43dd83b0da69b92ce)
     - [x] [BLOG] [Hello World くらいしかできない言語のアセンブラをつくる - Qiita](https://qiita.com/mitsuchi/items/767544d6ca044cbcc9c4)
     - [x] [BLOG] [linux procfs 徹底入門 - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/15/075138)
     - [x] [BLOG] [Linux ファイルシステムを理解したい - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/01/130347)
