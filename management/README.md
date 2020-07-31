@@ -184,6 +184,7 @@
 - 優れたプロダクトマネージャーになるための22原則 https://gigazine.net/news/20200722-principles-great-product-managers/
 - VPoE handbook | エンジニア組織のマネジメントに悩んでいた三年前に戻れるなら渡したい。VPoE handbookを書き終えました https://note.com/shimizu/n/n21b91e059f33
 - スタートアップに転職する時に最低限知っておくべき株の話 http://nmi.jp/2016-07-23-stock-strategy-for-early-startup-employee
+- 経営方針というものを初めて文章にしてみた - クラシコムジャーナル https://kurashicom.jp/7256
 
 ## メモ
 
