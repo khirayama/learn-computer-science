@@ -186,6 +186,7 @@
 - スタートアップに転職する時に最低限知っておくべき株の話 http://nmi.jp/2016-07-23-stock-strategy-for-early-startup-employee
 - 経営方針というものを初めて文章にしてみた - クラシコムジャーナル https://kurashicom.jp/7256
 - 社内勉強会で専門的技術力を高めるには https://techblog.yahoo.co.jp/entry/2020072830014370/
+- DeNA南場智子さんの講演「ことに向かう力」がいい話だった https://note.com/narumi/n/n1aeb76bbbe4e
 
 ## メモ
 
