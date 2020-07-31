@@ -185,6 +185,7 @@
 - VPoE handbook | エンジニア組織のマネジメントに悩んでいた三年前に戻れるなら渡したい。VPoE handbookを書き終えました https://note.com/shimizu/n/n21b91e059f33
 - スタートアップに転職する時に最低限知っておくべき株の話 http://nmi.jp/2016-07-23-stock-strategy-for-early-startup-employee
 - 経営方針というものを初めて文章にしてみた - クラシコムジャーナル https://kurashicom.jp/7256
+- 社内勉強会で専門的技術力を高めるには https://techblog.yahoo.co.jp/entry/2020072830014370/
 
 ## メモ
 
