@@ -178,6 +178,7 @@ class PriorityQueueForKSmallestPairs {
 - Graphs
 
 Ref:
+- [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
 - [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 - [Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243)
 - [mre/the-coding-interview: Programming exercises, code katas and puzzles for your job interview training - or just for fun.](https://github.com/mre/the-coding-interview)
