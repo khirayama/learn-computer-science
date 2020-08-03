@@ -52,6 +52,8 @@ Binary Search(2/4)
 - [ ] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) Array, Binary Search
 Recursion(0/3)
 - [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/) Math, Binary Search
+- [ ] [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) Recursion
+- [-] [Split BST - LeetCode](https://leetcode.com/problems/split-bst/)
 Sliding Window(0/2)
 Greedy + Backtracking(0/4)
 Others(0/7)
