@@ -58,7 +58,18 @@ Sliding Window(0/2)
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Hash Table, Two Pointers, String, Sliding Window
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) Array, Two Pointers, Binary Search
 Greedy + Backtracking(0/4)
+- [ ] [Permutations](https://leetcode.com/problems/permutations/) Backtracking
+- [ ] [Subsets](https://leetcode.com/problems/subsets/) Array, Backtracking, Bit Manipulation
+- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/) Array, Backtracking
+- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) String, Backtracking
 Others(0/7)
+- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/) Array, Two Pointers
+- [-] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
+- [-] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence/) Binary Search, Dynamic Programming, Greedy
+- [ ] [Next Permutation](https://leetcode.com/problems/next-permutation/) Array
+- [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) Math, String
+- [ ] [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) String
 
 - Topics
   - Linked List
@@ -76,6 +87,12 @@ Others(0/7)
   - Binary Search
   - Dynamic Programming
   - Divide and Conquer
+  - Recursion
+  - Sliding Window
+  - Two Pointers
+  - Backtracking
+  - Bit Manipulation
+  - Greedy
 
 - JavaScript
   - Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
