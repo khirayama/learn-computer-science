@@ -55,6 +55,8 @@ Recursion(0/3)
 - [ ] [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) Recursion
 - [-] [Split BST - LeetCode](https://leetcode.com/problems/split-bst/)
 Sliding Window(0/2)
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Hash Table, Two Pointers, String, Sliding Window
+- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) Array, Two Pointers, Binary Search
 Greedy + Backtracking(0/4)
 Others(0/7)
 
