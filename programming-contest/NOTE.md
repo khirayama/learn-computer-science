@@ -87,6 +87,108 @@
 ** Test cases **
 */
 
+- JavaScript
+  - Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
+    - set(key, value):
+    - get(key):
+    - delete(key):
+    - has(key):
+  - Array: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array
+    - 変更メソッド
+      - splice(start, count, items): https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+      - push:
+      - pop:
+      - unshift:
+      - shift:
+      - reverse:
+      - sort:
+    - アクセサメソッド
+      - concat:
+      - slice:
+
+- Stack & Queue
+  - 順番に物事を処理するときに有効なことが多い。
+  - 文字列の処理などでも有用。
+  - Stackの場合順序の逆転ができる。
+  - Stackの場合、深さ優先探索に。Queueの場合、幅優先探索に。
+  - Queueには、Deques(双方向キュー、両端キュー)とPriority Queue(優先度付きキュー)に注意。
+- Binary Search
+  - 並び替えられた要素に対して、適切な位置を探すのに有効。
+- Heap
+  - ソート済み配列で、挿入に二分探索を利用するものと思えばよい。
+- Tree
+  - 幅優先探索と深さ優先探索をすぐ実装できるとよい
+  - 再帰を適用できるケースが多い
+  - stack/queueを使う場合、深さなど引き継いだ方がよい情報は一緒にstack/queueに入れる
+
+- [ ] Intro to Data Structures and Algorithms の Technical Interviewing Techniques を見直す
+- [ ] JSの各メソッド覚える
+- [ ] 二分探索の実装をすらすらかけるとよい https://leetcode.com/problems/search-insert-position/
+  - [ ] 単純な挿入のケースもあるけど、HashMapの値を利用するようなケースもある https://leetcode.com/problems/top-k-frequent-elements/
+  - [ ] 参考 [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+```
+let left = 0;
+let right = nums.length;
+let mid = Math.floor((left + right) / 2);
+
+while (left < right) {
+  if (nums[mid] < target) {
+    left = mid + 1;
+  } else if (target <= nums[mid]) {
+    right = mid;
+  }
+  mid = Math.floor((left + right) / 2);
+}
+return mid;
+```
+- [ ] 優先度付きキュー(ヒープ)もスムーズにかけるとよい
+```
+class PriorityQueueForKSmallestPairs {
+  constructor() {
+    this.items = [];
+  }
+  
+  enqueue(item/* { pos1, pos2, num1, num2 } */) {
+    let left = 0;
+    let right = this.items.length;
+    let mid = Math.floor((left + right) / 2);
+
+    while (left < right && this.items.length !== 0) {
+      const tmp = this.items[mid];
+
+      if (tmp.num1 + tmp.num2 <= item.num1 + item.num2) {
+        mid += 1;
+        left = mid;
+      } else {
+        right = mid;
+      }
+      mid = Math.floor((left + right) / 2);
+    }
+    this.items.splice(mid, 0, item);
+  }
+  
+  dequeue() {
+    return this.items.shift();
+  }
+}
+```
+
+- List-Based Collections
+  - Lists
+  - Arrays
+  - Linked Lists
+  - Stacks
+  - Queues
+- Searching and Sorting
+  - Binary Search
+  - Recursion
+  - Bubble Sort
+  - Merge Sort
+  - Quick Sort
+- Maps and Hashing
+- Trees
+- Graphs
+
 ## Refs
 
 - [計算量オーダーについて - Qiita](https://qiita.com/asksaito/items/59e0d48408f1eab081b5)
