@@ -199,3 +199,8 @@ class PriorityQueueForKSmallestPairs {
 - [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
 - [競技プログラミングの問題の解き方、そのマニュアル - うさぎ小屋](https://kimiyuki.net/blog/2016/06/21/how-to-solve-problems-in-competitive-programming/)
 - [Google社へ入社した人の記事のまとめを作ってみた。 - エンジニアのブログ](https://takeshim.hatenablog.com/entry/2019/04/30/150658)
+- [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
+- [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+- [Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243)
+- [mre/the-coding-interview: Programming exercises, code katas and puzzles for your job interview training - or just for fun.](https://github.com/mre/the-coding-interview)
+- [h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
