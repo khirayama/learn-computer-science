@@ -188,6 +188,7 @@
 - 社内勉強会で専門的技術力を高めるには https://techblog.yahoo.co.jp/entry/2020072830014370/
 - DeNA南場智子さんの講演「ことに向かう力」がいい話だった https://note.com/narumi/n/n1aeb76bbbe4e
 - 効率的に新しいことを学ぶ方法 https://blog.kentarok.org/entry/2020/07/31/003804
+- [結果]プロダクトマネージャーに必要な素養アンケート https://note.com/tably/n/n2caff5e00c12
 
 ## メモ
 
