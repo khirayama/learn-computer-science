@@ -103,8 +103,8 @@ Using: Python, JavaScript
 Using: C++
 
 - [問題 - AtCoder Beginners Selection](https://atcoder.jp/contests/abs/tasks)
-  - [ ] [PracticeA - Welcome to AtCoder](https://atcoder.jp/contests/abs/tasks/practice_1)
-  - [ ] [ABC086A - Product](https://atcoder.jp/contests/abs/tasks/abc086_a)
+  - [x] [PracticeA - Welcome to AtCoder](https://atcoder.jp/contests/abs/tasks/practice_1)
+  - [x] [ABC086A - Product](https://atcoder.jp/contests/abs/tasks/abc086_a)
   - [ ] [ABC081A - Placing Marbles](https://atcoder.jp/contests/abs/tasks/abc081_a)
   - [ ] [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b)
   - [ ] [ABC087B - Coins](https://atcoder.jp/contests/abs/tasks/abc087_b)
