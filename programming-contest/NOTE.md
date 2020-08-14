@@ -1,110 +1,49 @@
-- 以下の内容で再編成
-  - 競技プログラミングアプローチ
-  - データ構造とアルゴリズムの知識
-  - 言語固有
-    - テストの仕方
-    - 配列、文字列の扱い方など
-  - スニペット
-    - Binary Search、Priority Queueなど
-- アルゴリズムを覚えるのと、言語の幅を増やす意味で以下で解く
-  - JavaScript
-  - Python
-  - C++
+## Index
 
-## Note
+- [Tips](#Tips)
+- [Knowledge](#Knowledge)
+- [Syntax and Methods](#Syntax-and-Methods)
+  - [JavaScript](#JavaScript)
+  - [Python](#Python)
+  - [C++](#C++)
+- [Snippets](#Snippets)
+- [Checklist](#Checklist)
+- [Refs](#Refs)
 
-- Solution
-  - 特性をメモしておく
-    - sort済み？
-    - なぜ引数が2つに分かれてる？
-    - 特殊な要件(計算量をxxxとする)
-    - maxlength, maxvalue
-    - 問題をよく読む
-    - 境界条件、特殊条件のテストを書く
-  - 返り値の為の変数とそのreturnから書いてみる
-  - 不恰好、不効率でも一度答えに行き着くこと
-    - 問題を理解する
-    - テストケースを増やせる
-  - 与えられた条件を整理する
-    - emptyはありえる？
-    - nagativeはありえる？
-  - 再帰
-    - 問題を小さくする方法
-    - 終了条件
-  - Recursive Approach
-  - Brute Force Approach
-  - Sliding Window Approach
-  - 計算量をメモする
+## Tips
+
+- 特性をメモしておく
+  - sort済み？
+  - なぜ引数が2つに分かれてる？
+  - 特殊な要件(計算量をxxxとする)
+  - maxlength, maxvalue
+  - 問題をよく読む
+  - 境界条件、特殊条件のテストを書く
+- 返り値の為の変数とそのreturnから書いてみる
+- 不恰好、不効率でも一度答えに行き着くこと
+  - 問題を理解する
+  - テストケースを増やせる
+- 与えられた条件を整理する
+  - emptyはありえる？
+  - nagativeはありえる？
+- 再帰
+  - 問題を小さくする方法
+  - 終了条件
+- Recursive Approach
+- Brute Force Approach
+- Sliding Window Approach
+- 計算量をメモする
 - Optimize
-  - 枝狩り
-  - ループをやめる
+- 枝狩り
+- ループをやめる
 - Approach
-  - substring
-    - 総当たり
-    - window
-  - palindrome 回文
-    - 鏡写しの特性を利用して中心から左右の文字も同じかチェックするように広げればよい
-- JavaScript Tips
-  - 文字列
-    - 部分文字列: substring(start, end) // 非破壊
-    - 部分文字列: substr(start, len) // 非破壊、非推奨
-  - 数字
-    - 四捨五入: Math.round
-    - 切り上げ: Math.ceil
-    - 切り捨て: Math.floor
-    - int変換: parseInt(num, 10)
-  - 配列
-    - 抜き出し: slice(start, end) // 非破壊
-    - 置換: splice(start, count, items)
-    - 先頭追加: unshift
-    - 末尾追加: push
-    - 先頭削除: shift
-    - 末尾削除: pop
-  - その他
-    - Setを利用してunique値だけの配列を作れる
-- その他
-  - 基礎的なやり方と計算量は暗記が早そう
-    - https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%88
-    - ソート
-      - 安定ソート
-      - 内部ソート・外部ソート
-      - 比較ソート
-      - 手法(挿入・交換・選択・マージ)
-      - 再帰
-    - JavaScriptのsortは？
-      - [Array.prototype.sort について | メモログ](https://memolog.org/2018/about-array-prototype-sort.html)
-    - バブルソート
+- substring
+  - 総当たり
+  - window
+- palindrome 回文
+  - 鏡写しの特性を利用して中心から左右の文字も同じかチェックするように広げればよい
 
-## Checklist
-/*
-- [ ] Understand the description
-- [ ] Make an idea
-- [ ] Add basic test cases
-- [ ] Make an implementation
-- [ ] Check the implementation
-- [ ] Run code
-- [ ] Add extra test cases
-** Test cases **
-*/
-
-- JavaScript
-  - Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
-    - set(key, value):
-    - get(key):
-    - delete(key):
-    - has(key):
-  - Array: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array
-    - 変更メソッド
-      - splice(start, count, items): https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
-      - push:
-      - pop:
-      - unshift:
-      - shift:
-      - reverse:
-      - sort:
-    - アクセサメソッド
-      - concat:
-      - slice:
+## Knowledge
 
 - Stack & Queue
   - 順番に物事を処理するときに有効なことが多い。
@@ -121,11 +60,71 @@
   - 再帰を適用できるケースが多い
   - stack/queueを使う場合、深さなど引き継いだ方がよい情報は一緒にstack/queueに入れる
 
-- [ ] Intro to Data Structures and Algorithms の Technical Interviewing Techniques を見直す
-- [ ] JSの各メソッド覚える
-- [ ] 二分探索の実装をすらすらかけるとよい https://leetcode.com/problems/search-insert-position/
-  - [ ] 単純な挿入のケースもあるけど、HashMapの値を利用するようなケースもある https://leetcode.com/problems/top-k-frequent-elements/
-  - [ ] 参考 [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+## Checklist
+/*
+- [ ] Understand the description
+- [ ] Make an idea
+- [ ] Add basic test cases
+- [ ] Make an implementation
+- [ ] Check the implementation
+- [ ] Run code
+- [ ] Add extra test cases
+** Test cases **
+*/
+
+## Syntax and Methods
+
+### JavaScript
+
+- 文字列
+  - 部分文字列: substring(start, end) // 非破壊
+  - 部分文字列: substr(start, len) // 非破壊、非推奨
+- 数字
+  - 四捨五入: Math.round
+  - 切り上げ: Math.ceil
+  - 切り捨て: Math.floor
+  - int変換: parseInt(num, 10)
+- 配列
+  - 抜き出し: slice(start, end) // 非破壊
+  - 置換: splice(start, count, items)
+  - 先頭追加: unshift
+  - 末尾追加: push
+  - 先頭削除: shift
+  - 末尾削除: pop
+- その他
+  - Setを利用してunique値だけの配列を作れる
+- その他
+- 基礎的なやり方と計算量は暗記が早そう
+  - https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%88
+  - ソート
+    - 安定ソート
+    - 内部ソート・外部ソート
+    - 比較ソート
+    - 手法(挿入・交換・選択・マージ)
+    - 再帰
+  - JavaScriptのsortは？
+    - [Array.prototype.sort について | メモログ](https://memolog.org/2018/about-array-prototype-sort.html)
+  - バブルソート
+- Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
+  - set(key, value):
+  - get(key):
+  - delete(key):
+  - has(key):
+- Array: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array
+  - 変更メソッド
+    - splice(start, count, items): https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+    - push:
+    - pop:
+    - unshift:
+    - shift:
+    - reverse:
+    - sort:
+  - アクセサメソッド
+    - concat:
+    - slice:
+
+## Snippets
+
 ```
 let left = 0;
 let right = nums.length;
@@ -188,6 +187,14 @@ class PriorityQueueForKSmallestPairs {
 - Maps and Hashing
 - Trees
 - Graphs
+
+## Checklist
+
+- [ ] Intro to Data Structures and Algorithms の Technical Interviewing Techniques を見直す
+- [ ] 各メソッド覚える
+- [ ] 二分探索の実装をすらすらかけるとよい https://leetcode.com/problems/search-insert-position/
+  - [ ] 単純な挿入のケースもあるけど、HashMapの値を利用するようなケースもある https://leetcode.com/problems/top-k-frequent-elements/
+  - [ ] 参考 [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
 ## Refs
 
