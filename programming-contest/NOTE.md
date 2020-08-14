@@ -12,8 +12,6 @@
 
 ## Tips
 
-## Checklist
-
 - はじめに
   - 問題をよく読み特性を理解する
     - ソート済みか
@@ -58,7 +56,48 @@
 - やること
   - 自分のコードの計算量を理解する
 
+
 ## Knowledge
+
+- Topics
+  - Intro by Google
+    - List-Based Collections
+      - Lists
+      - Arrays
+      - Linked Lists
+      - Stacks
+      - Queues
+    - Searching and Sorting
+      - Binary Search
+      - Recursion
+      - Bubble Sort
+      - Merge Sort
+      - Quick Sort
+    - Maps and Hashing
+    - Trees
+    - Graphs
+  - LeetCode
+    - Linked List
+    - Two Points
+    - Math
+    - String
+    - Stack
+    - Heap
+    - Hash Table
+    - Array
+    - Depth-first Search
+    - Breadth-first Search
+    - Union Find
+    - Tree
+    - Binary Search
+    - Dynamic Programming
+    - Divide and Conquer
+    - Recursion
+    - Sliding Window
+    - Two Pointers
+    - Backtracking
+    - Bit Manipulation
+    - Greedy
 
 - Stack & Queue
   - 順番に物事を処理するときに有効なことが多い。
@@ -175,22 +214,6 @@ class PriorityQueueForKSmallestPairs {
   }
 }
 ```
-
-- List-Based Collections
-  - Lists
-  - Arrays
-  - Linked Lists
-  - Stacks
-  - Queues
-- Searching and Sorting
-  - Binary Search
-  - Recursion
-  - Bubble Sort
-  - Merge Sort
-  - Quick Sort
-- Maps and Hashing
-- Trees
-- Graphs
 
 ## Checklist
 

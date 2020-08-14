@@ -75,29 +75,6 @@ Using: Python, JavaScript
   - [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) Math, String
   - [ ] [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) String
 
-- Topics
-  - Linked List
-  - Two Points
-  - Math
-  - String
-  - Stack
-  - Heap
-  - Hash Table
-  - Array
-  - Depth-first Search
-  - Breadth-first Search
-  - Union Find
-  - Tree
-  - Binary Search
-  - Dynamic Programming
-  - Divide and Conquer
-  - Recursion
-  - Sliding Window
-  - Two Pointers
-  - Backtracking
-  - Bit Manipulation
-  - Greedy
-
 ## AtCoder
 
 Using: C++
