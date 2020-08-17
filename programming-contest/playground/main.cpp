@@ -1,21 +1,26 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-  int A, B, C, X;
-  cin >> A >> B >> C >> X;
+int findSumOfDigits(int n) {
+  int sum = 0;
+  while (n > 0) {
+    sum += n % 10;
+    n /= 10;
+  }
+  return sum;
+}
 
-  int res = 0;
-  for (int a = 0; a <= A; ++a) {
-    for (int b = 0; b <= B; ++b) {
-      for (int c = 0; c <= C; ++c) {
-        int total = 500 * a + 100 * b + 50 * c;
-        if (total == X) {
-          res += 1;
-        }
-      }
+int main() {
+  int N, A, B;
+  cin >> N >> A >> B;
+
+  int total = 0;
+  for (int i = 1; i <= N; ++i) {
+    int sum = findSumOfDigits(i);
+    if (sum >= A && sum <= B) {
+      total += i;
     }
   }
 
-  cout << res << endl;
+  cout << total << endl;
 }

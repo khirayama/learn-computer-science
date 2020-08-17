@@ -85,7 +85,7 @@ Using: C++
   - [x] [ABC081A - Placing Marbles](https://atcoder.jp/contests/abs/tasks/abc081_a)
   - [x] [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b)
   - [x] [ABC087B - Coins](https://atcoder.jp/contests/abs/tasks/abc087_b)
-  - [ ] [ABC083B - Some Sums](https://atcoder.jp/contests/abs/tasks/abc083_b)
+  - [x] [ABC083B - Some Sums](https://atcoder.jp/contests/abs/tasks/abc083_b)
   - [ ] [ABC083B - Some Sums](https://atcoder.jp/contests/abs/tasks/abc083_b)
   - [ ] [ABC085B - Kagami Mochi](https://atcoder.jp/contests/abs/tasks/abc085_b)
   - [ ] [ABC085C - Otoshidama](https://atcoder.jp/contests/abs/tasks/abc085_c)
