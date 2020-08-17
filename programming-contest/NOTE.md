@@ -149,6 +149,12 @@
     - concat
     - slice(start, end)
 - Set https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Set
+  - add
+  - clear
+  - delete
+  - forEach
+  - has
+  - size
 - Map https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
   - set(key, value):
   - get(key):
@@ -157,6 +163,22 @@
 - その他
   - JavaScriptのsortは？
     - [Array.prototype.sort について | メモログ](https://memolog.org/2018/about-array-prototype-sort.html)
+
+### Python
+
+- Set {} https://note.nkmk.me/python-set/
+  - add
+  - discard
+  - remove
+  - pop
+  - clear
+  - union |
+  - intersection &
+  - difference -
+  - symmetic_difference ^
+- while:
+- in:
+
 
 ## Snippets
 
