@@ -1,39 +1,21 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main() {
-    int N;
-    cin >> N;
+  int A, B, C, X;
+  cin >> A >> B >> C >> X;
 
-    int A[201];
-
-    for (int i = 0; i < N; ++i) {
-      cin >> A[i];
-    }
-
-    int res = 0;
-
-    while (true) {
-      bool exist_odd = false;
-
-      for (int i = 0; i < N; ++i) {
-        cout << A[i] << endl;
-        if (A[i] % 2 != 0) {
-          exist_odd = true;
+  int res = 0;
+  for (int a = 0; a <= A; ++a) {
+    for (int b = 0; b <= B; ++b) {
+      for (int c = 0; c <= C; ++c) {
+        int total = 500 * a + 100 * b + 50 * c;
+        if (total == X) {
+          res += 1;
         }
       }
-
-      if (exist_odd) {
-        break;
-      }
-
-      for (int i = 0; i < N; ++i) {
-        A[i] /= 2;
-      }
-
-      ++res;
     }
+  }
 
-    cout << res << endl;
+  cout << res << endl;
 }
