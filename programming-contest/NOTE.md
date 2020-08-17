@@ -113,30 +113,6 @@
   - 幅優先探索と深さ優先探索をすぐ実装できるとよい
   - 再帰を適用できるケースが多い
   - stack/queueを使う場合、深さなど引き継いだ方がよい情報は一緒にstack/queueに入れる
-
-
-## Syntax and Methods
-
-### JavaScript
-
-- 文字列
-  - 部分文字列: substring(start, end) // 非破壊
-  - 部分文字列: substr(start, len) // 非破壊、非推奨
-- 数字
-  - 四捨五入: Math.round
-  - 切り上げ: Math.ceil
-  - 切り捨て: Math.floor
-  - int変換: parseInt(num, 10)
-- 配列
-  - 抜き出し: slice(start, end) // 非破壊
-  - 置換: splice(start, count, items)
-  - 先頭追加: unshift
-  - 末尾追加: push
-  - 先頭削除: shift
-  - 末尾削除: pop
-- その他
-  - Setを利用してunique値だけの配列を作れる
-- その他
 - 基礎的なやり方と計算量は暗記が早そう
   - https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%88
   - ソート
@@ -145,26 +121,42 @@
     - 比較ソート
     - 手法(挿入・交換・選択・マージ)
     - 再帰
-  - JavaScriptのsortは？
-    - [Array.prototype.sort について | メモログ](https://memolog.org/2018/about-array-prototype-sort.html)
-  - バブルソート
-- Map: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
+
+
+## Syntax and Methods
+
+### JavaScript
+
+- String https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String
+  - アクセサメソッド
+    - substring(start, end) 部分文字列
+  - 変更メソッド
+    - substr(start, len) 部分文字列
+- Math https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Math
+  - round 四捨五入
+  - ceil 切り上げ
+  - floor 切り捨て
+- Array https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array
+  - 変更メソッド
+    - splice(start, count, items) https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+    - push 末尾追加
+    - pop 末尾削除
+    - unshift 先頭追加
+    - shift 先頭削除
+    - reverse
+    - sort
+  - アクセサメソッド
+    - concat
+    - slice(start, end)
+- Set https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Set
+- Map https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
   - set(key, value):
   - get(key):
   - delete(key):
   - has(key):
-- Array: https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array
-  - 変更メソッド
-    - splice(start, count, items): https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
-    - push:
-    - pop:
-    - unshift:
-    - shift:
-    - reverse:
-    - sort:
-  - アクセサメソッド
-    - concat:
-    - slice:
+- その他
+  - JavaScriptのsortは？
+    - [Array.prototype.sort について | メモログ](https://memolog.org/2018/about-array-prototype-sort.html)
 
 ## Snippets
 
