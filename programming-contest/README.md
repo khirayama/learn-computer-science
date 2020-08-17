@@ -1,6 +1,6 @@
 ## LeetCode
 
-Using: Python, JavaScript
+Using: JavaScript, Python
 
 - Linked List(0/5)
   - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) Linked List, Two Points
