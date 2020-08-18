@@ -86,7 +86,7 @@ Using: C++
   - [x] [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b)
   - [x] [ABC087B - Coins](https://atcoder.jp/contests/abs/tasks/abc087_b)
   - [x] [ABC083B - Some Sums](https://atcoder.jp/contests/abs/tasks/abc083_b)
-  - [ ] [ABC088B - Card Game for Two](https://atcoder.jp/contests/abs/tasks/abc088_b)
+  - [x] [ABC088B - Card Game for Two](https://atcoder.jp/contests/abs/tasks/abc088_b)
   - [ ] [ABC085B - Kagami Mochi](https://atcoder.jp/contests/abs/tasks/abc085_b)
   - [ ] [ABC085C - Otoshidama](https://atcoder.jp/contests/abs/tasks/abc085_c)
   - [ ] [ABC049C - 白昼夢](https://atcoder.jp/contests/abs/tasks/arc065_a)

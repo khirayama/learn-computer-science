@@ -1,26 +1,29 @@
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
-int findSumOfDigits(int n) {
-  int sum = 0;
-  while (n > 0) {
-    sum += n % 10;
-    n /= 10;
-  }
-  return sum;
-}
-
 int main() {
-  int N, A, B;
-  cin >> N >> A >> B;
+  int N;
+  cin >> N;
 
-  int total = 0;
-  for (int i = 1; i <= N; ++i) {
-    int sum = findSumOfDigits(i);
-    if (sum >= A && sum <= B) {
-      total += i;
+  int a[101];
+  for (int i = 0; i < N; ++i) {
+    cin >> a[i];
+  }
+
+  sort(a, a + N, greater<int>());
+
+  int Alice = 0;
+  int Bob = 0;
+
+  for (int i = 0; i < N; ++i) {
+    if (i % 2 == 0) {
+      Alice += a[i];
+    }
+    else {
+      Bob += a[i];
     }
   }
 
-  cout << total << endl;
+  cout << Alice - Bob << endl;
 }
