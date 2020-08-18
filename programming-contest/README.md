@@ -5,7 +5,7 @@ Using: JavaScript, Python
 - Linked List(0/5)
   - [x] Easy [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) Linked List, Two Points
   - [x] Medium [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) Linked List, Two Points
-  - [ ] [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) Linked List
+  - [x] Easy [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) Linked List
   - [ ] [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) Linked List
   - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) Linked List, Math
 - Stack(0/2)
