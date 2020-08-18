@@ -2,7 +2,7 @@
 
 Using: JavaScript, Python
 
-- Linked List(0/5)
+- Linked List(3/5)
   - [x] Easy [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) Linked List, Two Points
   - [x] Medium [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) Linked List, Two Points
   - [x] Easy [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) Linked List
