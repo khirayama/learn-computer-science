@@ -80,6 +80,7 @@ Using: JavaScript, Python
 Using: C++
 
 - [問題 - AtCoder Beginners Selection](https://atcoder.jp/contests/abs/tasks)
+  - [AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問](https://qiita.com/drken/items/fd4e5e3630d0f5859067)
   - [x] [PracticeA - Welcome to AtCoder](https://atcoder.jp/contests/abs/tasks/practice_1)
   - [x] [ABC086A - Product](https://atcoder.jp/contests/abs/tasks/abc086_a)
   - [x] [ABC081A - Placing Marbles](https://atcoder.jp/contests/abs/tasks/abc081_a)
