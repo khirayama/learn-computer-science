@@ -129,5 +129,6 @@ Using: C++
     - その他のテクニック(0/4)
     - 実装問題(0/3)
     - 数学的な問題(0/6)
-- 過去問
-  - [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)
+- その他
+  - 過去問 [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)
+  - アルゴリズム全般 [Spaghetti Source - 各種アルゴリズムの C++ による実装](http://www.prefield.com/algorithm/)
