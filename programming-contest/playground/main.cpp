@@ -1,29 +1,19 @@
 #include <iostream>
-#include <algorithm>
+#include <set>
 using namespace std;
 
 int main() {
   int N;
+  int d[101];
+
   cin >> N;
-
-  int a[101];
   for (int i = 0; i < N; ++i) {
-    cin >> a[i];
+    cin >> d[i];
   }
 
-  sort(a, a + N, greater<int>());
-
-  int Alice = 0;
-  int Bob = 0;
-
+  set<int> values;
   for (int i = 0; i < N; ++i) {
-    if (i % 2 == 0) {
-      Alice += a[i];
-    }
-    else {
-      Bob += a[i];
-    }
+    values.insert(d[i]);
   }
-
-  cout << Alice - Bob << endl;
+  cout << values.size() << endl;
 }

@@ -79,8 +79,8 @@ Using: JavaScript, Python
 
 Using: C++
 
-- [問題 - AtCoder Beginners Selection](https://atcoder.jp/contests/abs/tasks)
-  - [AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問](https://qiita.com/drken/items/fd4e5e3630d0f5859067)
+- [AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問](https://qiita.com/drken/items/fd4e5e3630d0f5859067)
+- [問題 - AtCoder Beginners Selection](https://atcoder.jp/contests/abs/tasks)(7/10)
   - [x] [PracticeA - Welcome to AtCoder](https://atcoder.jp/contests/abs/tasks/practice_1)
   - [x] [ABC086A - Product](https://atcoder.jp/contests/abs/tasks/abc086_a)
   - [x] [ABC081A - Placing Marbles](https://atcoder.jp/contests/abs/tasks/abc081_a)
@@ -88,7 +88,7 @@ Using: C++
   - [x] [ABC087B - Coins](https://atcoder.jp/contests/abs/tasks/abc087_b)
   - [x] [ABC083B - Some Sums](https://atcoder.jp/contests/abs/tasks/abc083_b)
   - [x] [ABC088B - Card Game for Two](https://atcoder.jp/contests/abs/tasks/abc088_b)
-  - [ ] [ABC085B - Kagami Mochi](https://atcoder.jp/contests/abs/tasks/abc085_b)
+  - [x] [ABC085B - Kagami Mochi](https://atcoder.jp/contests/abs/tasks/abc085_b)
   - [ ] [ABC085C - Otoshidama](https://atcoder.jp/contests/abs/tasks/abc085_c)
   - [ ] [ABC049C - 白昼夢](https://atcoder.jp/contests/abs/tasks/arc065_a)
   - [ ] [ABC086C - Traveling](https://atcoder.jp/contests/abs/tasks/arc089_a)
