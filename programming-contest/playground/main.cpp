@@ -1,24 +1,40 @@
 #include <iostream>
-#include <set>
+#include <string>
+#include <algorithm>
 using namespace std;
 
+string divide[4] = {"dream", "dreamer", "erase", "eraser"};
+
 int main() {
-  int N;
-  int Y;
+  string S;
+  cin >> S;
 
-  cin >> N;
-  cin >> Y;
+  reverse(S.begin(), S.end());
+  for (int i = 0; i < 4; ++i) {
+    reverse(divide[i].begin(), divide[i].end());
+  }
 
-  for (int a = 0; a <= N; ++a) {
-    for (int b = 0; b <= N - a; ++b) {
-      int c = N - a - b;
+  bool isOK = true;
+  for (int i = 0; i < S.size();) {
+    bool canDivided = false;
 
-      int total = a * 10000 + b * 5000 + c * 1000;
-      if (total == Y) {
-        cout << a << " " << b << " " << c << endl;
-        return 0;
+    for (int j = 0; j < 4; ++j) {
+      string d = divide[j];
+      if (S.substr(i, d.size()) == d) {
+        canDivided = true;
+        i += d.size();
       }
     }
+
+    if (!canDivided) {
+      isOK = false;
+      break;
+    }
   }
-  cout << "-1 -1 -1" << endl;
+
+  if (isOK) {
+    cout << "YES" << endl;
+  } else {
+    cout << "NO" << endl;
+  }
 }

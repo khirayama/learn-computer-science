@@ -90,5 +90,5 @@ Using: C++
   - [x] [ABC088B - Card Game for Two](https://atcoder.jp/contests/abs/tasks/abc088_b)
   - [x] [ABC085B - Kagami Mochi](https://atcoder.jp/contests/abs/tasks/abc085_b)
   - [x] [ABC085C - Otoshidama](https://atcoder.jp/contests/abs/tasks/abc085_c)
-  - [ ] [ABC049C - 白昼夢](https://atcoder.jp/contests/abs/tasks/arc065_a)
+  - [x] [ABC049C - 白昼夢](https://atcoder.jp/contests/abs/tasks/arc065_a)
   - [ ] [ABC086C - Traveling](https://atcoder.jp/contests/abs/tasks/arc089_a)
