@@ -4,16 +4,21 @@ using namespace std;
 
 int main() {
   int N;
-  int d[101];
+  int Y;
 
   cin >> N;
-  for (int i = 0; i < N; ++i) {
-    cin >> d[i];
-  }
+  cin >> Y;
 
-  set<int> values;
-  for (int i = 0; i < N; ++i) {
-    values.insert(d[i]);
+  for (int a = 0; a <= N; ++a) {
+    for (int b = 0; b <= N - a; ++b) {
+      int c = N - a - b;
+
+      int total = a * 10000 + b * 5000 + c * 1000;
+      if (total == Y) {
+        cout << a << " " << b << " " << c << endl;
+        return 0;
+      }
+    }
   }
-  cout << values.size() << endl;
+  cout << "-1 -1 -1" << endl;
 }
