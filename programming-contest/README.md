@@ -9,8 +9,8 @@ Using: JavaScript, Python
   - [x] Medium [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) Linked List
   - [x] Medium [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) Linked List, Math
 - Stack(2/2)
-  - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) String, Stack
-  - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) Linked List
+  - [x] Easy [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) String, Stack
+  - [x] Easy [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) Linked List
 - Heap, Priority Queue(0/3)
   - [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) Heap
   - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) Hash Table, Heap
