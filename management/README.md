@@ -190,6 +190,7 @@
 - 効率的に新しいことを学ぶ方法 https://blog.kentarok.org/entry/2020/07/31/003804
 - [結果]プロダクトマネージャーに必要な素養アンケート https://note.com/tably/n/n2caff5e00c12
 - メルカリを「育成型組織」にするため立ち上がったタスクフォース、その結果は？ https://mercan.mercari.com/articles/24520/
+- ジェンダー問題とスタートアップ：経営者が念頭に置くべき反・家父長制という補助線 https://note.com/keikubo/n/n84667f2a9a5c
 
 ## メモ
 
