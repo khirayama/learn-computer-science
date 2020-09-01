@@ -180,40 +180,6 @@
 - in:
 
 
-## Snippets
-
-- [ ] 優先度付きキュー(ヒープ)もスムーズにかけるとよい
-```
-class PriorityQueueForKSmallestPairs {
-  constructor() {
-    this.items = [];
-  }
-  
-  enqueue(item/* { pos1, pos2, num1, num2 } */) {
-    let left = 0;
-    let right = this.items.length;
-    let mid = Math.floor((left + right) / 2);
-
-    while (left < right && this.items.length !== 0) {
-      const tmp = this.items[mid];
-
-      if (tmp.num1 + tmp.num2 <= item.num1 + item.num2) {
-        mid += 1;
-        left = mid;
-      } else {
-        right = mid;
-      }
-      mid = Math.floor((left + right) / 2);
-    }
-    this.items.splice(mid, 0, item);
-  }
-  
-  dequeue() {
-    return this.items.shift();
-  }
-}
-```
-
 ## Checklist
 
 - [ ] Intro to Data Structures and Algorithms の Technical Interviewing Techniques を見直す
