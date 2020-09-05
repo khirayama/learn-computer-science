@@ -176,8 +176,18 @@
   - intersection &
   - difference -
   - symmetic_difference ^
-- while:
-- in:
+- Array
+  - append 末尾追加
+  - extend / + 末尾に別のリストやタプルを結合
+  - insert 指定位置に要素を追加
+- Math
+  - round 整数に丸める場合、2の倍数に丸める 1.5 -> 2, 2.5 -> 2
+  - math.ceil
+  - math.floor
+- Syntax
+  - while:
+  - in:
+  - A if condition else B
 
 
 ## Checklist
