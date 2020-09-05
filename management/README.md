@@ -191,6 +191,7 @@
 - [結果]プロダクトマネージャーに必要な素養アンケート https://note.com/tably/n/n2caff5e00c12
 - メルカリを「育成型組織」にするため立ち上がったタスクフォース、その結果は？ https://mercan.mercari.com/articles/24520/
 - ジェンダー問題とスタートアップ：経営者が念頭に置くべき反・家父長制という補助線 https://note.com/keikubo/n/n84667f2a9a5c
+- リクルートテクノロジーズ　エンジニアコース新人研修の内容を公開します！（2020年度版） | リクルートテクノロジーズ　メンバーズブログ https://recruit-tech.co.jp/blog/2020/08/21/rtech_bootcamp_2020/
 
 ## メモ
 
