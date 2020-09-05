@@ -13,8 +13,8 @@ Using: JavaScript, Python
   - [x] Easy [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) Linked List
 - Heap, Priority Queue(1/3)
   - [x] Easy [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) Heap
-  - [ ] Medium [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) Hash Table, Heap
-  - [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) Heap
+  - [x] Medium [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) Hash Table, Heap
+  - [ ] Medium [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) Heap
 - Hash Map(0/6)
   - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) Array, Hash Table
   - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) Hash Table, String
