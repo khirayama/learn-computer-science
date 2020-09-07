@@ -1,0 +1,41 @@
+- ROSってのがある？
+- turtlebot3ってのがある？
+
+- ROSをMacにインストール
+  - [Mac で ROS の環境構築 - Yura YuLife](https://yura2.hateblo.jp/entry/2016/11/09/Mac_%E3%81%A7_ROS_%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
+  - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
+    - [brew tap ros/deps fails because gfortran.rb uses MacOS.prefer_64_bit? directive · Issue #36 · ros/homebrew-deps](https://github.com/ros/homebrew-deps/issues/36)
+    - [macOS Mojaveにros kineticをインストール - Qiita](https://qiita.com/watakandai/items/f19f42929193ee45e39c)
+  - 無理そう
+- Dockerを利用
+  - [Docker上でGUIのROS1/ROS2を一瞬でセットアップする方法 - Qiita](https://qiita.com/karaage0703/items/957bdc7b4dabfc6639da)
+    - まじで一瞬だった。ひとまずこれでやる
+  - [docker/Tutorials/Docker - ROS Wiki](http://wiki.ros.org/docker/Tutorials/Docker)
+- ROSでなにやる
+  - [ROSの開発環境を構築するkinetic編 - ふまじめロボット倶楽部](http://dashimaki360.hatenablog.com/entry/2018/01/08/235959)
+  - [ROS_11:基本　ROSのサンプルを使ってみる。(turtleSim) - Qiita](https://qiita.com/NWLab/items/687bbac01e69301e24c5)
+    - これでtutlesimがキーボードで動かせた
+  - [ROSプログラミング・ガイド](https://tail-island.github.io/six_point_two_eight/)
+  - [ROS講座00 目次 - Qiita](https://qiita.com/srs/items/5f44440afea0eb616b4a)
+    - これよさそう
+  - [初めてのROS（ROSチュートリアルを使って） | Tokyo Opensource Robotics Kyokai Association | Tokyo Opensource Robotics Kyokai Association](https://opensource-robotics.tokyo.jp/?p=4450)
+  - [Turtlebot3の実機を使ったSLAMとNavigationをAWS RoboMaker上でやってみた - aptpod Tech Blog](https://tech.aptpod.co.jp/entry/2020/07/03/100000#%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E7%B5%8C%E7%94%B1%E3%81%A7SLAMNavigation%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E3%81%9F%E3%82%81%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AAROS%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%92%E8%AA%BF%E3%81%B9%E3%82%8B)
+  - [ROS MelodicでTurtlebot3をGazeboで動かしてついでにSLAMする - Qiita](https://qiita.com/protocol1964/items/1e63aebddd7d5bfd0d1b)
+    - SLAMやるのに良さそうなのでやってみる
+- トラブルシューティング
+  - [ROS環境におけるChoreonoidの実行 - Choreonoid 開発版 ドキュメント](https://choreonoid.org/ja/manuals/latest/ros/run-choreonoid.html#id8)
+    - 補足: roslaunch の実行に失敗する場合の対処方法
+
+- 調べ物
+  - [melodic - ROS Wiki](http://wiki.ros.org/melodic)
+
+- 見たリンク
+  - [TurtleBot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#ros-1-simulation)
+  - [turtlebot3_manipulation/turtlebot3_manipulation_slam at master · ROBOTIS-GIT/turtlebot3_manipulation](https://github.com/ROBOTIS-GIT/turtlebot3_manipulation/tree/master/turtlebot3_manipulation_slam)
+  - [Mac で ROS の環境構築 - Yura YuLife](https://yura2.hateblo.jp/entry/2016/11/09/Mac_%E3%81%A7_ROS_%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
+    - うまくできなかったので、公式に
+      - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
+  - [ROS環境のインストールとセットアップ - ROS Wiki](http://wiki.ros.org/ja/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
+  - [Besttechnology - Turtlebot3 Burger](https://www.besttechnology.co.jp/modules/onlineshop/index.php?fct=photo&p=192)
+  - [Turtlebot3の実機を使ったSLAMとNavigationをAWS RoboMaker上でやってみた - aptpod Tech Blog](https://tech.aptpod.co.jp/entry/2020/07/03/100000)
+  - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
