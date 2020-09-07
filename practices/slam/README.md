@@ -1,3 +1,5 @@
+## 雑記
+
 - ROSをMacにインストール
   - [Mac で ROS の環境構築 - Yura YuLife](https://yura2.hateblo.jp/entry/2016/11/09/Mac_%E3%81%A7_ROS_%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
   - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
@@ -43,6 +45,15 @@
   - [Turtlebot3の実機を使ったSLAMとNavigationをAWS RoboMaker上でやってみた - aptpod Tech Blog](https://tech.aptpod.co.jp/entry/2020/07/03/100000)
   - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
 
+## 環境構築
+
+- [x] Docker & XQuartzの動作を確認する
+  - [Docker for Mac で X11 アプリケーションを動かす - Qiita](https://qiita.com/hoto17296/items/bdb2ab24bc32b6b7f360)
+- [x] Docker & XQuartz環境でROSが動く状態にする
+  - [Docker for MacでROSの亀さんと戯れた - Qiita](https://qiita.com/ryo_21/items/4e0006adcb300173acda)
+    - 最初に確認に使ったDocker & XQuartz環境を元にこれでturtlesimを動かす
+    - 最初のができて、これができない場合、ほぼROSのせい
+
 - メモ
   - XQuartz with Docker
     - xeyes [Docker for Mac で X11 アプリケーションを動かす - Qiita](https://qiita.com/hoto17296/items/bdb2ab24bc32b6b7f360)
@@ -53,3 +64,8 @@
       - `Open -a XQuartz`
       - `docker build -t xeyes .` with the content of Dockerfile.firefox
       - `docker run --rm -e DISPLAY=$(hostname):0 -v ~/.Xauthority:/root/.Xauthority firefox`
+
+## 学習
+
+- turtlesimをコードで動かす
+  - [ROS turtlesimを自動的に動かすプログラムの作成 - Symfoware](https://symfoware.blog.fc2.com/blog-entry-2284.html)
