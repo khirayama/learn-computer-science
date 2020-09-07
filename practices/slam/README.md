@@ -45,7 +45,7 @@
   - [Turtlebot3の実機を使ったSLAMとNavigationをAWS RoboMaker上でやってみた - aptpod Tech Blog](https://tech.aptpod.co.jp/entry/2020/07/03/100000)
   - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
 
-## 環境構築
+## 開発環境確認
 
 - [x] Docker & XQuartzの動作を確認する
   - [Docker for Mac で X11 アプリケーションを動かす - Qiita](https://qiita.com/hoto17296/items/bdb2ab24bc32b6b7f360)
@@ -64,6 +64,34 @@
       - `Open -a XQuartz`
       - `docker build -t xeyes .` with the content of Dockerfile.firefox
       - `docker run --rm -e DISPLAY=$(hostname):0 -v ~/.Xauthority:/root/.Xauthority firefox`
+
+## 開発環境構築
+
+```
+docker build -t ros-tutorials .
+```
+
+## 開発
+
+Mainの立ち上げ
+
+```
+open -a Xquartz
+HOST_IP=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')
+docker run --rm -e DISPLAY=$HOST_IP:0 -v ~/.Xauthority:/root/.Xauthority -v $(pwd):/root/catkin_ws/src --name ros-test ros-tutorials roscore
+```
+
+Docker Container内で作業するため以下で端末の立ち上げ
+
+```
+docker exec -it ros-test bin/bash
+```
+
+コンテナ内部で読み込み
+
+```
+source opt/ros/kinetic/setup.bash
+```
 
 ## 学習
 
