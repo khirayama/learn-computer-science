@@ -76,7 +76,7 @@ docker build -t ros-tutorials .
 Mainの立ち上げ
 
 ```
-open -a Xquartz
+open -a XQuartz
 HOST_IP=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')
 docker run --rm -e DISPLAY=$HOST_IP:0 -v ~/.Xauthority:/root/.Xauthority -v $(pwd):/root/catkin_ws/src --name ros-test ros-tutorials roscore
 ```
