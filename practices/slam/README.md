@@ -10,6 +10,11 @@
   - [Docker上でGUIのROS1/ROS2を一瞬でセットアップする方法 - Qiita](https://qiita.com/karaage0703/items/957bdc7b4dabfc6639da)
     - まじで一瞬だった。ひとまずこれでやる
   - [docker/Tutorials/Docker - ROS Wiki](http://wiki.ros.org/docker/Tutorials/Docker)
+  - [OSXのdocker環境でROSを動かしてみる - Qiita](https://qiita.com/mechamogera/items/1de9a49306087936d954)
+    - なんかうまくいかない
+  - [Docker for Mac で X11 アプリケーションを動かす - Qiita](https://qiita.com/hoto17296/items/bdb2ab24bc32b6b7f360)
+    - XQuartzとDockerの動作確認
+      - できた
 - ROSでなにやる
   - [ROSの開発環境を構築するkinetic編 - ふまじめロボット倶楽部](http://dashimaki360.hatenablog.com/entry/2018/01/08/235959)
   - [ROS_11:基本　ROSのサンプルを使ってみる。(turtleSim) - Qiita](https://qiita.com/NWLab/items/687bbac01e69301e24c5)
@@ -41,3 +46,14 @@
   - [Besttechnology - Turtlebot3 Burger](https://www.besttechnology.co.jp/modules/onlineshop/index.php?fct=photo&p=192)
   - [Turtlebot3の実機を使ったSLAMとNavigationをAWS RoboMaker上でやってみた - aptpod Tech Blog](https://tech.aptpod.co.jp/entry/2020/07/03/100000)
   - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
+
+- メモ
+  - XQuartz with Docker
+    - xeyes [Docker for Mac で X11 アプリケーションを動かす - Qiita](https://qiita.com/hoto17296/items/bdb2ab24bc32b6b7f360)
+      - `Open -a XQuartz`
+      - `docker build -t xeyes .` with the content of Dockerfile.xeyes
+      - `docker run --rm -e DISPLAY=$(hostname):0 -v ~/.Xauthority:/root/.Xauthority xeyes`
+    - firefox [docker上で起動したfirefoxをホスト側で操作する - takapiのブログ](https://takapi86.hatenablog.com/entry/2019/03/24/144008)
+      - `Open -a XQuartz`
+      - `docker build -t xeyes .` with the content of Dockerfile.firefox
+      - `docker run --rm -e DISPLAY=$(hostname):0 -v ~/.Xauthority:/root/.Xauthority firefox`
