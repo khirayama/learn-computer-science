@@ -67,5 +67,5 @@
 
 ## 学習
 
-- turtlesimをコードで動かす
+- [ ] turtlesimをコードで動かす
   - [ROS turtlesimを自動的に動かすプログラムの作成 - Symfoware](https://symfoware.blog.fc2.com/blog-entry-2284.html)
