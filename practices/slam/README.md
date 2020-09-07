@@ -1,5 +1,3 @@
-- ROSってのがある？
-- turtlebot3ってのがある？
 - ROSをMacにインストール
   - [Mac で ROS の環境構築 - Yura YuLife](https://yura2.hateblo.jp/entry/2016/11/09/Mac_%E3%81%A7_ROS_%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
   - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
