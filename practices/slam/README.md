@@ -1,6 +1,5 @@
 - ROSってのがある？
 - turtlebot3ってのがある？
-
 - ROSをMacにインストール
   - [Mac で ROS の環境構築 - Yura YuLife](https://yura2.hateblo.jp/entry/2016/11/09/Mac_%E3%81%A7_ROS_%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
   - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
@@ -25,6 +24,9 @@
 - トラブルシューティング
   - [ROS環境におけるChoreonoidの実行 - Choreonoid 開発版 ドキュメント](https://choreonoid.org/ja/manuals/latest/ros/run-choreonoid.html#id8)
     - 補足: roslaunch の実行に失敗する場合の対処方法
+- 書籍
+  - [O'Reilly Japan - プログラミングROS](https://www.oreilly.co.jp/books/9784873118093/)
+    - ひとまずこれ使うのがよさそう
 
 - 調べ物
   - [melodic - ROS Wiki](http://wiki.ros.org/melodic)
