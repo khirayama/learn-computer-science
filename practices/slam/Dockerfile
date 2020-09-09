@@ -1,7 +1,6 @@
 FROM ros:kinetic
 
-RUN apt-get update \
-  && apt-get install -y ros-kinetic-ros-tutorials \
-    ros-kinetic-common-tutorials \
-    && rm -rf /var/lib/apt/lists/
+RUN sudo apt-get update \
+  && sudo apt-get install -y ros-kinetic-ros-tutorials ros-kinetic-common-tutorials \
+  && rm -rf /var/lib/apt/lists/
 RUN mkdir -p ~/catkin_ws/src
