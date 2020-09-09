@@ -81,7 +81,7 @@ Mainの立ち上げ
 ```
 open -a XQuartz
 HOST_IP=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')
-docker run --rm -e DISPLAY=$HOST_IP:0 -v ~/.Xauthority:/root/.Xauthority -v $(pwd)/catkin_ws:/root/catkin_ws --name ros-test ros-tutorials roscore
+docker run -d --rm -e DISPLAY=$HOST_IP:0 -v ~/.Xauthority:/root/.Xauthority -v $(pwd)/catkin_ws:/root/catkin_ws --name ros-test ros-tutorials roscore
 ```
 
 Docker Container内で作業するため以下で端末の立ち上げ
