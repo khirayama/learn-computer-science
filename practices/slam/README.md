@@ -99,11 +99,27 @@ docker exec -it ros-test bin/bash
 コンテナ内部で読み込み
 
 ```
-source opt/ros/kinetic/setup.bash
-source devel/setup.bash
+cd /root/catkin_ws
+source /opt/ros/kinetic/setup.bash
+source /root/catkin_ws/devel/setup.bash
 ```
 
 ## 学習
 
-- [ ] turtlesimをコードで動かす
-  - [ROS turtlesimを自動的に動かすプログラムの作成 - Symfoware](https://symfoware.blog.fc2.com/blog-entry-2284.html)
+### Turtlesimを動かす
+
+[ROS turtlesimを自動的に動かすプログラムの作成 - Symfoware](https://symfoware.blog.fc2.com/blog-entry-2284.html)
+
+```
+rosrun turtlesim turtlesim_node
+```
+
+```
+rosrun turtlesim turtle_teleop_key
+```
+
+### TurtlesimをPythonで動かす
+
+[ROS turtlesimを自動的に動かすプログラムの作成 - Symfoware](https://symfoware.blog.fc2.com/blog-entry-2284.html)
+
+- コード実行の権限付与を忘れそう
