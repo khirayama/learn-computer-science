@@ -97,6 +97,7 @@ docker exec -it ros-test bin/bash
 
 ```
 source opt/ros/kinetic/setup.bash
+source devel/setup.bash
 ```
 
 ## 学習
