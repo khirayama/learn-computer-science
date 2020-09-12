@@ -29,6 +29,9 @@
 - トラブルシューティング
   - [ROS環境におけるChoreonoidの実行 - Choreonoid 開発版 ドキュメント](https://choreonoid.org/ja/manuals/latest/ros/run-choreonoid.html#id8)
     - 補足: roslaunch の実行に失敗する場合の対処方法
+  - [catkin の workspace を作る](http://wiki.ros.org/ja/catkin/Tutorials/create_a_workspace)
+  - [ROSパッケージを作る](http://wiki.ros.org/ja/ROS/Tutorials/CreatingPackage)
+  - [ROSのファイルシステムを学ぶ](http://wiki.ros.org/ja/ROS/Tutorials/NavigatingTheFilesystem#ja.2FROS.2FTutorials.2Fcatkin.2FNavigatingTheFilesystem.roscd_.2BMJJPfzBG-)
 - 書籍
   - [O'Reilly Japan - プログラミングROS](https://www.oreilly.co.jp/books/9784873118093/)
     - ひとまずこれ使うのがよさそう
