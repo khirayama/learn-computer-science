@@ -32,7 +32,6 @@
 
 ## Memo
 
-- English
 - C lang
 
 - Algorythom
