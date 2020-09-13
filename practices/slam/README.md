@@ -49,6 +49,7 @@
   - [kinetic/Installation/OSX/Homebrew/Source - ROS Wiki](http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source)
 - ROS
   - [ROSでよく使用する用語 - raspimouse-sim-tutorial](https://raspimouse-sim-tutorial.gitbook.io/project/ros_tutorial/appendix/ros_word)
+    - node / package / master / topic / service / actionなどがわかってよい
   - [O'Reilly Japan - プログラミングROS](https://www.oreilly.co.jp/books/9784873118093/)
 - 自動運転
   - [ ] [自動運転技術と未来への取り組み DeNA Engineers' Blog](https://engineer.dena.com/posts/2018.12/future-driverless-cars/)
