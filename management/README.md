@@ -192,6 +192,9 @@
 - メルカリを「育成型組織」にするため立ち上がったタスクフォース、その結果は？ https://mercan.mercari.com/articles/24520/
 - ジェンダー問題とスタートアップ：経営者が念頭に置くべき反・家父長制という補助線 https://note.com/keikubo/n/n84667f2a9a5c
 - リクルートテクノロジーズ　エンジニアコース新人研修の内容を公開します！（2020年度版） | リクルートテクノロジーズ　メンバーズブログ https://recruit-tech.co.jp/blog/2020/08/21/rtech_bootcamp_2020/
+- NiziUを開花させたプロデュ―サーJ.Y. Park氏の"マドキの若者を育てる言葉学"「Goodが先、Mottoが後」 https://bunshun.jp/articles/-/40201
+- Kyashエンジニア採用面接ガイドをGitHubで公開しました - Kyash Blog https://blog.kyash.co/entry/2020/09/14/101804
+- 海外のゲーム会社であった制度 - じじいのプログラミング https://shindannin.hatenadiary.com/entry/2020/07/27/234845
 
 ## メモ
 
