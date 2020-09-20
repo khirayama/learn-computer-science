@@ -95,7 +95,7 @@
   - [x] 実験
   - [x] SSDのしくみ
   - [x] まとめ
-- [ ] あとがき
+- [x] あとがき
 
 Ref https://github.com/satoru-takeuchi/linux-in-practice/blob/master/04-process-scheduler/sched.c
 
