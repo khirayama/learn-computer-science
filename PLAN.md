@@ -65,6 +65,7 @@
     - [x] [BLOG] [仮想DOMは本当に"速い"のか？ DOM操作の新しい考え方を、フレームワークを実装して理解しよう - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2020/02/18/103000)
 - [x] ソフトウェア工学
   - [x] サービス作り
+    - [x] [BLOG] [node.js のメトリクスの計測、ベンチマークの改善、Docker イメージの絞り方を勉強した - mizdev](https://mizchi.dev/202009192222-study-nodejs-benchmark)
     - [x] [BLOG] [JavaScript における文字コードと「文字数」の数え方 | blog.jxck.io](https://blog.jxck.io/entries/2017-03-02/unicode-in-javascript.html)
     - [x] [BLOG] [Front-End Performance Checklist 2020 [PDF, Apple Pages, MS Word] — Smashing Magazine](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
     - [x] [BLOG] [ユーザー自身の道具になるためのインターフェイス](https://yuheiy.github.io/interface-to-become-your-own-tool/)
