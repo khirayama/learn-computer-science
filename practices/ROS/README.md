@@ -51,9 +51,15 @@
   - [ROSでよく使用する用語 - raspimouse-sim-tutorial](https://raspimouse-sim-tutorial.gitbook.io/project/ros_tutorial/appendix/ros_word)
     - node / package / master / topic / service / actionなどがわかってよい
   - [O'Reilly Japan - プログラミングROS](https://www.oreilly.co.jp/books/9784873118093/)
+    - [osrf/rosbook: Example code to accompany the book Programming Robots with ROS](https://github.com/osrf/rosbook)
+    - 2.4章 rosrunで1つのnodeを起動、roslaunchで複数のnodeをセットとして起動。という感じぽい
+- SLAM
+  - [ROSのSLAMを使った地図作成とナビゲーション](http://joe.ash.jp/program/ros/tutorial/tutorial_slam.htm)
 - 自動運転
-  - [ ] [自動運転技術と未来への取り組み DeNA Engineers' Blog](https://engineer.dena.com/posts/2018.12/future-driverless-cars/)
-  - [ ] [Autowareの紹介と課題（1/2） - Qiita](https://qiita.com/yukkysaito/items/21a70ec6b07f1ca559cb)
+  - [自動運転技術と未来への取り組み DeNA Engineers' Blog](https://engineer.dena.com/posts/2018.12/future-driverless-cars/)
+  - [Autowareの紹介と課題（1/2） - Qiita](https://qiita.com/yukkysaito/items/21a70ec6b07f1ca559cb)
+  - [ROS を用いた自律移動ロボットのシステム構築](https://www.slideshare.net/hara-y/ros-nav-rsj-seminar)
+    - 自律移動に関して必要なパッケージとか網羅的に拾えそう
 
 ## 開発環境確認
 
