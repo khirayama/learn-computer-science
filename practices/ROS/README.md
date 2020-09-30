@@ -147,3 +147,7 @@ rosrun my_first publish_sample.py
 ```
 
 ### Turtlesimをroslaunchで動くようにしてみる
+
+```
+roslaunch my_first run_my_first.launch
+```
