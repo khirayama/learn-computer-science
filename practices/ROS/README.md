@@ -60,6 +60,12 @@
   - [Autowareの紹介と課題（1/2） - Qiita](https://qiita.com/yukkysaito/items/21a70ec6b07f1ca559cb)
   - [ROS を用いた自律移動ロボットのシステム構築](https://www.slideshare.net/hara-y/ros-nav-rsj-seminar)
     - 自律移動に関して必要なパッケージとか網羅的に拾えそう
+- ROS roslaunch
+  - [【ROS】launchファイルの作成 - あつあつ備忘録](https://atsuyakoike.hatenablog.com/entry/2019/05/06/155130)
+  - [ROSの便利機能 - ロボットの作り方 ～移動ロボットの制御とROSによる動作計画実習～](https://at-wat.github.io/ROS-quick-start-up/ros-launch.html)
+  - [ja/ROS/Tutorials/UsingRqtconsoleRoslaunch - ROS Wiki](http://wiki.ros.org/ja/ROS/Tutorials/UsingRqtconsoleRoslaunch)
+  - [ja/ROS/Tutorials/UnderstandingNodes - ROS Wiki](http://wiki.ros.org/ja/ROS/Tutorials/UnderstandingNodes)
+  - [ROS launchファイルの使い方](https://kazuyamashi.github.io/ros_lecture/ros_launch.html)
 
 ## 開発環境確認
 
