@@ -111,6 +111,17 @@ source /opt/ros/kinetic/setup.bash
 source /root/catkin_ws/devel/setup.bash
 ```
 
+### One Liners
+
+```
+# setup
+open -a XQuartz && HOST_IP=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}') && docker run -d --rm -e DISPLAY=$HOST_IP:0 -v ~/.Xauthority:/root/.Xauthority -v $(pwd)/catkin_ws:/root/catkin_ws --name ros-test ros-tutorials roscore && docker exec -it ros-test bin/bash
+# login
+docker exec -it ros-test bin/bash
+# setup in guest
+cd /root/catkin_ws && source /opt/ros/kinetic/setup.bash && source /root/catkin_ws/devel/setup.bash
+```
+
 ## 学習
 
 ### Turtlesimを動かす
@@ -130,3 +141,9 @@ rosrun turtlesim turtle_teleop_key
 [ROS turtlesimを自動的に動かすプログラムの作成 - Symfoware](https://symfoware.blog.fc2.com/blog-entry-2284.html)
 
 - コード実行の権限付与を忘れそう
+
+```
+rosrun my_first publish_sample.py
+```
+
+### Turtlesimをroslaunchで動くようにしてみる
