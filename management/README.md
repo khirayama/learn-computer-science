@@ -195,6 +195,7 @@
 - NiziUを開花させたプロデュ―サーJ.Y. Park氏の"マドキの若者を育てる言葉学"「Goodが先、Mottoが後」 https://bunshun.jp/articles/-/40201
 - Kyashエンジニア採用面接ガイドをGitHubで公開しました - Kyash Blog https://blog.kyash.co/entry/2020/09/14/101804
 - 海外のゲーム会社であった制度 - じじいのプログラミング https://shindannin.hatenadiary.com/entry/2020/07/27/234845
+- 「事業がわかるエンジニアがいない https://www.timakin.com/posts/hacker-and-suits
 
 ## メモ
 
