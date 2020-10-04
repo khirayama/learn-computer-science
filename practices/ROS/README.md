@@ -94,6 +94,19 @@
       - `docker build -t xeyes .` with the content of Dockerfile.firefox
       - `docker run --rm -e DISPLAY=$(hostname):0 -v ~/.Xauthority:/root/.Xauthority firefox`
 
+- - -
+
+## 開発
+
+```
+docker run -d -p 6080:80 --name ros-env --shm-size=512m tiryoh/ros-desktop-vnc:melodic
+docker exec -it ros-test /bin/bash
+```
+
+$(pwd)/catkin_ws:/root/catkin_ws 
+
+- - -
+
 ## 開発環境構築
 
 ```
