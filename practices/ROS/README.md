@@ -66,6 +66,13 @@
   - [ja/ROS/Tutorials/UsingRqtconsoleRoslaunch - ROS Wiki](http://wiki.ros.org/ja/ROS/Tutorials/UsingRqtconsoleRoslaunch)
   - [ja/ROS/Tutorials/UnderstandingNodes - ROS Wiki](http://wiki.ros.org/ja/ROS/Tutorials/UnderstandingNodes)
   - [ROS launchファイルの使い方](https://kazuyamashi.github.io/ros_lecture/ros_launch.html)
+- Gazebo
+  - ちょっと全然無理
+  - on Macは諦めるべしという感じ
+  - 以下のimageをべーすにやり直す
+    - [Docker上でGUIのROS1/ROS2を一瞬でセットアップする方法 - Qiita](https://qiita.com/karaage0703/items/957bdc7b4dabfc6639da)
+      - コードはmountできるように
+      - CLIはsshでやれるように
 
 ## 開発環境確認
 
