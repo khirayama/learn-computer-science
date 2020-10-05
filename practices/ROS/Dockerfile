@@ -1,6 +1,3 @@
-FROM ros:kinetic
+FROM tiryoh/ros-desktop-vnc:melodic
 
-RUN sudo apt-get update \
-  && sudo apt-get install -y ros-kinetic-ros-tutorials ros-kinetic-common-tutorials ros-kinetic-desktop-full \
-  && rm -rf /var/lib/apt/lists/
-RUN mkdir -p ~/catkin_ws/src
+RUN sudo apt-get update && sudo apt-get install ros-melodic-turtlebot3-gazebo
