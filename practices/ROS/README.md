@@ -94,58 +94,32 @@
       - `docker build -t xeyes .` with the content of Dockerfile.firefox
       - `docker run --rm -e DISPLAY=$(hostname):0 -v ~/.Xauthority:/root/.Xauthority firefox`
 
-- - -
-
-## 開発
-
-```
-docker run -d -p 6080:80 --name ros-env --shm-size=512m tiryoh/ros-desktop-vnc:melodic
-docker exec -it ros-test /bin/bash
-```
-
-$(pwd)/catkin_ws:/root/catkin_ws 
-
-- - -
-
 ## 開発環境構築
 
 ```
-docker build -t ros-tutorials .
+docker build -t ros-env .
 ```
 
 ## 開発
 
-Mainの立ち上げ
+ROSの起動
 
 ```
-open -a XQuartz
-HOST_IP=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')
-docker run -d --rm -e DISPLAY=$HOST_IP:0 -v ~/.Xauthority:/root/.Xauthority -v $(pwd)/catkin_ws:/root/catkin_ws --name ros-test ros-tutorials roscore
+docker run -d -p 6080:80 --name ros-env-vnc -v $(pwd)/catkin_ws:/home/ubuntu/catkin_ws -e DISPLAY=:1.0 --shm-size=512m ros-env roscore
 ```
 
 Docker Container内で作業するため以下で端末の立ち上げ
 
 ```
-docker exec -it ros-test bin/bash
+docker exec -it -u ubuntu ros-env-vnc /bin/bash
 ```
 
 コンテナ内部で読み込み
 
 ```
-cd /root/catkin_ws
-source /opt/ros/kinetic/setup.bash
-source /root/catkin_ws/devel/setup.bash
-```
-
-### One Liners
-
-```
-# setup
-open -a XQuartz && HOST_IP=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}') && docker run -d --rm -e DISPLAY=$HOST_IP:0 -v ~/.Xauthority:/root/.Xauthority -v $(pwd)/catkin_ws:/root/catkin_ws --name ros-test ros-tutorials roscore && docker exec -it ros-test bin/bash
-# login
-docker exec -it ros-test bin/bash
-# setup in guest
-cd /root/catkin_ws && source /opt/ros/kinetic/setup.bash && source /root/catkin_ws/devel/setup.bash
+cd /home/ubuntu/catkin_ws
+# source /opt/ros/melodic/setup.bash
+source /home/ubuntu/catkin_ws/devel/setup.bash
 ```
 
 ## 学習
@@ -176,6 +150,12 @@ rosrun my_first publish_sample.py
 
 ```
 roslaunch my_first run_my_first.launch
+```
+
+### Turtlebot3を起動してみる on Gazebo
+
+```
+TURTLEBOT3_MODEL=burger roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ```
 
 ### ロボットを作ってみる
