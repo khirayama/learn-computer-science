@@ -1,4 +1,4 @@
-prefix=/root/catkin_ws/devel
+prefix=/home/ubuntu/catkin_ws/devel
 
 Name: my_first
 Description: Description of my_first
