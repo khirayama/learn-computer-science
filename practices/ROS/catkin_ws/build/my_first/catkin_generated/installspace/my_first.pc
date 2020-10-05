@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/catkin_ws/install
-
-Name: my_first
-Description: Description of my_first
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
