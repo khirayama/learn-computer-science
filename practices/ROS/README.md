@@ -120,6 +120,9 @@ docker exec -it -u ubuntu ros-env-vnc /bin/bash
 cd /home/ubuntu/catkin_ws
 # source /opt/ros/melodic/setup.bash
 source /home/ubuntu/catkin_ws/devel/setup.bash
+
+# One line
+cd /home/ubuntu/catkin_ws && source /home/ubuntu/catkin_ws/devel/setup.bash
 ```
 
 ## 学習
