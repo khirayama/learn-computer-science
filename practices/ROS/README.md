@@ -161,4 +161,12 @@ roslaunch my_first run_my_first.launch
 TURTLEBOT3_MODEL=burger roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ```
 
-### ロボットを作ってみる
+### ざっくりSLAMを触ってみる
+
+[Windows で ROS のシミュレーションを行う (4) TurtleBot3 で地図を作成する](https://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/ROS/index4.html)
+
+```
+TURTLEBOT3_MODEL=burger roslaunch turtlebot3_gazebo turtlebot3_house.launch
+TURTLEBOT3_MODEL=burger rosrun teleop_twist_keyboard teleop_twist_keyboard.py  _speed:=1.0 _turn:=1.0
+TURTLEBOT3_MODEL=burger roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
+```
