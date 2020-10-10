@@ -230,12 +230,12 @@
       - [x] 23.3.2 トピック
       - [x] 23.3.3 サービス
     - [x] 23.4 まとめ
-- [ ] 付録A Pepperプログラミング
-  - [ ] A.1 開発プラットフォームとしてのPepper
-  - [ ] A.2 ROSとPepper
-  - [ ] A.3 Pepper実機をROSでコントロールする
-  - [ ] A.4 PepperをROSでプログラミング
-  - [ ] A.5 まとめ
+- [x] 付録A Pepperプログラミング
+  - [x] A.1 開発プラットフォームとしてのPepper
+  - [x] A.2 ROSとPepper
+  - [x] A.3 Pepper実機をROSでコントロールする
+  - [x] A.4 PepperをROSでプログラミング
+  - [x] A.5 まとめ
 - [ ] 付録B ROS2
   - [ ] B.1 なぜROS2が開発されているのか
   - [ ] B.2 ROS/ROS2ターゲットの違い
