@@ -1,7 +1,6 @@
 ## 進行状況
 
 - [ ] ゼロからスタート！岩田美貴のFP2級1冊目の教科書
-- [ ] Linuxのしくみ
 
 - [ ] コンピュータシステムの理論と実践
 
@@ -32,7 +31,7 @@
 
 - [x] [プログラマーのためのコンピュータ入門 内部ではどう動いているか](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E5%85%A5%E9%96%80-%E5%86%85%E9%83%A8%E3%81%A7%E3%81%AF%E3%81%A9%E3%81%86%E5%8B%95%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B-Lepton-ebook/dp/B08CDX7V7C/ref=tmm_kin_swatch_0)
   - [NOTE](./guide-to-the-computer-for-programmers)
-- [ ] [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
+- [x] [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://gihyo.jp/dp/ebook/2018/978-4-7741-9658-9)
   - [NOTE](./how-linux-works)
 - [ ] [コンピュータシステムの理論と実装](https://www.oreilly.co.jp/books/9784873117126/)
   - [NOTE](./nand2tetoris)
