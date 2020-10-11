@@ -8,7 +8,6 @@
 - [ ] みんなのコンピュータサイエンス
 - [ ] Go言語でつくるインタプリタ
 
-- [ ] プログラミングROS
 - [ ] 作って理解するOS
 - [ ] Raspberry Piで学ぶコンピュータアーキテクチャ
 - [ ] Goならわかるシステムプログラミング
@@ -57,6 +56,8 @@
 
 - [x] [Pythonによる制御工学入門](https://honto.jp/ebook/pd_29679533.html)
   - [NOTE](./control-engineering-with-python)
+- [x] [O'Reilly Japan - プログラミングROS](https://www.oreilly.co.jp/books/9784873118093/)
+  - [NOTE](./programming-robots-with-ROS)
 
 ## その他
 
