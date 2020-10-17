@@ -196,6 +196,7 @@
 - Kyashエンジニア採用面接ガイドをGitHubで公開しました - Kyash Blog https://blog.kyash.co/entry/2020/09/14/101804
 - 海外のゲーム会社であった制度 - じじいのプログラミング https://shindannin.hatenadiary.com/entry/2020/07/27/234845
 - 「事業がわかるエンジニアがいない https://www.timakin.com/posts/hacker-and-suits
+- 星野リゾート代表・星野佳路さんが「評価制度はアバウトであることが大事」と言い切る理由 | 『ザ・ビジュアルMBA』経営学の要点を学べるスケッチノート https://diamond.jp/articles/251002
 
 ## メモ
 
