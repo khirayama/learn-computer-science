@@ -198,6 +198,7 @@
 - 「事業がわかるエンジニアがいない https://www.timakin.com/posts/hacker-and-suits
 - 星野リゾート代表・星野佳路さんが「評価制度はアバウトであることが大事」と言い切る理由 | 『ザ・ビジュアルMBA』経営学の要点を学べるスケッチノート https://diamond.jp/articles/251002
 - Amazon.jobs リーダーシッププリンシパル https://www.amazon.jobs/jp/principles
+- メンバーに「この仕事、やりたい仕事じゃないです」と言われたら？(動画つき)｜長村禎庸@EVeM https://note.com/nagam/n/n3d30dbba2814
 
 ## メモ
 
