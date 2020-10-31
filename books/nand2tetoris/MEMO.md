@@ -257,3 +257,11 @@
   - [ ] C.3 ソフトウェアツールの実行方法
   - [ ] C.4 使用方法
   - [ ] C.5 ソースコード
+
+## Memo
+
+github https://github.com/rhedshi/nand2tetris
+
+```
+wget http://nand2tetris.org/software/nand2tetris.zip
+```
