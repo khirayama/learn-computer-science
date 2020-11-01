@@ -55,11 +55,20 @@
     - 2.4章 rosrunで1つのnodeを起動、roslaunchで複数のnodeをセットとして起動。という感じぽい
 - SLAM
   - [ROSのSLAMを使った地図作成とナビゲーション](http://joe.ash.jp/program/ros/tutorial/tutorial_slam.htm)
+  - [TurtleBot3で地図作成からナビゲーションまで - Fixstars Tech Blog /proc/cpuinfo](https://proc-cpuinfo.fixstars.com/2018/11/turtlebot3-navigation/)
 - 自動運転
   - [自動運転技術と未来への取り組み DeNA Engineers' Blog](https://engineer.dena.com/posts/2018.12/future-driverless-cars/)
   - [Autowareの紹介と課題（1/2） - Qiita](https://qiita.com/yukkysaito/items/21a70ec6b07f1ca559cb)
   - [ROS を用いた自律移動ロボットのシステム構築](https://www.slideshare.net/hara-y/ros-nav-rsj-seminar)
     - 自律移動に関して必要なパッケージとか網羅的に拾えそう
+  - [初のTier IV Meetupを開催しました - Tier IV Tech Blog](https://tech.tier4.jp/entry/2020/10/28/160000)
+  - [自動運転シミュレータCARLAを使う - Fixstars Tech Blog /proc/cpuinfo](https://proc-cpuinfo.fixstars.com/2019/01/carla-simulator/)
+  - [CARLA X ROS: シミュレータで自動運転車にセンサをガン積みする！！！ - Qiita](https://qiita.com/chin_self_driving_car/items/a65e46bcbd3b4fdadbcf)
+    - これ楽しそう。一度やってみてもよいかも
+  - [Autoware Docker環境の構築 - Qiita](https://qiita.com/kameyama-eiji/items/0b3f914dbe03a83a1231#autoware-docker%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97)
+- LiDAR
+  - [ROSのLidarSLAMまとめ - Qiita](https://qiita.com/nnn112358/items/814c0fb0d2075eb71da0#google-cartographer)
+  - [SLAM活用サービス - モビリティソリューション - マクニカ](https://www.macnica.co.jp/business/maas/services/134556/)
 - ROS roslaunch
   - [【ROS】launchファイルの作成 - あつあつ備忘録](https://atsuyakoike.hatenablog.com/entry/2019/05/06/155130)
   - [ROSの便利機能 - ロボットの作り方 ～移動ロボットの制御とROSによる動作計画実習～](https://at-wat.github.io/ROS-quick-start-up/ros-launch.html)
