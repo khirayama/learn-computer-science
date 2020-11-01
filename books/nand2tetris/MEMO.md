@@ -261,7 +261,3 @@
 ## Memo
 
 github https://github.com/rhedshi/nand2tetris
-
-```
-wget http://nand2tetris.org/software/nand2tetris.zip
-```
