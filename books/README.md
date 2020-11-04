@@ -1,6 +1,5 @@
 ## 進行状況
 
-- [ ] ゼロからスタート！岩田美貴のFP2級1冊目の教科書
 - [ ] コンピュータシステムの理論と実践
 
 - [ ] 問題解決力を鍛える!アルゴリズムとデータ構造
@@ -62,5 +61,5 @@
 
 - [x] [ゼロからスタート！岩田美貴のFP3級1冊目の教科書 2020-2021年版](https://play.google.com/store/books/details?id=eELiDwAAQBAJ)
   - [NOTE](./the-1st-book-for-FP-level3)
-- [ ] [ゼロからスタート！岩田美貴のFP2級1冊目の教科書 2020-2021年版](https://play.google.com/store/books/details/%E5%B2%A9%E7%94%B0_%E7%BE%8E%E8%B2%B4_%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88_%E5%B2%A9%E7%94%B0%E7%BE%8E%E8%B2%B4%E3%81%AEFP2%E7%B4%9A1%E5%86%8A%E7%9B%AE%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8_2020_2021%E5%B9%B4%E7%89%88?id=LkLiDwAAQBAJ)
+- [x] [ゼロからスタート！岩田美貴のFP2級1冊目の教科書 2020-2021年版](https://play.google.com/store/books/details/%E5%B2%A9%E7%94%B0_%E7%BE%8E%E8%B2%B4_%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88_%E5%B2%A9%E7%94%B0%E7%BE%8E%E8%B2%B4%E3%81%AEFP2%E7%B4%9A1%E5%86%8A%E7%9B%AE%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8_2020_2021%E5%B9%B4%E7%89%88?id=LkLiDwAAQBAJ)
   - [NOTE](./the-1st-book-for-FP-level2)
