@@ -200,6 +200,7 @@
 - Amazon.jobs リーダーシッププリンシパル https://www.amazon.jobs/jp/principles
 - メンバーに「この仕事、やりたい仕事じゃないです」と言われたら？(動画つき)｜長村禎庸@EVeM https://note.com/nagam/n/n3d30dbba2814
 - 仕事を任せられるエンジニアになるために意識してほしいこと https://tech.tabechoku.com/entry/2019/05/02/182457
+- 会社をやめて約1年プログラミングの勉強に費やしたことに対する満足と後悔 https://blog.ojisan.io/not-working-why
 
 ## メモ
 
