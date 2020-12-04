@@ -201,6 +201,9 @@
 - メンバーに「この仕事、やりたい仕事じゃないです」と言われたら？(動画つき)｜長村禎庸@EVeM https://note.com/nagam/n/n3d30dbba2814
 - 仕事を任せられるエンジニアになるために意識してほしいこと https://tech.tabechoku.com/entry/2019/05/02/182457
 - 会社をやめて約1年プログラミングの勉強に費やしたことに対する満足と後悔 https://blog.ojisan.io/not-working-why
+- どもども "VP of Engineering" です。 https://note.com/hidek/n/n5bd1f891fe81
+- 今こそ学んでおこう「アンガーマネジメント」｜やっさん（石川康裕）＠リブセンス https://note.com/micawaya/n/nd521037defba
+- A-Liaison BLOG: マネージメントに必要なことは全てゲームから学んだ https://akisute.com/2020/11/blog-post.html?m=1
 
 ## メモ
 
