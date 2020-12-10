@@ -204,6 +204,7 @@
 - どもども "VP of Engineering" です。 https://note.com/hidek/n/n5bd1f891fe81
 - 今こそ学んでおこう「アンガーマネジメント」｜やっさん（石川康裕）＠リブセンス https://note.com/micawaya/n/nd521037defba
 - A-Liaison BLOG: マネージメントに必要なことは全てゲームから学んだ https://akisute.com/2020/11/blog-post.html?m=1
+- コードレビューの目的と考え方 https://osak.hatenablog.jp/entry/code-review-objectives-and-howto
 
 ## メモ
 
