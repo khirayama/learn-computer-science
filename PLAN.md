@@ -51,6 +51,7 @@
     - [x] [BLOG] [【初心者にも分かり易い】文字コードの仕組み入門 ～ASCIIとの互換性、文字集合との違い、UnicodeとUTF-8の違いについて～ | SEの道標](https://milestone-of-se.nesuke.com/nw-basic/as-nw-engineer/charset-summary/amp/)
     - [x] [BLOG] [全てのエンジニアに知ってもらいたいOSの中身/OS that we should know - Speaker Deck](https://speakerdeck.com/ariaki/os-that-we-should-know)
     - [x] [BLOG] [ハードウェアの仕組みとソフトウェア処理 マイコンの動作を理解する｜Tech Village （テックビレッジ） CQ出版株式会社](http://www.kumikomi.net/archives/2009/11/post_23.php)
+    - [x] [BLOG] [なぜCPUにはL1・L2・L3というように複数のキャッシュレベルがあるのか？ - GIGAZINE](https://gigazine.net/news/20160912-cpu-cache-level/)
   - [x] インターネット
     - [x] [BLOG] [レンダリング パフォーマンス  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/?hl=ja)
     - [x] [BLOG] [クリティカル レンダリング パスのパフォーマンスを分析する  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp?hl=ja)
