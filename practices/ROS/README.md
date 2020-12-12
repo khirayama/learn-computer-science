@@ -66,6 +66,7 @@
   - [CARLA X ROS: シミュレータで自動運転車にセンサをガン積みする！！！ - Qiita](https://qiita.com/chin_self_driving_car/items/a65e46bcbd3b4fdadbcf)
     - これ楽しそう。一度やってみてもよいかも
   - [Autoware Docker環境の構築 - Qiita](https://qiita.com/kameyama-eiji/items/0b3f914dbe03a83a1231#autoware-docker%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97)
+  - [プログラミング素人がAutoware.AIを使ったコンテストに参加した話（その１：Autoware.AIの環境構築） - Qiita](https://qiita.com/penstood/items/aa0328805bb91ad9340f)
 - LiDAR
   - [ROSのLidarSLAMまとめ - Qiita](https://qiita.com/nnn112358/items/814c0fb0d2075eb71da0#google-cartographer)
   - [SLAM活用サービス - モビリティソリューション - マクニカ](https://www.macnica.co.jp/business/maas/services/134556/)
