@@ -205,6 +205,7 @@
 - 今こそ学んでおこう「アンガーマネジメント」｜やっさん（石川康裕）＠リブセンス https://note.com/micawaya/n/nd521037defba
 - A-Liaison BLOG: マネージメントに必要なことは全てゲームから学んだ https://akisute.com/2020/11/blog-post.html?m=1
 - コードレビューの目的と考え方 https://osak.hatenablog.jp/entry/code-review-objectives-and-howto
+- CTOの頭の中：技術投資を最適化する https://note.com/singtacks/n/n4612d8256c7a
 
 ## メモ
 
