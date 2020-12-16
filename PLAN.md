@@ -53,6 +53,7 @@
     - [x] [BLOG] [ハードウェアの仕組みとソフトウェア処理 マイコンの動作を理解する｜Tech Village （テックビレッジ） CQ出版株式会社](http://www.kumikomi.net/archives/2009/11/post_23.php)
     - [x] [BLOG] [なぜCPUにはL1・L2・L3というように複数のキャッシュレベルがあるのか？ - GIGAZINE](https://gigazine.net/news/20160912-cpu-cache-level/)
   - [x] インターネット
+    - [x] [BLOG] [Web 技術の調査方法 | blog.jxck.io](https://blog.jxck.io/entries/2020-11-19/how-to-track-web-standards.html)
     - [x] [BLOG] [レンダリング パフォーマンス  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/?hl=ja)
     - [x] [BLOG] [クリティカル レンダリング パスのパフォーマンスを分析する  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp?hl=ja)
     - [x] [BLOG] [2019 Javascript engine 俯瞰 - abcdefGets](http://abcdef.gets.b6n.ch/entry/2019/12/11/121840)
