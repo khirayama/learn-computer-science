@@ -206,6 +206,8 @@
 - A-Liaison BLOG: マネージメントに必要なことは全てゲームから学んだ https://akisute.com/2020/11/blog-post.html?m=1
 - コードレビューの目的と考え方 https://osak.hatenablog.jp/entry/code-review-objectives-and-howto
 - CTOの頭の中：技術投資を最適化する https://note.com/singtacks/n/n4612d8256c7a
+- Engineering Managerとしての人の頼り方 https://konifar.hatenablog.com/entry/2020/12/20/005849
+- KyashでEngineering Managerとしてやってきたこと / やっていくこと https://konifar.hatenablog.com/entry/2020/12/21/160317
 
 ## メモ
 
