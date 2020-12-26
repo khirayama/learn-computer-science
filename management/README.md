@@ -208,6 +208,7 @@
 - CTOの頭の中：技術投資を最適化する https://note.com/singtacks/n/n4612d8256c7a
 - Engineering Managerとしての人の頼り方 https://konifar.hatenablog.com/entry/2020/12/20/005849
 - KyashでEngineering Managerとしてやってきたこと / やっていくこと https://konifar.hatenablog.com/entry/2020/12/21/160317
+- テックリードになって気をつけていること https://qiita.com/ma91n/items/207f32db1b51754d6933
 
 ## メモ
 
