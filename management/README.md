@@ -209,6 +209,7 @@
 - Engineering Managerとしての人の頼り方 https://konifar.hatenablog.com/entry/2020/12/20/005849
 - KyashでEngineering Managerとしてやってきたこと / やっていくこと https://konifar.hatenablog.com/entry/2020/12/21/160317
 - テックリードになって気をつけていること https://qiita.com/ma91n/items/207f32db1b51754d6933
+- ZOZOのテックカンパニーへの変遷、CTOとしての取り組みを振り返る kyuns /キュン 今村雅幸 https://note.com/kyuns/n/n00d467243857
 
 ## メモ
 
