@@ -93,6 +93,8 @@
     - [x] [BLOG] [Stop using Page Objects and Start using App Actions](https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/)
     - [x] [BLOG] [UXリサーチのための定量的なデータ分析 | UX MILK](https://uxmilk.jp/90777)
     - [x] [BLOG] [microfrontends/english.md at master · phodal/microfrontends](https://github.com/phodal/microfrontends/blob/master/english.md)
+  - [ ] データベース
+    - [x] [BLOG] [1000万件オーバーのレコードのデータをカジュアルに扱うための心構え](https://joker1007.hatenablog.com/entry/2020/11/04/214646)
   - [x] その他
     - [x] [BLOG] [[O] Design Doc 的な何か用の Wiki 記法によるテンプレ](http://diary.overlasting.net/2010-01-27-4.html)
     - [x] [BLOG] [Product Management Seminar Report - Speaker Deck](https://speakerdeck.com/cosmic_cowboy/product-management-seminar-report)
