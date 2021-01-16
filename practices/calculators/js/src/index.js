@@ -46,8 +46,11 @@ function parse(code) {
     } else if (t === '(') {
       consume(t);
       const expr = parseExpr();
-      if (peek() !== ')') throw new SyntaxError('expected )');
+      if (peek() !== ')') {
+        throw new SyntaxError('expected )');
+      }
       consume(')');
+
       return expr;
     } else {
       throw new SyntaxError('expected a number, a variable, or parentheses');
@@ -88,27 +91,29 @@ function parse(code) {
 }
 
 function evaluate(code) {
-  const variables = Object.create(null);
-  variables.e = Math.E;
-  variables.pi = Math.PI;
+  const variables = {
+    e: Math.E,
+    pi: Math.PI,
+  };
 
-  function evaluate(obj) {
+  function evalu(obj) {
     switch (obj.type) {
       case 'number':
         return parseInt(obj.value);
       case 'name':
         return variables[obj.id] || 0;
       case '+':
-        return evaluate(obj.left) + evaluate(obj.right);
+        return evalu(obj.left) + evalu(obj.right);
       case '-':
-        return evaluate(obj.left) - evaluate(obj.right);
+        return evalu(obj.left) - evalu(obj.right);
       case '*':
-        return evaluate(obj.left) * evaluate(obj.right);
+        return evalu(obj.left) * evalu(obj.right);
       case '/':
-        return evaluate(obj.left) / evaluate(obj.right);
+        return evalu(obj.left) / evalu(obj.right);
     }
   }
-  return evaluate(parse(code));
+
+  return evalu(parse(code));
 }
 
 module.exports = { tokenize, isNumeric, isName, parse, evaluate };
