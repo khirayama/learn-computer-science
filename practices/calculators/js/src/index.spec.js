@@ -47,5 +47,6 @@ describe('evaluate', () => {
     assert.strictEqual(evaluate('2 + 2'), 4);
     assert.strictEqual(evaluate('3 * 4 * 5'), 60);
     assert.strictEqual(evaluate('5 * (2 + 2)'), 20);
+    assert.strictEqual(evaluate('1 + 1 / 2'), 1.5);
   });
 });
