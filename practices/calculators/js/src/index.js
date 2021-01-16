@@ -1,4 +1,4 @@
-// http://jorendorff.github.io/calc/docs/calculator-backends.html
+// https://jorendorff.github.io/calc/docs/calculator-backends.html
 const assert = require('assert');
 
 function tokenize(code) {
@@ -39,10 +39,16 @@ function parse(code) {
 
     if (isNumeric(t)) {
       consume(t);
-      return { type: 'number', value: t };
+      return {
+        type: 'number',
+        value: t,
+      };
     } else if (isName(t)) {
       consume(t);
-      return { type: 'name', id: t };
+      return {
+        type: 'name',
+        id: t,
+      };
     } else if (t === '(') {
       consume(t);
       const expr = parseExpr();
@@ -63,7 +69,11 @@ function parse(code) {
     while (t === '*' || t === '/') {
       consume(t);
       const rhs = parsePrimaryExpr();
-      expr = { type: t, left: expr, right: rhs };
+      expr = {
+        type: t,
+        left: expr,
+        right: rhs,
+      };
       t = peek();
     }
     return expr;
@@ -75,7 +85,11 @@ function parse(code) {
     while (t === '+' || t === '-') {
       consume(t);
       const rhs = parseMulExpr();
-      expr = { type: t, left: expr, right: rhs };
+      expr = {
+        type: t,
+        left: expr,
+        right: rhs,
+      };
       t = peek();
     }
     return expr;
@@ -84,7 +98,7 @@ function parse(code) {
   const result = parseExpr();
 
   if (position !== tokens.length) {
-    throw new SyntaxError("unexpected '" + peek() + "'");
+    throw new SyntaxError("Unexpected '" + peek() + "'");
   }
 
   return result;
