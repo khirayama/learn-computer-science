@@ -1,6 +1,4 @@
 // https://jorendorff.github.io/calc/docs/calculator-backends.html
-const assert = require('assert');
-
 function tokenize(code) {
   const results = [];
   const tokenRegExp = /\s*([A-Za-z]+|[-1-9]+|\S)\s*/g;
@@ -26,7 +24,7 @@ function peek(tokens, position) {
 }
 
 function consume(position, token, tokens) {
-  assert.strictEqual(token, tokens[position]);
+  // assert.strictEqual(token, tokens[position]);
   return position + 1;
 }
 
