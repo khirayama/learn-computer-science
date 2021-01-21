@@ -28,31 +28,31 @@ function parse(code) {
   }
 
   function consume() {
-    return position + 1;
+    position = position + 1;
   }
 
   function parsePrimaryExpr() {
     const t = peek();
 
     if (isNumeric(t)) {
-      position = consume();
+      consume();
       return {
         type: 'number',
         value: t,
       };
     } else if (isName(t)) {
-      position = consume();
+      consume();
       return {
         type: 'name',
         id: t,
       };
     } else if (t === '(') {
-      position = consume();
+      consume();
       const expr = parseExpr();
       if (peek() !== ')') {
         throw new SyntaxError('expected )');
       }
-      position = consume();
+      consume();
 
       return expr;
     } else {
@@ -64,7 +64,7 @@ function parse(code) {
     let expr = parsePrimaryExpr();
     let t = peek();
     while (t === '*' || t === '/') {
-      position = consume();
+      consume();
       const rhs = parsePrimaryExpr();
       expr = {
         type: t,
@@ -80,7 +80,7 @@ function parse(code) {
     let expr = parseMulExpr();
     let t = peek();
     while (t === '+' || t === '-') {
-      position = consume();
+      consume();
       const rhs = parseMulExpr();
       expr = {
         type: t,
