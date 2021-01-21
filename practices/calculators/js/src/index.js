@@ -19,41 +19,40 @@ function isName(token) {
   return token !== undefined && token.match(/^[A-Za-z]+$/) !== null;
 }
 
-function peek(tokens, position) {
-  return tokens[position];
-}
-
-function consume(position, token, tokens) {
-  // assert.strictEqual(token, tokens[position]);
-  return position + 1;
-}
-
 function parse(code) {
   const tokens = tokenize(code);
   let position = 0;
 
+  function peek() {
+    return tokens[position];
+  }
+
+  function consume() {
+    return position + 1;
+  }
+
   function parsePrimaryExpr() {
-    const t = peek(tokens, position);
+    const t = peek();
 
     if (isNumeric(t)) {
-      position = consume(position, t, tokens);
+      position = consume();
       return {
         type: 'number',
         value: t,
       };
     } else if (isName(t)) {
-      position = consume(position, t, tokens);
+      position = consume();
       return {
         type: 'name',
         id: t,
       };
     } else if (t === '(') {
-      position = consume(position, t, tokens);
+      position = consume();
       const expr = parseExpr();
-      if (peek(tokens, position) !== ')') {
+      if (peek() !== ')') {
         throw new SyntaxError('expected )');
       }
-      position = consume(position, ')', tokens);
+      position = consume();
 
       return expr;
     } else {
@@ -63,32 +62,32 @@ function parse(code) {
 
   function parseMulExpr() {
     let expr = parsePrimaryExpr();
-    let t = peek(tokens, position);
+    let t = peek();
     while (t === '*' || t === '/') {
-      position = consume(position, t, tokens);
+      position = consume();
       const rhs = parsePrimaryExpr();
       expr = {
         type: t,
         left: expr,
         right: rhs,
       };
-      t = peek(tokens, position);
+      t = peek();
     }
     return expr;
   }
 
   function parseExpr() {
     let expr = parseMulExpr();
-    let t = peek(tokens, position);
+    let t = peek();
     while (t === '+' || t === '-') {
-      position = consume(position, t, tokens);
+      position = consume();
       const rhs = parseMulExpr();
       expr = {
         type: t,
         left: expr,
         right: rhs,
       };
-      t = peek(tokens, position);
+      t = peek();
     }
     return expr;
   }
@@ -96,7 +95,7 @@ function parse(code) {
   const result = parseExpr();
 
   if (position !== tokens.length) {
-    throw new SyntaxError("Unexpected '" + peek(tokens, position) + "'");
+    throw new SyntaxError("Unexpected '" + peek() + "'");
   }
 
   return result;
