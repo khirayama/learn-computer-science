@@ -2,9 +2,9 @@ import unittest
 
 import main
 
-class TestStringMethods(unittest.TestCase):
+class TestCalculator(unittest.TestCase):
 
-    def test_upper(self):
+    def test_tokenize(self):
         self.assertEqual(main.tokenize('123\n'), ['123']);
         self.assertEqual(main.tokenize('2+2'), ['2', '+', '2']);
         self.assertEqual(main.tokenize('+-*/'), ['+', '-', '*', '/']);
