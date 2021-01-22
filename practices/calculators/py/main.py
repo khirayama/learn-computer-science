@@ -6,6 +6,3 @@ def tokenize(code):
     re_pattern = re.compile(token_regexp)
 
     return re.findall(token_regexp, code, re.S)
-
-m = tokenize('2 + 2')
-print(m)
