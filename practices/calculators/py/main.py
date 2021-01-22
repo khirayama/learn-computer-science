@@ -6,3 +6,6 @@ def tokenize(code):
     re_pattern = re.compile(token_regexp)
 
     return re.findall(token_regexp, code, re.S)
+
+def is_numeric(token):
+    return re.match(r'^[0-9]+$', token)

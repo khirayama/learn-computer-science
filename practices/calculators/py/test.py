@@ -12,5 +12,11 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(main.tokenize('()'), ['(', ')']);
         self.assertEqual(main.tokenize('     '), []);
 
+    def test_is_numeric(self):
+        self.assertTrue(main.is_numeric('123'))
+        self.assertFalse(main.is_numeric('x'))
+        self.assertFalse(main.is_numeric('-'))
+
+
 if __name__ == '__main__':
     unittest.main()
