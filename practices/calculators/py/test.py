@@ -17,6 +17,10 @@ class TestCalculator(unittest.TestCase):
         self.assertFalse(main.is_numeric('x'))
         self.assertFalse(main.is_numeric('-'))
 
+    def test_is_name(self):
+        self.assertTrue(main.is_name('xyz'))
+        self.assertFalse(main.is_name('+'))
+
 
 if __name__ == '__main__':
     unittest.main()

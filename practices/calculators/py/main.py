@@ -9,3 +9,6 @@ def tokenize(code):
 
 def is_numeric(token):
     return re.match(r'^[0-9]+$', token)
+
+def is_name(token):
+    return re.match(r'^[A-Za-z]+$', token)
