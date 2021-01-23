@@ -4,12 +4,12 @@ const { tokenize, isNumeric, isName, parse, evaluate } = require('./index');
 
 describe('tokenize', () => {
   it('work correctly', () => {
-    assert.deepEqual(tokenize('123\n'), ['123']);
-    assert.deepEqual(tokenize('2+2'), ['2', '+', '2']);
-    assert.deepEqual(tokenize('+-*/'), ['+', '-', '*', '/']);
-    assert.deepEqual(tokenize('   1   * 24 +\n\n  pi'), ['1', '*', '24', '+', 'pi']);
-    assert.deepEqual(tokenize('()'), ['(', ')']);
-    assert.deepEqual(tokenize('    '), []);
+    assert.deepStrictEqual(tokenize('123\n'), ['123']);
+    assert.deepStrictEqual(tokenize('2+2'), ['2', '+', '2']);
+    assert.deepStrictEqual(tokenize('+-*/'), ['+', '-', '*', '/']);
+    assert.deepStrictEqual(tokenize('   1   * 24 +\n\n  pi'), ['1', '*', '24', '+', 'pi']);
+    assert.deepStrictEqual(tokenize('()'), ['(', ')']);
+    assert.deepStrictEqual(tokenize('    '), []);
   });
 });
 
@@ -30,7 +30,7 @@ describe('isName', () => {
 
 describe('parse', () => {
   it('work correctly', () => {
-    assert.deepEqual(parse('(1 + 2) / 3'), {
+    assert.deepStrictEqual(parse('(1 + 2) / 3'), {
       type: '/',
       left: {
         type: '+',
