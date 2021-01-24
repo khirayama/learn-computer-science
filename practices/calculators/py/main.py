@@ -1,5 +1,6 @@
 import re
 
+
 def tokenize(code):
     token_regexp = r'\s*([A-Za-z]+|[-1-9]+|\S)\s*'
 
