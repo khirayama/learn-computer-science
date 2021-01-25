@@ -25,6 +25,26 @@ class TestCalculator(unittest.TestCase):
         self.assertTrue(main.is_name('xyz'))
         self.assertFalse(main.is_name('+'))
 
+    def test_parse(self):
+        self.assertFalse(main.parse('(1 + 2) / 3'), {
+            'type': '/',
+            'left': {
+                'type': '+',
+                'left': {
+                    'type': 'number',
+                    'value': '1'
+                },
+                'right': {
+                    'type': 'number',
+                    'value': '2'
+                },
+            },
+            'right': {
+                'type': 'number',
+                'value': '3'
+            },
+        })
+
 
 if __name__ == '__main__':
     unittest.main()
