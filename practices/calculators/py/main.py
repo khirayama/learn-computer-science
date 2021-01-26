@@ -13,3 +13,8 @@ def is_numeric(token):
 
 def is_name(token):
     return re.match(r'^[A-Za-z]+$', token)
+
+
+def parse(code):
+    tokens = []
+    position = 0
