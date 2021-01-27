@@ -18,3 +18,9 @@ def is_name(token):
 def parse(code):
     tokens = []
     position = 0
+
+    def peek():
+        return tokens[position]
+
+    def consume():
+        position += 1
