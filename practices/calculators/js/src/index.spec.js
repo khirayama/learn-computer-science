@@ -2,7 +2,7 @@ const assert = require('assert');
 
 const { Lexer, Parser, evaluate, calculate } = require('./index');
 
-describe('tokenize', () => {
+describe('Lexer', () => {
   it('work correctly', () => {
     assert.deepStrictEqual(new Lexer('123\n').tokens, ['123']);
     assert.deepStrictEqual(new Lexer('2+2').tokens, ['2', '+', '2']);
@@ -13,13 +13,9 @@ describe('tokenize', () => {
   });
 });
 
-describe('parse', () => {
+describe('Parser', () => {
   it('work correctly', () => {
-    const input = '(1 + 2) / 3';
-    const l = new Lexer(input);
-    const p = new Parser(l.tokens);
-
-    assert.deepStrictEqual(p.ast, {
+    assert.deepStrictEqual(new Parser(new Lexer('(1 + 2) / 3').tokens).ast, {
       type: '/',
       left: {
         type: '+',
@@ -32,6 +28,23 @@ describe('parse', () => {
 });
 
 describe('evaluate', () => {
+  it('work correctly', () => {
+    assert.deepStrictEqual(
+      evaluate({
+        type: '/',
+        left: {
+          type: '+',
+          left: { type: 'number', value: '1' },
+          right: { type: 'number', value: '2' },
+        },
+        right: { type: 'number', value: '3' },
+      }),
+      1,
+    );
+  });
+});
+
+describe('calculate', () => {
   it('work correctly', () => {
     assert.strictEqual(calculate('2 + 2'), 4);
     assert.strictEqual(calculate('3 * 4 * 5'), 60);
