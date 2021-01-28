@@ -1,36 +1,25 @@
 const assert = require('assert');
 
-const { tokenize, isNumeric, isName, parse, evaluate } = require('./index');
+const { Lexer, Parser, evaluate, calculate } = require('./index');
 
 describe('tokenize', () => {
   it('work correctly', () => {
-    assert.deepStrictEqual(tokenize('123\n'), ['123']);
-    assert.deepStrictEqual(tokenize('2+2'), ['2', '+', '2']);
-    assert.deepStrictEqual(tokenize('+-*/'), ['+', '-', '*', '/']);
-    assert.deepStrictEqual(tokenize('   1   * 24 +\n\n  pi'), ['1', '*', '24', '+', 'pi']);
-    assert.deepStrictEqual(tokenize('()'), ['(', ')']);
-    assert.deepStrictEqual(tokenize('    '), []);
-  });
-});
-
-describe('isNumeric', () => {
-  it('work correctly', () => {
-    assert(isNumeric('123'));
-    assert(!isNumeric('x'));
-    assert(!isNumeric('-'));
-  });
-});
-
-describe('isName', () => {
-  it('work correctly', () => {
-    assert(isName('xyz'));
-    assert(!isName('+'));
+    assert.deepStrictEqual(new Lexer('123\n').tokens, ['123']);
+    assert.deepStrictEqual(new Lexer('2+2').tokens, ['2', '+', '2']);
+    assert.deepStrictEqual(new Lexer('+-*/').tokens, ['+', '-', '*', '/']);
+    assert.deepStrictEqual(new Lexer('   1   * 24 +\n\n  pi').tokens, ['1', '*', '24', '+', 'pi']);
+    assert.deepStrictEqual(new Lexer('()').tokens, ['(', ')']);
+    assert.deepStrictEqual(new Lexer('    ').tokens, []);
   });
 });
 
 describe('parse', () => {
   it('work correctly', () => {
-    assert.deepStrictEqual(parse('(1 + 2) / 3'), {
+    const input = '(1 + 2) / 3';
+    const l = new Lexer(input);
+    const p = new Parser(l.tokens);
+
+    assert.deepStrictEqual(p.ast, {
       type: '/',
       left: {
         type: '+',
@@ -44,10 +33,10 @@ describe('parse', () => {
 
 describe('evaluate', () => {
   it('work correctly', () => {
-    assert.strictEqual(evaluate('2 + 2'), 4);
-    assert.strictEqual(evaluate('3 * 4 * 5'), 60);
-    assert.strictEqual(evaluate('5 * (2 + 2)'), 20);
-    assert.strictEqual(evaluate('1 + 1 / 2'), 1.5);
-    assert.strictEqual(evaluate('pi * 2'), Math.PI * 2);
+    assert.strictEqual(calculate('2 + 2'), 4);
+    assert.strictEqual(calculate('3 * 4 * 5'), 60);
+    assert.strictEqual(calculate('5 * (2 + 2)'), 20);
+    assert.strictEqual(calculate('1 + 1 / 2'), 1.5);
+    assert.strictEqual(calculate('pi * 2'), Math.PI * 2);
   });
 });
