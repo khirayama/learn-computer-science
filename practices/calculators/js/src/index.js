@@ -129,7 +129,7 @@ function evaluate(node) {
       return evaluate(node.left) / evaluate(node.right);
   }
 
-  return evaluator(node);
+  return evaluate(node);
 }
 
 function calculate(input) {
