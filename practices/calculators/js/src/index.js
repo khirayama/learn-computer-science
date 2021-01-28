@@ -128,8 +128,6 @@ function evaluate(node) {
     case '/':
       return evaluate(node.left) / evaluate(node.right);
   }
-
-  return evaluate(node);
 }
 
 function calculate(input) {
