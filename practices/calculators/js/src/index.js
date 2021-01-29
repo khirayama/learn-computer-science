@@ -31,7 +31,7 @@ class Parser {
     this.ast = this.parseExpr();
 
     if (this.position !== this.tokens.length) {
-      throw new SyntaxError("Unexpected '" + peek() + "'");
+      throw new SyntaxError("Unexpected '" + this.peek() + "'");
     }
   }
 
