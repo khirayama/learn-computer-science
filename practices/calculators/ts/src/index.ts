@@ -1,25 +1,6 @@
-export function tokenize(code: string): string[] {
-  const results: string[] = [];
-  const tokenRegExp = /\s*([A-Za-z]+|[-1-9]+|\S)\s*/g;
+type Token = string;
 
-  let m = tokenRegExp.exec(code);
-  while (m !== null) {
-    results.push(m[1]);
-    m = tokenRegExp.exec(code);
-  }
-
-  return results;
-}
-
-export function isNumeric(token: string): boolean {
-  return token !== undefined && token.match(/^[0-9]+$/) !== null;
-}
-
-export function isName(token: string): boolean {
-  return token !== undefined && token.match(/^[A-Za-z]+$/) !== null;
-}
-
-type Obj =
+type AstNode =
   | {
       type: 'number';
       value: string;
@@ -30,59 +11,108 @@ type Obj =
     }
   | {
       type: '+';
-      left: Obj;
-      right: Obj;
+      left: AstNode;
+      right: AstNode;
     }
   | {
       type: '-';
-      left: Obj;
-      right: Obj;
+      left: AstNode;
+      right: AstNode;
     }
   | {
       type: '*';
-      left: Obj;
-      right: Obj;
+      left: AstNode;
+      right: AstNode;
     }
   | {
       type: '/';
-      left: Obj;
-      right: Obj;
+      left: AstNode;
+      right: AstNode;
     };
 
-export function parse(code: string): Obj {
-  const tokens: string[] = tokenize(code);
-  let position: number = 0;
+const variables = {
+  e: Math.E,
+  pi: Math.PI,
+};
 
-  function peek(): string {
-    return tokens[position];
+export class Lexer {
+  private input: string;
+
+  public tokens: Token[];
+
+  constructor(input: string) {
+    this.input = input;
+    this.tokens = this.tokenize(this.input);
   }
 
-  function consume(): void {
-    position = position + 1;
+  public tokenize(input: string): Token[] {
+    const results = [];
+    const tokenRegExp = /\s*([A-Za-z]+|[-1-9]+|\S)\s*/g;
+
+    let m = tokenRegExp.exec(input);
+    while (m !== null) {
+      results.push(m[1]);
+      m = tokenRegExp.exec(input);
+    }
+    return results;
+  }
+}
+
+export class Parser {
+  private position: number = 0;
+
+  private tokens: Token[];
+
+  public ast: AstNode;
+
+  constructor(tokens: Token[]) {
+    this.tokens = tokens;
+
+    this.ast = this.parseExpr();
+
+    if (this.position !== this.tokens.length) {
+      throw new SyntaxError("Unexpected '" + this.peek() + "'");
+    }
   }
 
-  function parsePrimaryExpr(): Obj {
-    const t = peek();
+  private isNumeric(token: Token): boolean {
+    return token !== undefined && token.match(/^[0-9]+$/) !== null;
+  }
 
-    if (isNumeric(t)) {
-      consume();
+  private isName(token: Token): boolean {
+    return token !== undefined && token.match(/^[A-Za-z]+$/) !== null;
+  }
+
+  private peek(): Token {
+    return this.tokens[this.position];
+  }
+
+  private consume() {
+    this.position += 1;
+  }
+
+  private parsePrimaryExpr(): AstNode {
+    const t = this.peek();
+
+    if (this.isNumeric(t)) {
+      this.consume();
       return {
         type: 'number',
         value: t,
       };
-    } else if (isName(t)) {
-      consume();
+    } else if (this.isName(t)) {
+      this.consume();
       return {
         type: 'name',
         id: t,
       };
     } else if (t === '(') {
-      consume();
-      const expr = parseExpr();
-      if (peek() !== ')') {
+      this.consume();
+      const expr = this.parseExpr();
+      if (this.peek() !== ')') {
         throw new SyntaxError('expected )');
       }
-      consume();
+      this.consume();
 
       return expr;
     } else {
@@ -90,71 +120,59 @@ export function parse(code: string): Obj {
     }
   }
 
-  function parseMulExpr(): Obj {
-    let expr = parsePrimaryExpr();
-    let t = peek();
-
+  private parseMulExpr(): AstNode {
+    let expr = this.parsePrimaryExpr();
+    let t = this.peek();
     while (t === '*' || t === '/') {
-      consume();
-      const rhs = parsePrimaryExpr();
+      this.consume();
+      const rhs = this.parsePrimaryExpr();
       expr = {
         type: t,
         left: expr,
         right: rhs,
       };
-      t = peek();
+      t = this.peek();
     }
     return expr;
   }
 
-  function parseExpr(): Obj {
-    let expr = parseMulExpr();
-    let t = peek();
-
+  private parseExpr(): AstNode {
+    let expr = this.parseMulExpr();
+    let t = this.peek();
     while (t === '+' || t === '-') {
-      consume();
-      const rhs = parseMulExpr();
+      this.consume();
+      const rhs = this.parseMulExpr();
       expr = {
         type: t,
         left: expr,
         right: rhs,
       };
-      t = peek();
+      t = this.peek();
     }
+
     return expr;
   }
-
-  const result = parseExpr();
-
-  if (position !== tokens.length) {
-    throw new SyntaxError("Unexpected '" + peek() + "'");
-  }
-
-  return result;
 }
 
-export function evaluate(code: string): number {
-  const variables = {
-    e: Math.E,
-    pi: Math.PI,
-  };
-
-  function evalu(obj: Obj): number {
-    switch (obj.type) {
-      case 'number':
-        return parseInt(obj.value);
-      case 'name':
-        return variables[obj.id] || 0;
-      case '+':
-        return evalu(obj.left) + evalu(obj.right);
-      case '-':
-        return evalu(obj.left) - evalu(obj.right);
-      case '*':
-        return evalu(obj.left) * evalu(obj.right);
-      case '/':
-        return evalu(obj.left) / evalu(obj.right);
-    }
+export function evaluate(node: AstNode): number {
+  switch (node.type) {
+    case 'number':
+      return parseInt(node.value, 10);
+    case 'name':
+      return variables[node.id] || 0;
+    case '+':
+      return evaluate(node.left) + evaluate(node.right);
+    case '-':
+      return evaluate(node.left) - evaluate(node.right);
+    case '*':
+      return evaluate(node.left) * evaluate(node.right);
+    case '/':
+      return evaluate(node.left) / evaluate(node.right);
   }
+}
 
-  return evalu(parse(code));
+export function calculate(input: string) {
+  const l = new Lexer(input);
+  const p = new Parser(l.tokens);
+  return evaluate(p.ast);
 }
