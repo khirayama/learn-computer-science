@@ -1,36 +1,21 @@
 import assert from 'assert';
 
-import { tokenize, isNumeric, isName, parse, evaluate } from './index';
+import { Lexer, Parser, evaluate, calculate } from './index';
 
-describe('tokenize', () => {
+describe('Lexer', () => {
   it('work correctly', () => {
-    assert.deepEqual(tokenize('123\n'), ['123']);
-    assert.deepEqual(tokenize('2+2'), ['2', '+', '2']);
-    assert.deepEqual(tokenize('+-*/'), ['+', '-', '*', '/']);
-    assert.deepEqual(tokenize('   1   * 24 +\n\n  pi'), ['1', '*', '24', '+', 'pi']);
-    assert.deepEqual(tokenize('()'), ['(', ')']);
-    assert.deepEqual(tokenize('    '), []);
+    assert.deepStrictEqual(new Lexer('123\n').tokens, ['123']);
+    assert.deepStrictEqual(new Lexer('2+2').tokens, ['2', '+', '2']);
+    assert.deepStrictEqual(new Lexer('+-*/').tokens, ['+', '-', '*', '/']);
+    assert.deepStrictEqual(new Lexer('   1   * 24 +\n\n  pi').tokens, ['1', '*', '24', '+', 'pi']);
+    assert.deepStrictEqual(new Lexer('()').tokens, ['(', ')']);
+    assert.deepStrictEqual(new Lexer('    ').tokens, []);
   });
 });
 
-describe('isNumeric', () => {
+describe('Parser', () => {
   it('work correctly', () => {
-    assert(isNumeric('123'));
-    assert(!isNumeric('x'));
-    assert(!isNumeric('-'));
-  });
-});
-
-describe('isName', () => {
-  it('work correctly', () => {
-    assert(isName('xyz'));
-    assert(!isName('+'));
-  });
-});
-
-describe('parse', () => {
-  it('work correctly', () => {
-    assert.deepEqual(parse('(1 + 2) / 3'), {
+    assert.deepStrictEqual(new Parser(new Lexer('(1 + 2) / 3').tokens).ast, {
       type: '/',
       left: {
         type: '+',
@@ -44,9 +29,27 @@ describe('parse', () => {
 
 describe('evaluate', () => {
   it('work correctly', () => {
-    assert.strictEqual(evaluate('2 + 2'), 4);
-    assert.strictEqual(evaluate('3 * 4 * 5'), 60);
-    assert.strictEqual(evaluate('5 * (2 + 2)'), 20);
-    assert.strictEqual(evaluate('1 + 1 / 2'), 1.5);
+    assert.deepStrictEqual(
+      evaluate({
+        type: '/',
+        left: {
+          type: '+',
+          left: { type: 'number', value: '1' },
+          right: { type: 'number', value: '2' },
+        },
+        right: { type: 'number', value: '3' },
+      }),
+      1,
+    );
+  });
+});
+
+describe('calculate', () => {
+  it('work correctly', () => {
+    assert.strictEqual(calculate('2 + 2'), 4);
+    assert.strictEqual(calculate('3 * 4 * 5'), 60);
+    assert.strictEqual(calculate('5 * (2 + 2)'), 20);
+    assert.strictEqual(calculate('1 + 1 / 2'), 1.5);
+    assert.strictEqual(calculate('pi * 2'), Math.PI * 2);
   });
 });
