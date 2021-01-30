@@ -5,7 +5,7 @@ import main
 
 class TestCalculator(unittest.TestCase):
 
-    def test_lexer(self):
+    def test_Lexer(self):
         self.assertEqual(main.Lexer('123\n').tokens, ['123'])
         self.assertEqual(main.Lexer('2+2').tokens, ['2', '+', '2'])
         self.assertEqual(main.Lexer('+-*/').tokens, ['+', '-', '*', '/'])
