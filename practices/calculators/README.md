@@ -1,7 +1,7 @@
-- JavaScript
-- TypeScript
-- Python
-- Go
-- Rust
-- Java
-- C++
+- [x] JavaScript
+- [x] TypeScript
+- [x] Python
+- [ ] Go
+- [ ] C++
+- [ ] Java
+- [ ] Rust
