@@ -1,3 +1,4 @@
+import math
 import unittest
 
 import main
@@ -16,34 +17,56 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(main.Lexer('()').tokens, ['(', ')'])
         self.assertEqual(main.Lexer('     ').tokens, [])
 
-    # def test_is_numeric(self):
-    #     self.assertTrue(main.is_numeric('123'))
-    #     self.assertFalse(main.is_numeric('x'))
-    #     self.assertFalse(main.is_numeric('-'))
-    #
-    # def test_is_name(self):
-    #     self.assertTrue(main.is_name('xyz'))
-    #     self.assertFalse(main.is_name('+'))
-    #
-    # def test_parse(self):
-    #     self.assertFalse(main.parse('(1 + 2) / 3'), {
-    #         'type': '/',
-    #         'left': {
-    #             'type': '+',
-    #             'left': {
-    #                 'type': 'number',
-    #                 'value': '1'
-    #             },
-    #             'right': {
-    #                 'type': 'number',
-    #                 'value': '2'
-    #             },
-    #         },
-    #         'right': {
-    #             'type': 'number',
-    #             'value': '3'
-    #         },
-    #     })
+    def test_Parser(self):
+        self.assertDictEqual(
+            main.Parser(main.Lexer('(1 + 2) / 3').tokens).ast,
+            {
+                'type': '/',
+                'left': {
+                    'type': '+',
+                    'left': {
+                        'type': 'number',
+                        'value': '1'
+                    },
+                    'right': {
+                        'type': 'number',
+                        'value': '2'
+                    },
+                },
+                'right': {
+                    'type': 'number',
+                    'value': '3'
+                },
+            }
+        )
+
+    def test_evaluate(self):
+        self.assertEqual(
+            main.evaluate({
+                'type': '/',
+                'left': {
+                    'type': '+',
+                    'left': {
+                        'type': 'number',
+                        'value': '1'
+                    },
+                    'right': {
+                        'type': 'number',
+                        'value': '2'
+                    },
+                },
+                'right': {
+                    'type': 'number',
+                    'value': '3'
+                },
+            }), 1)
+
+    def test_calculate(self):
+        self.assertEqual(main.calculate('2 + 2'), 4)
+        self.assertEqual(main.calculate('3 * 4 * 5'), 60)
+        self.assertEqual(main.calculate('5 * (2 + 2)'), 20)
+        self.assertEqual(main.calculate('1 + 1 / 2'), 1.5)
+        self.assertEqual(main.calculate('pi * 2'), math.pi * 2)
 
 
 if __name__ == '__main__':
