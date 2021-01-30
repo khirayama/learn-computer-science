@@ -1,11 +1,15 @@
 import re
 
 
-def tokenize(code):
-    token_regexp = r'\s*([A-Za-z]+|[-1-9]+|\S)\s*'
+class Lexer:
+    def __init__(self, inpt):
+        self.input = inpt
+        self.tokens = self.tokenize(self.input)
 
-    return re.findall(token_regexp, code, re.S)
+    def tokenize(self, inpt):
+        token_regexp = r'\s*([A-Za-z]+|[-1-9]+|\S)\s*'
 
+        return re.findall(token_regexp, inpt, re.S)
 
 def is_numeric(token):
     return re.match(r'^[0-9]+$', token)
