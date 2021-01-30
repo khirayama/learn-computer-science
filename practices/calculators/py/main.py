@@ -113,3 +113,9 @@ def evaluate(node):
         return evaluate(node['left']) * evaluate(node['right'])
     elif node['type'] == '/':
         return evaluate(node['left']) / evaluate(node['right'])
+
+
+def calculate(inpt):
+    lxr = Lexer(inpt)
+    psr = Parser(lxr.tokens)
+    return evaluate(psr.ast)
