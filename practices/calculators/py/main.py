@@ -98,3 +98,18 @@ class Parser:
             t = self.peek()
 
         return expr
+
+
+def evaluate(node):
+    if node['type'] == 'number':
+        return float(node['value'])
+    elif node['type'] == 'name':
+        return variables[node['id']]
+    elif node['type'] == '+':
+        return evaluate(node['left']) + evaluate(node['right'])
+    elif node['type'] == '-':
+        return evaluate(node['left']) - evaluate(node['right'])
+    elif node['type'] == '*':
+        return evaluate(node['left']) * evaluate(node['right'])
+    elif node['type'] == '/':
+        return evaluate(node['left']) / evaluate(node['right'])
