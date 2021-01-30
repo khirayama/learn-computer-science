@@ -37,5 +37,64 @@ class Parser:
             return None
         return self.tokens[self.position]
 
-    def consume():
-        position += 1
+    def consume(self):
+        self.position += 1
+
+    def parsePrimaryExpr(self):
+        t = self.peek()
+
+        if self.is_numeric(t):
+            self.consume()
+            return {
+                'type': 'number',
+                'value': t
+            }
+        elif self.is_name(t):
+            self.consume()
+            return {
+                'type': 'name',
+                'id': t
+            }
+        elif t == '(':
+            self.consume()
+            expr = self.parseExpr()
+
+            if self.peek() != ')':
+                raise SyntaxError("expected )")
+            self.consume()
+
+            return expr
+        else:
+            raise SyntaxError('Expected a number, a variable, or parentheses')
+
+    def parseMulExpr(self):
+        expr = self.parsePrimaryExpr()
+        t = self.peek()
+
+        while t == '*' or t == '/':
+            self.consume()
+            rhs = self.parsePrimaryExpr()
+            expr = {
+                'type': t,
+                'left': expr,
+                'right': rhs
+            }
+            t = self.peek()
+
+        return expr
+
+    def parseExpr(self):
+        expr = self.parseMulExpr()
+        t = self.peek()
+
+        while t == '+' or t == '-':
+            self.consume()
+            rhs = self.parseMulExpr()
+            expr = {
+                'type': t,
+                'left': expr,
+                'right': rhs
+            }
+            t = self.peek()
+
+        return expr
