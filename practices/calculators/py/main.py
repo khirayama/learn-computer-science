@@ -18,20 +18,24 @@ class Lexer:
 
         return re.findall(token_regexp, inpt, re.S)
 
-def is_numeric(token):
-    return re.match(r'^[0-9]+$', token)
 
+class Parser:
+    def __init__(self, tokens):
+        self.position = 0
+        self.tokens = tokens
 
-def is_name(token):
-    return re.match(r'^[A-Za-z]+$', token)
+        self.ast = self.parseExpr()
 
+    def is_numeric(self, token):
+        return re.match(r'^[0-9]+$', token)
 
-def parse(code):
-    tokens = []
-    position = 0
+    def is_name(self, token):
+        return re.match(r'^[A-Za-z]+$', token)
 
-    def peek():
-        return tokens[position]
+    def peek(self):
+        if len(self.tokens) <= self.position:
+            return None
+        return self.tokens[self.position]
 
     def consume():
         position += 1
