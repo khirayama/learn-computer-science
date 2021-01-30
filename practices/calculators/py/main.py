@@ -1,4 +1,11 @@
+import math
 import re
+
+
+variables = {
+  'e': math.e,
+  'pi': math.pi,
+}
 
 
 class Lexer:
