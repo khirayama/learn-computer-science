@@ -1,9 +1,9 @@
 package main
 
 import (
-  "strings"
-  "fmt"
-  "regexp"
+	"fmt"
+	"regexp"
+	"strings"
 )
 
 type Token = string
@@ -16,14 +16,18 @@ type Lexer struct {
 func NewLexer(input string) *Lexer {
   l := new(Lexer)
   l.input = input
-  l.tokenize(l.input)
+  l.tokens = l.tokenize(l.input)
   return l
 }
 
 func (l Lexer) tokenize(input string) []Token {
+  result := []Token{}
+
   r := regexp.MustCompile(`\s*([A-Za-z]+|[-1-9]+|\S)\s*`)
-  result := r.FindAllString(input, -1)
-  s := strings.Join(result, ",")
-  fmt.Println(s)
+  strs := r.FindAllString(input, -1)
+  for _, str := range strs {
+    result = append(result, strings.TrimSpace(str))
+  }
+  fmt.Println(strings.Join(result, ","))
   return result
 }
