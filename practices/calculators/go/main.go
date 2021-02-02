@@ -13,9 +13,8 @@ type Lexer struct {
   tokens []Token
 }
 
-func NewLexer(input string) *Lexer {
-  l := new(Lexer)
-  l.input = input
+func New(input string) *Lexer {
+  l := &Lexer{input: input}
   l.tokens = l.tokenize(l.input)
   return l
 }
