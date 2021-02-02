@@ -5,12 +5,12 @@ import (
 )
 
 func TestLexer(t *testing.T) {
-  New("123\n")
-  New("2+2")
-  New("+-*/")
-  New("   1   * 24 +\n\n  pi")
-  New("()")
-  New("    ")
+  NewLexer("123\n")
+  NewLexer("2+2")
+  NewLexer("+-*/")
+  NewLexer("   1   * 24 +\n\n  pi")
+  NewLexer("()")
+  NewLexer("    ")
   // l := NewLexer("123\n")
   // fmt.Printf(l.tokens)
 }
