@@ -212,6 +212,7 @@
 - ZOZOのテックカンパニーへの変遷、CTOとしての取り組みを振り返る kyuns /キュン 今村雅幸 https://note.com/kyuns/n/n00d467243857
 - ソヤマン - 最強のマネジメント https://www.youtube.com/channel/UCXNdhMaVY8wp06UaMCYiv_g/videos
 - 解像度を高める https://speakerdeck.com/tumada/jie-xiang-du-wogao-meru
+- Repro株式会社を退職します https://note.com/hiroxyy/n/na7e6d9443f71
 
 ## メモ
 
