@@ -12,11 +12,34 @@ func TestLexer(t *testing.T) {
 	if diff := deep.Equal(tokens, expected); diff != nil {
 		t.Error(diff)
 	}
-	// NewLexer("2+2")
-	// NewLexer("+-*/")
-	// NewLexer("   1   * 24 +\n\n  pi")
-	// NewLexer("()")
-	// NewLexer("    ")
-	// l := NewLexer("123\n")
-	// fmt.Printf(l.tokens)
+
+	tokens = New("2+2").tokens
+	expected = []string{"2", "+", "2"}
+	if diff := deep.Equal(tokens, expected); diff != nil {
+		t.Error(diff)
+	}
+
+	tokens = New("+-*/").tokens
+	expected = []string{"+", "-", "*", "/"}
+	if diff := deep.Equal(tokens, expected); diff != nil {
+		t.Error(diff)
+	}
+
+	tokens = New("   1   * 24 +\n\n  pi").tokens
+	expected = []string{"1", "*", "24", "+", "pi"}
+	if diff := deep.Equal(tokens, expected); diff != nil {
+		t.Error(diff)
+	}
+
+	tokens = New("()").tokens
+	expected = []string{"(", ")"}
+	if diff := deep.Equal(tokens, expected); diff != nil {
+		t.Error(diff)
+	}
+
+	tokens = New("    ").tokens
+	expected = []string{}
+	if diff := deep.Equal(tokens, expected); diff != nil {
+		t.Error(diff)
+	}
 }

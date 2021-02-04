@@ -1,7 +1,6 @@
 package lexer
 
 import (
-	"fmt"
 	"regexp"
 	"strings"
 )
@@ -27,6 +26,5 @@ func (l Lexer) tokenize(input string) []Token {
   for _, str := range strs {
     result = append(result, strings.TrimSpace(str))
   }
-  fmt.Println(strings.Join(result, ","))
   return result
 }
