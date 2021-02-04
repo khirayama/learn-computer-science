@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-type Token = string
+type Token string
 
 type Lexer struct {
   input string
@@ -24,7 +24,7 @@ func (l Lexer) tokenize(input string) []Token {
   r := regexp.MustCompile(`\s*([A-Za-z]+|[-1-9]+|\S)\s*`)
   strs := r.FindAllString(input, -1)
   for _, str := range strs {
-    result = append(result, strings.TrimSpace(str))
+    result = append(result, Token(strings.TrimSpace(str)))
   }
   return result
 }
