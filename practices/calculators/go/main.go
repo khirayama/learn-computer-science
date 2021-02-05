@@ -1,4 +1,4 @@
-package lexer
+package main
 
 import (
 	"regexp"
@@ -12,7 +12,7 @@ type Lexer struct {
   tokens []Token
 }
 
-func New(input string) *Lexer {
+func NewLexer(input string) *Lexer {
   l := &Lexer{input: input}
   l.tokens = l.tokenize(l.input)
   return l
@@ -27,4 +27,16 @@ func (l Lexer) tokenize(input string) []Token {
     result = append(result, Token(strings.TrimSpace(str)))
   }
   return result
+}
+
+type Parser struct {
+  position int
+  tokens []lexer.Token
+  ast AstNode
+}
+
+func New(tokens []Token) *Parser {
+  p := &Parser{tokens: tokens}
+  p.ast = p.parseExpr()
+  return p
 }
