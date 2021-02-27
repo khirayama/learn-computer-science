@@ -214,6 +214,8 @@
 - 解像度を高める https://speakerdeck.com/tumada/jie-xiang-du-wogao-meru
 - Repro株式会社を退職します https://note.com/hiroxyy/n/na7e6d9443f71
 - ARR400％達成の要となった1on1テクニック https://blog.allstarsaas.com/posts/1on1technique-20210105
+- 管理職のための役職引退マニュアル https://dev.classmethod.jp/articles/howto-quit-the-general-manager/
+- 管理職のためのエンジニア組織構築マニュアル https://dev.classmethod.jp/articles/engineer-organization-building-manual/
 
 ## メモ
 
