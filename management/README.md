@@ -216,6 +216,8 @@
 - ARR400％達成の要となった1on1テクニック https://blog.allstarsaas.com/posts/1on1technique-20210105
 - 管理職のための役職引退マニュアル https://dev.classmethod.jp/articles/howto-quit-the-general-manager/
 - 管理職のためのエンジニア組織構築マニュアル https://dev.classmethod.jp/articles/engineer-organization-building-manual/
+- メルカリ、「無意識（アンコンシャス）バイアス ワークショップ」の社内研修資料を無償公開 https://about.mercari.com/press/news/articles/20210225_unconsciousbiasworkshop/
+- Engineering Ladder https://engineering.mercari.com/ladder/
 
 ## メモ
 
