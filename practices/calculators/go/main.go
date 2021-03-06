@@ -7,6 +7,18 @@ import (
 
 type Token string
 
+type NumberAstNode struct {
+  category string // "number"
+  value string
+}
+
+type NameAstNode struct {
+  category string // "name"
+  id string
+}
+
+type AstNode = NumberAstNode | NameAstNode
+
 type Lexer struct {
   input string
   tokens []Token
@@ -31,7 +43,7 @@ func (l Lexer) tokenize(input string) []Token {
 
 type Parser struct {
   position int
-  tokens []lexer.Token
+  tokens []Token
   ast AstNode
 }
 
