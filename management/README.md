@@ -218,6 +218,8 @@
 - 管理職のためのエンジニア組織構築マニュアル https://dev.classmethod.jp/articles/engineer-organization-building-manual/
 - メルカリ、「無意識（アンコンシャス）バイアス ワークショップ」の社内研修資料を無償公開 https://about.mercari.com/press/news/articles/20210225_unconsciousbiasworkshop/
 - Engineering Ladder https://engineering.mercari.com/ladder/
+- ryanburgess/engineer-manager: A list of engineering manager resource links. https://github.com/ryanburgess/engineer-manager
+- ウォーターフォールを世に広めたとされる米軍がアジャイルに移行中という話 https://qiita.com/YankeeDeltaBravo225/items/9f08c0eccd48f00b9f9e
 
 ## メモ
 
