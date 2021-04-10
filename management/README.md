@@ -220,6 +220,7 @@
 - Engineering Ladder https://engineering.mercari.com/ladder/
 - ryanburgess/engineer-manager: A list of engineering manager resource links. https://github.com/ryanburgess/engineer-manager
 - ウォーターフォールを世に広めたとされる米軍がアジャイルに移行中という話 https://qiita.com/YankeeDeltaBravo225/items/9f08c0eccd48f00b9f9e
+- マクドナルドに新卒入社した頃、上司のサラから学んだこと https://comemo.nikkei.com/n/n5332d57298cc
 
 ## メモ
 
