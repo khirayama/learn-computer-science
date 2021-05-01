@@ -222,6 +222,8 @@
 - ウォーターフォールを世に広めたとされる米軍がアジャイルに移行中という話 https://qiita.com/YankeeDeltaBravo225/items/9f08c0eccd48f00b9f9e
 - マクドナルドに新卒入社した頃、上司のサラから学んだこと https://comemo.nikkei.com/n/n5332d57298cc
 - 「【グーグルのマネージャ育成図解】 膨大な自社データより特定した「優れたマネージャ10つの行動様式」に沿った登用・育成・フィードバックループが基本 ▼ポイント 行動様式の定義から1on1の徹底まで理想化されたフレームワーク。これを自社に置き換え結局"やり切れるか"がキモ #HRを図解します https://t.co/9pBLZwpkkr」 / Twitter](https://twitter.com/tommygfx90/status/1382647590085296130)
+- プログラマー風林火山 http://blog.livedoor.jp/lalha/archives/50065532.html
+- チームにいると頼りになるソフトウェアエンジニア https://nhiroki.jp/2021/04/30/reliable-software-engineers
 
 ## メモ
 
