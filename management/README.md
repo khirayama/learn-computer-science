@@ -224,6 +224,7 @@
 - 「【グーグルのマネージャ育成図解】 膨大な自社データより特定した「優れたマネージャ10つの行動様式」に沿った登用・育成・フィードバックループが基本 ▼ポイント 行動様式の定義から1on1の徹底まで理想化されたフレームワーク。これを自社に置き換え結局"やり切れるか"がキモ #HRを図解します https://t.co/9pBLZwpkkr」 / Twitter](https://twitter.com/tommygfx90/status/1382647590085296130)
 - プログラマー風林火山 http://blog.livedoor.jp/lalha/archives/50065532.html
 - チームにいると頼りになるソフトウェアエンジニア https://nhiroki.jp/2021/04/30/reliable-software-engineers
+- 相談されなくなる理由 - Konifar's ZATSU https://konifar-zatsu.hatenadiary.jp/entry/2021/05/10/140807
 
 ## メモ
 
