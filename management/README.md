@@ -226,6 +226,7 @@
 - チームにいると頼りになるソフトウェアエンジニア https://nhiroki.jp/2021/04/30/reliable-software-engineers
 - 相談されなくなる理由 - Konifar's ZATSU https://konifar-zatsu.hatenadiary.jp/entry/2021/05/10/140807
 - 「数字の厄介なのは、ウソをつかずに人をだますことができる点だ。ほかの数字はことごとく悪いのに、たまたま一つの数字だけ勇ましいものになっていて、それだけ報告すれば、現場は素晴らしく活躍している、という印象を与えることができる。現実には凄惨なことが起きていたとしても。」 https://mobile.twitter.com/ShinShinohara/status/1391673354117992458
+- すべての働く人におくるストレスマネジメントの基本 https://baigie.me/officialblog/2021/05/18/stressmanagement/
 
 ## メモ
 
