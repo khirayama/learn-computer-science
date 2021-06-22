@@ -131,49 +131,51 @@
 
 ```
 [
+  // 問題分類
+  "String",
+  "Math",
+  "Design",
+  "Bit Manipulation",
+
   // データ構造
   "Array",
-  "Hash Table",
-  "Linked List",
-  "Stack",
-  "Heap",
   "Tree",
-  "Union Find",
+  "Hash Table",
+  "Stack",
   "Graph",
-  "Binary Indexed Tree",
-  "Segment Tree",
-  "Binary Search Tree",
-  "Queue",
+  "Heap",
+  "Linked List",
+  "Union Find",
   "Trie",
-  "Dequeue",
-  "Suffix Array",
-
-  // 問題分類
-  "Math",
-  "String",
-  "Bit Manipulation",
-  "Design",
+  "Queue",
 
   // 設計パラダイム
-  "Divide and Conquer", // 22 - Easy: 2, Medium: 8, Hard: 12
   "Dynamic Programming",
   "Greedy",
-  "Backtracking",
+  "Divide and Conquer",
 
   // 探索
-  "Binary Search",
   "Depth-first Search",
+  "Binary Search",
   "Breadth-first Search",
 
   // ソート
   "Sort",
-  "Topological Sort",
 
   // 実装
   "Two Pointers",
+  "Backtracking",
   "Recursion",
   "Sliding Window",
 
+
+  // 中級
+  "Binary Indexed Tree",
+  "Segment Tree",
+  "Binary Search Tree",
+  "Dequeue",
+  "Suffix Array",
+  "Topological Sort",
   "Brainteaser",
   "Minimax",
   "Geometry",
