@@ -232,6 +232,7 @@
 - 冨田憲二 / Runtrip取締役さんはTwitterを使っています 「その1on1、本当にワークしてる？ 「正しい1on1ミーティング」を図解しました。 重要ファクト ・会社を辞めた人の50%以上が「上司が理由」で退職 ・離職は会社を去るのはでなく「上司から去りたくて」辞める tps://twitter.com/tommygfx90/status/1401856601858871297
 - 3年間のオンボーディングで培われた、リモートでも効果的な7+3のプラクティス - Visional Engineering Blog https://engineering.visional.inc/blog/296/onboarding-practices/
 - 「なんとなく元気がない」状態には名前があり対応が必要だと全マネジャーは知っていたほうが良い https://tomoima525.hatenablog.com/entry/2021/06/16/153359
+- これからお前がプロダクトデザイナーとして SmartHR でヘヴィメタルする前に伝えておきたいことがある｜oujimiyahara｜note https://note.com/oujimiyahara/n/n6538cd0fb342
 
 ## メモ
 
