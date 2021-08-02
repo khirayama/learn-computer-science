@@ -234,6 +234,7 @@
 - 「なんとなく元気がない」状態には名前があり対応が必要だと全マネジャーは知っていたほうが良い https://tomoima525.hatenablog.com/entry/2021/06/16/153359
 - これからお前がプロダクトデザイナーとして SmartHR でヘヴィメタルする前に伝えておきたいことがある｜oujimiyahara｜note https://note.com/oujimiyahara/n/n6538cd0fb342
 - 共同声明「フェミニスト原則の再確認を呼びかける」 https://swashweb.net/2021/07/12/post-906/
+- ジェンダー格差をそのままにして、イノベーションは生まれない。 https://magazine.mercari.com/series/kakeru/kakeru-Sputniko
 
 ## メモ
 
