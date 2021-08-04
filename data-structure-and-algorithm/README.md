@@ -212,3 +212,8 @@
   "Memoization",
 ]
 ```
+
+## 参考
+
+- [leetcode時代の外資コーディング面接対策 - Qiita](https://qiita.com/ktsujino/items/9cfa31dced5a68720485)
+- [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
