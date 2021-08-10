@@ -236,6 +236,7 @@
 - 共同声明「フェミニスト原則の再確認を呼びかける」 https://swashweb.net/2021/07/12/post-906/
 - ジェンダー格差をそのままにして、イノベーションは生まれない。 https://magazine.mercari.com/series/kakeru/kakeru-Sputniko
 - 2021年のエンジニア新人研修の講義資料を公開しました - Cybozu Inside Out | サイボウズエンジニアのブログ https://blog.cybozu.io/entry/2021/07/20/100000
+- 社会の全員がラクになる「カーブカット効果」のこと https://note.com/fwatanabe/n/n1da8ab2849cd
 
 ## メモ
 
