@@ -240,6 +240,7 @@
 - 有給生理休暇は男性にとってアンフェアか？ 一七〇人の社員アンケートと考える男女平等 https://q.livesense.co.jp/2021/08/10/988.html
 - 多様性のある社会で、お金の価値がやけに高くなる理由 https://note.com/fladdict/n/n36aad9ab9670
 - エンジニアリングマネージャーとしてどんなことをしているのか？ https://tune.hatenadiary.jp/entry/2021/09/05/165453
+- Overview - Dropbox Engineering Career Framework https://dropbox.github.io/dbx-career-framework/overview.html
 
 ## メモ
 
