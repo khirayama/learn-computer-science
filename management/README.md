@@ -241,6 +241,7 @@
 - 多様性のある社会で、お金の価値がやけに高くなる理由 https://note.com/fladdict/n/n36aad9ab9670
 - エンジニアリングマネージャーとしてどんなことをしているのか？ https://tune.hatenadiary.jp/entry/2021/09/05/165453
 - Overview - Dropbox Engineering Career Framework https://dropbox.github.io/dbx-career-framework/overview.html
+- The effects of remote work on collaboration among information workers | Nature Human Behaviour https://www.nature.com/articles/s41562-021-01196-4
 
 ## メモ
 
