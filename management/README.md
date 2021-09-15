@@ -243,6 +243,7 @@
 - Overview - Dropbox Engineering Career Framework https://dropbox.github.io/dbx-career-framework/overview.html
 - The effects of remote work on collaboration among information workers | Nature Human Behaviour https://www.nature.com/articles/s41562-021-01196-4
 - なぜエンジニアはマネージャーになるのに不安を覚えるのか https://tech.asken.inc/entry/2021/09/10/190000
+- Culture Doc | 採用情報 株式会社メルカリ https://careers.mercari.com/jp/culturedoc/
 
 ## メモ
 
