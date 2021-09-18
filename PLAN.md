@@ -69,6 +69,7 @@
     - [x] [BLOG] [ウェブサイトが表示されるまでにブラウザはどういった仕事を行っているのか？ - GIGAZINE](https://gigazine.net/news/20190624-how-web-works/)
 - [x] ソフトウェア工学
   - [x] サービス作り
+    - [x] [BLOG] [いいコミットメッセージの共通点と書き方〜便利なテンプレートやチーム開発時のお作法まで詳しく解説〜   | PrAhaENGINEERLAB](https://www.praha-inc.com/lab/posts/commit-message)
     - [x] [BLOG] [node.js のメトリクスの計測、ベンチマークの改善、Docker イメージの絞り方を勉強した - mizdev](https://mizchi.dev/202009192222-study-nodejs-benchmark)
     - [x] [BLOG] [JavaScript における文字コードと「文字数」の数え方 | blog.jxck.io](https://blog.jxck.io/entries/2017-03-02/unicode-in-javascript.html)
     - [x] [BLOG] [Front-End Performance Checklist 2020 [PDF, Apple Pages, MS Word] — Smashing Magazine](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
