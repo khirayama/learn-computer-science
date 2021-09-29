@@ -52,6 +52,7 @@
     - [x] [BLOG] [全てのエンジニアに知ってもらいたいOSの中身/OS that we should know - Speaker Deck](https://speakerdeck.com/ariaki/os-that-we-should-know)
     - [x] [BLOG] [ハードウェアの仕組みとソフトウェア処理 マイコンの動作を理解する｜Tech Village （テックビレッジ） CQ出版株式会社](http://www.kumikomi.net/archives/2009/11/post_23.php)
     - [x] [BLOG] [なぜCPUにはL1・L2・L3というように複数のキャッシュレベルがあるのか？ - GIGAZINE](https://gigazine.net/news/20160912-cpu-cache-level/)
+    - [x] [BLOG] [コンピューターはどうやって乱数を生み出しているのか？ - GIGAZINE](https://gigazine.net/news/20210925-random-generate/)
   - [x] インターネット
     - [x] [BLOG] [ウェブブラウザにバグ報告をするときにやること - ぱすたけ日記](https://blog.pastak.net/entry/2020/12/19/140000)
     - [x] [BLOG] [Web 技術の調査方法 | blog.jxck.io](https://blog.jxck.io/entries/2020-11-19/how-to-track-web-standards.html)
