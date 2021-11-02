@@ -244,6 +244,7 @@
 - The effects of remote work on collaboration among information workers | Nature Human Behaviour https://www.nature.com/articles/s41562-021-01196-4
 - なぜエンジニアはマネージャーになるのに不安を覚えるのか https://tech.asken.inc/entry/2021/09/10/190000
 - Culture Doc | 採用情報 株式会社メルカリ https://careers.mercari.com/jp/culturedoc/
+- OKRの失敗しない導入方法 - Google・Facebookが採用する目標管理方法を事例で学ぶ - https://www.dodadsj.com/content/200116_okr/
 
 ## メモ
 
