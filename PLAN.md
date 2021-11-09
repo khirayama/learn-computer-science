@@ -9,6 +9,7 @@
     - [ ] [BLOG] [JSON Parser with JavaScript | Tan Li Hau](https://lihautan.com/json-parser-with-javascript/)
     - [ ] [BLOG] [C言語でSQLiteのクローンを作るチュートリアルやった - valid,invalid](https://ohbarye.hatenablog.jp/entry/2020/04/17/sqlite-clone-db-tutorial)
     - [ ] [BLOG] [Goで作るテキストエディタ - Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/2020/07/29/113000)
+    - [ ] [BLOG] [Fullstack app with TypeScript, Next.js, Prisma & GraphQL](https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
   - [ ] アルゴリズムとデータ構造
     - [ ] [BLOG] [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問 | POSTD](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)
     - [ ] [BLOG] [コーディング面接対策のために解きたいLeetCode 60問 | 新井康平](https://1kohei1.com/leetcode/)
