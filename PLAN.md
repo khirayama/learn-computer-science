@@ -69,6 +69,8 @@
     - [x] [BLOG] [How Web Content Can Affect Power Usage | WebKit](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/)
     - [x] [BLOG] [仮想DOMは本当に"速い"のか？ DOM操作の新しい考え方を、フレームワークを実装して理解しよう - エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/entry/2020/02/18/103000)
     - [x] [BLOG] [ウェブサイトが表示されるまでにブラウザはどういった仕事を行っているのか？ - GIGAZINE](https://gigazine.net/news/20190624-how-web-works/)
+    - [x] [BLOG] [【連載】世界一わかりみが深いコンテナ & Docker入門 その5:Dockerのネットワークってどうなってるの？ | SIOS Tech. Lab](https://tech-lab.sios.jp/archives/20179)
+    - [x] [BLOG] [Kubernetesネットワーキング初級者脱出ガイド / Kubernetes networking beginner's guide - Speaker Deck](https://speakerdeck.com/inductor/kubernetes-networking-beginners-guide)
 - [x] ソフトウェア工学
   - [x] サービス作り
     - [x] [BLOG] [いいコミットメッセージの共通点と書き方〜便利なテンプレートやチーム開発時のお作法まで詳しく解説〜   | PrAhaENGINEERLAB](https://www.praha-inc.com/lab/posts/commit-message)
