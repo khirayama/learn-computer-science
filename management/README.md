@@ -247,6 +247,7 @@
 - OKRの失敗しない導入方法 - Google・Facebookが採用する目標管理方法を事例で学ぶ - https://www.dodadsj.com/content/200116_okr/
 - ソフトウェアエンジニア採用におけるコーディングテストのススメ - MAYAH https://mayah.jp/posts/2021/10/coding-test/
 - ソフトウェアエンジニアと技術力 / developer-lifework - Speaker Deck https://speakerdeck.com/soudai/developer-lifework
+- How Big Tech Runs Tech Projects and the Curious Absence of Scrum - by Gergely Orosz - The Pragmatic Engineer https://newsletter.pragmaticengineer.com/p/project-management-in-tech
 
 ## メモ
 
