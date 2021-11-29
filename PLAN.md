@@ -99,6 +99,9 @@
     - [x] [BLOG] [UXリサーチのための定量的なデータ分析 | UX MILK](https://uxmilk.jp/90777)
     - [x] [BLOG] [microfrontends/english.md at master · phodal/microfrontends](https://github.com/phodal/microfrontends/blob/master/english.md)
     - [x] [BLOG] [L7ロードバランサとL4ロードバランサ - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/01/135430)
+  - [ ] クリエイティブコーディング
+    - [ ] [BLOG] [クリエイティブコーディングの教科書](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a)
+    - [ ] [BLOG] [Cours_Bordeaux_Montaigne/L2_2015_2016 at master · v3ga/Cours_Bordeaux_Montaigne](https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/L2_2015_2016)
   - [ ] データベース
     - [x] [BLOG] [1000万件オーバーのレコードのデータをカジュアルに扱うための心構え](https://joker1007.hatenablog.com/entry/2020/11/04/214646)
   - [ ] セキュリティ
