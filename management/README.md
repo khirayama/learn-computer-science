@@ -249,6 +249,7 @@
 - ソフトウェアエンジニアと技術力 / developer-lifework - Speaker Deck https://speakerdeck.com/soudai/developer-lifework
 - How Big Tech Runs Tech Projects and the Curious Absence of Scrum - by Gergely Orosz - The Pragmatic Engineer https://newsletter.pragmaticengineer.com/p/project-management-in-tech
 - マネジメントの根っこには何があるのか - STEAM PLACE https://steam.place/entry/2021/12/12/083708
+- 3年以内にベンチャーを辞めた知人の退職理由を列挙していくだけの枠。 https://swatanabe.hatenablog.com/entry/venture-retirement-within-3-yeaes
 
 ## メモ
 
