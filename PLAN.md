@@ -76,6 +76,8 @@
     - [x] [BLOG] [ウェブサイトが表示されるまでにブラウザはどういった仕事を行っているのか？ - GIGAZINE](https://gigazine.net/news/20190624-how-web-works/)
     - [x] [BLOG] [【連載】世界一わかりみが深いコンテナ & Docker入門 その5:Dockerのネットワークってどうなってるの？ | SIOS Tech. Lab](https://tech-lab.sios.jp/archives/20179)
     - [x] [BLOG] [Kubernetesネットワーキング初級者脱出ガイド / Kubernetes networking beginner's guide - Speaker Deck](https://speakerdeck.com/inductor/kubernetes-networking-beginners-guide)
+    - [x] [BLOG] [Web のセマンティクスにおける Push と Pull | blog.jxck.io](https://blog.jxck.io/entries/2021-12-08/web-semantics-push-and-pull.html)
+    - [x] [BLOG] [ブラウザの上でブラウザを動かす | shinyaigeek.dev](https://shinyaigeek.dev/post/browser-on-browser/)
 - [x] ソフトウェア工学
   - [x] サービス作り
     - [x] [BLOG] [いいコミットメッセージの共通点と書き方〜便利なテンプレートやチーム開発時のお作法まで詳しく解説〜   | PrAhaENGINEERLAB](https://www.praha-inc.com/lab/posts/commit-message)
@@ -104,6 +106,7 @@
     - [x] [BLOG] [UXリサーチのための定量的なデータ分析 | UX MILK](https://uxmilk.jp/90777)
     - [x] [BLOG] [microfrontends/english.md at master · phodal/microfrontends](https://github.com/phodal/microfrontends/blob/master/english.md)
     - [x] [BLOG] [L7ロードバランサとL4ロードバランサ - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/01/135430)
+    - [x] [BLOG] [グロースの逆説 : メルカリで分析とサービスグロースをやる前に知りたかったこと｜樫田光 | Hikaru Kashida｜note](https://note.com/hik0107/n/n91e296a409a9)
   - [ ] クリエイティブコーディング
     - [ ] [BLOG] [クリエイティブコーディングの教科書](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a)
     - [ ] [BLOG] [Cours_Bordeaux_Montaigne/L2_2015_2016 at master · v3ga/Cours_Bordeaux_Montaigne](https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/L2_2015_2016)
