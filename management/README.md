@@ -250,6 +250,10 @@
 - How Big Tech Runs Tech Projects and the Curious Absence of Scrum - by Gergely Orosz - The Pragmatic Engineer https://newsletter.pragmaticengineer.com/p/project-management-in-tech
 - マネジメントの根っこには何があるのか - STEAM PLACE https://steam.place/entry/2021/12/12/083708
 - 3年以内にベンチャーを辞めた知人の退職理由を列挙していくだけの枠。 https://swatanabe.hatenablog.com/entry/venture-retirement-within-3-yeaes
+- エンジニアに戻った今、かつてマネージャーだった自分に何を思うか | スタディスト開発ブログ https://studist.tech/look-back-myself-as-a-manager-cbe08b611223
+- エンジニアリングマネージャー必読の翻訳書 7選 - Yusuke Ando a.k.a yando https://yandod.github.io/blog/2021/12/08/tech-company-manager-book/
+- メルカリで築くエンジニアキャリア | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/20211213-4b77715a44/
+- プログラマーとエンジニアリングマネージャと経営の交差点から https://qiita.com/yosuke_furukawa/items/09fbbf27c3af0508fb0c
 
 ## メモ
 
