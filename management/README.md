@@ -257,6 +257,9 @@
 - 10年エンジニアリングマネージャーをやって気づいた4つの大事なポイント 【EMはもっと自由でいい】 - MonotaRO Tech Blog https://tech-blog.monotaro.com/entry/2021/12/22/090000
 - エムスリー執行役員VPoE兼PdMの山崎が、エンジニア、QA、デザイナー、プロダクトマネージャーにお薦めする良書7選 - エムスリーテックブログ https://www.m3tech.blog/entry/vpoe-book-review-2021
 - Engineering Managerの役割を無くしてみた - Akatsuki Hackers Lab | 株式会社アカツキ（Akatsuki Inc.) https://hackerslab.aktsk.jp/2021/12/22/070000
+- 上司の指示が少ない組織ほど柔軟な判断ができる理由：日経ビジネス電子版 https://business.nikkei.com/atcl/gen/19/00407/121600001/
+- 「昭和型組織」だと、もう危機は乗り越えられない理由：日経ビジネス電子版 https://business.nikkei.com/atcl/gen/19/00407/121600003/
+- 判断と決断の違いと決断のコツ - そーだいなるらくがき帳 https://soudai.hatenablog.com/entry/2022/01/04/151923
 
 ## メモ
 
