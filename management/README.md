@@ -254,6 +254,9 @@
 - エンジニアリングマネージャー必読の翻訳書 7選 - Yusuke Ando a.k.a yando https://yandod.github.io/blog/2021/12/08/tech-company-manager-book/
 - メルカリで築くエンジニアキャリア | メルカリエンジニアリング https://engineering.mercari.com/blog/entry/20211213-4b77715a44/
 - プログラマーとエンジニアリングマネージャと経営の交差点から https://qiita.com/yosuke_furukawa/items/09fbbf27c3af0508fb0c
+- 10年エンジニアリングマネージャーをやって気づいた4つの大事なポイント 【EMはもっと自由でいい】 - MonotaRO Tech Blog https://tech-blog.monotaro.com/entry/2021/12/22/090000
+- エムスリー執行役員VPoE兼PdMの山崎が、エンジニア、QA、デザイナー、プロダクトマネージャーにお薦めする良書7選 - エムスリーテックブログ https://www.m3tech.blog/entry/vpoe-book-review-2021
+- Engineering Managerの役割を無くしてみた - Akatsuki Hackers Lab | 株式会社アカツキ（Akatsuki Inc.) https://hackerslab.aktsk.jp/2021/12/22/070000
 
 ## メモ
 
