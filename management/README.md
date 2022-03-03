@@ -260,6 +260,9 @@
 - 上司の指示が少ない組織ほど柔軟な判断ができる理由：日経ビジネス電子版 https://business.nikkei.com/atcl/gen/19/00407/121600001/
 - 「昭和型組織」だと、もう危機は乗り越えられない理由：日経ビジネス電子版 https://business.nikkei.com/atcl/gen/19/00407/121600003/
 - 判断と決断の違いと決断のコツ - そーだいなるらくがき帳 https://soudai.hatenablog.com/entry/2022/01/04/151923
+- 大企業で出世する人の特徴 - Thoughts and Notes from NC https://ktdisk.hatenablog.com/entry/2022/01/17/045340
+- メンバーのモチベーション低下に向き合う（後編）：社内対立を魔法のように解消するフレームワーク | Coral Capital https://coralcap.co/2022/01/how-to-handle-a-motivation-problem-02/
+- 【松本勇気×芹澤雅人対談】SmartHR新CEO抜擢の決め手は「経営層プレゼンで語ったカルチャーへの思い」https://type.jp/et/feature/18429/
 
 ## メモ
 
