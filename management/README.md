@@ -263,6 +263,8 @@
 - 大企業で出世する人の特徴 - Thoughts and Notes from NC https://ktdisk.hatenablog.com/entry/2022/01/17/045340
 - メンバーのモチベーション低下に向き合う（後編）：社内対立を魔法のように解消するフレームワーク | Coral Capital https://coralcap.co/2022/01/how-to-handle-a-motivation-problem-02/
 - 【松本勇気×芹澤雅人対談】SmartHR新CEO抜擢の決め手は「経営層プレゼンで語ったカルチャーへの思い」https://type.jp/et/feature/18429/
+- 【LayerX松本勇気×SmartHR芹澤雅人】「エンジニア経営者の増加はパラダイムシフト」“技術者の特別扱い”が消えた先にあるものとは https://type.jp/et/feature/18437/
+- 経験豊富な外国人社員が、数年で日本企業を去ってしまう本当の理由 | サイボウズ式 https://cybozushiki.cybozu.co.jp/articles/m006007.html
 
 ## メモ
 
