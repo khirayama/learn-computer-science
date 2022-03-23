@@ -267,6 +267,7 @@
 - 経験豊富な外国人社員が、数年で日本企業を去ってしまう本当の理由 | サイボウズ式 https://cybozushiki.cybozu.co.jp/articles/m006007.html
 - 「この会社は詰んでます。潰れました」で気づいた“恥ずかしさ”　DeNA南場智子氏がエンジニアから学んだこと - ログミーTech https://logmi.jp/tech/articles/325823
 - GitLabで学んだ最高の働き方 Developers Summit 2022-02-18 https://learn.gitlab.com/c/gitlab-presentation-developers-summit?x=JBqxmQ&s=09
+- スタートアップ人事まとめ【後編】報酬・評価、就業規則、人材開発、多様性 | Coral Capital https://coralcap.co/2022/03/startup-hr-02/
 
 ## メモ
 
