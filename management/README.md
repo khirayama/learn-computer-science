@@ -269,6 +269,7 @@
 - GitLabで学んだ最高の働き方 Developers Summit 2022-02-18 https://learn.gitlab.com/c/gitlab-presentation-developers-summit?x=JBqxmQ&s=09
 - スタートアップ人事まとめ【後編】報酬・評価、就業規則、人材開発、多様性 | Coral Capital https://coralcap.co/2022/03/startup-hr-02/
 - 開発組織の持続可能性について https://speakerdeck.com/yosuke_furukawa/kai-fa-zu-zhi-falsechi-sok-ke-neng-xing-nituite
+- Mitra RamanさんはTwitterを使っています: 「Here’s the problem with 1:1s as an engineering manager: Most engineers don’t come to 1:1s with set agendas, so it turns into you talking for >30% of the time. 🤔 As an EM, how do you make the most of 1:1 time for your direct report?」 https://mobile.twitter.com/ramannoodlez/status/1492678565850189825
 
 ## メモ
 
