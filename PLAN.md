@@ -78,6 +78,7 @@
     - [x] [BLOG] [Kubernetesネットワーキング初級者脱出ガイド / Kubernetes networking beginner's guide - Speaker Deck](https://speakerdeck.com/inductor/kubernetes-networking-beginners-guide)
     - [x] [BLOG] [Web のセマンティクスにおける Push と Pull | blog.jxck.io](https://blog.jxck.io/entries/2021-12-08/web-semantics-push-and-pull.html)
     - [x] [BLOG] [ブラウザの上でブラウザを動かす | shinyaigeek.dev](https://shinyaigeek.dev/post/browser-on-browser/)
+    - [x] [BLOG] [アプリケーションエンジニアが知るべきDNSの基本/Basics_of_DNS_that_application_engineers_should_know - Speaker Deck](https://speakerdeck.com/mamy1326/basics-of-dns-that-application-engineers-should-know)
 - [x] ソフトウェア工学
   - [x] サービス作り
     - [x] [BLOG] [いいコミットメッセージの共通点と書き方〜便利なテンプレートやチーム開発時のお作法まで詳しく解説〜   | PrAhaENGINEERLAB](https://www.praha-inc.com/lab/posts/commit-message)
@@ -107,6 +108,7 @@
     - [x] [BLOG] [microfrontends/english.md at master · phodal/microfrontends](https://github.com/phodal/microfrontends/blob/master/english.md)
     - [x] [BLOG] [L7ロードバランサとL4ロードバランサ - SIerだけど技術やりたいブログ](https://www.kimullaa.com/entry/2019/12/01/135430)
     - [x] [BLOG] [グロースの逆説 : メルカリで分析とサービスグロースをやる前に知りたかったこと｜樫田光 | Hikaru Kashida｜note](https://note.com/hik0107/n/n91e296a409a9)
+    - [x] [BLOG] [Tao of Node - Design, Architecture & Best Practices | Alex Kondov - Software Engineer](https://alexkondov.com/tao-of-node/)
   - [ ] クリエイティブコーディング
     - [ ] [BLOG] [クリエイティブコーディングの教科書](https://zenn.dev/baroqueengine/books/a19140f2d9fc1a)
     - [ ] [BLOG] [Cours_Bordeaux_Montaigne/L2_2015_2016 at master · v3ga/Cours_Bordeaux_Montaigne](https://github.com/v3ga/Cours_Bordeaux_Montaigne/tree/master/L2_2015_2016)
